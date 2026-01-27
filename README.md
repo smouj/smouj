@@ -4,7 +4,7 @@
 
 ---
 
-<img width="1400" height="2575" alt="compatibilidad" src="https://github.com/user-attachments/assets/cd0f7a2b-8d04-4c8f-9ada-133b8337b597" />
+<img width="1440" height="3557" alt="dashboard-clawdbot" src="https://github.com/user-attachments/assets/f4ea3000-f1ed-49e9-8e89-bbaa0bd2a383" />
 
 ---
 
