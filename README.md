@@ -1,6 +1,6 @@
-# Clawdbot Gateway Manager (Dashboard Clawdbot)
+# Moltbot Gateway Manager (Dashboard Clawdbot)
 
-> **Aplicación de escritorio (Electron)** que funciona como centro de mando para **Clawdbot Gateway**: controla el estado del gateway, revisa logs, ajusta configuración y abre el panel web (`http://127.0.0.1:18789/`).
+> **Aplicación de escritorio (Electron)** que funciona como centro de mando para **Moltbot Gateway**: controla el estado del gateway, revisa logs, ajusta configuración y abre el panel web (`http://127.0.0.1:18789/`).
 
 ---
 
