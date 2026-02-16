@@ -3,7 +3,9 @@
   Perfil principal de GitHub | smouj
 -->
 
-<img width="288" height="288" alt="image" src="https://github.com/user-attachments/assets/a1d4890f-ca16-4d73-a630-e7c242af0d4b" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a1d4890f-ca16-4d73-a630-e7c242af0d4b" width="288" height="288" alt="SMOUJ013">
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=smouj;AI-Assisted+Developer;Orquestación+de+agentes+IA+seguros;Retro-futurismo+aplicado" alt="Typing SVG" />
