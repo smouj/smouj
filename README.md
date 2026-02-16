@@ -83,8 +83,14 @@ Actualmente, estoy usando y probando **OpenClaw**, un framework open-source para
 ## Actividad en GitHub
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=smouj&theme=radical&hide_border=true&border_radius=10&date_format=M+j%2C+Y)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://streak-stats.demolab.com?user=smouj&theme=radical&hide_border=true&border_radius=10&date_format=M+j%2C+Y" 
+      alt="GitHub Streak" 
+    />
+  </a>
 </div>
+
 ---
 
 ## Conecta conmigo
