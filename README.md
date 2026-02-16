@@ -76,20 +76,26 @@ Actualmente, estoy usando y probando **OpenClaw**, un framework open-source para
   <img src="https://img.shields.io/badge/Seguridad-FF2D55?style=for-the-badge&logo=shield&logoColor=white" />
 </div>
 
-**Otros**: Tailwind CSS, WebSockets, Docker, GitHub Actions, Ollama (para LLMs locales).
+**Otros**: Tailwind CSS, WebSockets, Docker, GitHub Actions, Ollama (para LLMs locales), Go.
 
 ---
 
 ## Contribuciones y actividad
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smouj&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smouj&theme=dracula&hide_border=true" alt="Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=smouj&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smouj&theme=dracula&hide_border=true&date_format=M%20j%2C%20Y" alt="Streak Stats" width="49%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smouj&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 - **943 contribuciones** en el último año (pico en febrero 2026).
-- Repositorios activos: 25 públicos, con foco en IA y web.
-- Lenguajes principales: JavaScript (15 repos), Python (3), TypeScript (3).
+- Repositorios activos: 28 públicos, con foco en IA y web.
+- Lenguajes principales: JavaScript (15+ repos), Python (3), TypeScript (3), Go (reciente).
 
 ---
 
