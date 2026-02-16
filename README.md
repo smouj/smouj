@@ -80,22 +80,18 @@ Actualmente, estoy usando y probando **OpenClaw**, un framework open-source para
 
 ---
 
-## Contribuciones y actividad
+## Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smouj&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smouj&theme=dracula&hide_border=true&date_format=M%20j%2C%20Y" alt="Streak Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=smouj&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=10" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=smouj&theme=radical&hide_border=true&date_format=M%20j%2C%20Y&border_radius=10" alt="Streak Stats" width="49%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smouj&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smouj&layout=compact&theme=radical&hide_border=true&langs_count=8&border_radius=10" alt="Top Languages" />
 </div>
-
-- **943 contribuciones** en el último año (pico en febrero 2026).
-- Repositorios activos: 28 públicos, con foco en IA y web.
-- Lenguajes principales: JavaScript (15+ repos), Python (3), TypeScript (3), Go (reciente).
 
 ---
 
