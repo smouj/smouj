@@ -85,7 +85,6 @@ Actualmente, estoy usando y probando **OpenClaw**, un framework open-source para
 <div align="center">
   [![GitHub Streak](https://streak-stats.demolab.com?user=smouj&theme=radical&hide_border=true&border_radius=10&date_format=M+j%2C+Y)](https://git.io/streak-stats)
 </div>
-
 ---
 
 ## Conecta conmigo
