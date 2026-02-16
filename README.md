@@ -36,12 +36,14 @@
 
 ## Sobre mí
 
-Soy **smouj**, un desarrollador asistido por IA con sede en Europa. Mi trabajo se centra en la creación de ecosistemas de agentes autónomos, priorizando **seguridad zero-trust**, **orquestación multi-agente** y **diseños retro-futuristas** inspirados en la cultura de videojuegos clásicos como *Metal Gear Solid*.
+Soy **smouj**, un desarrollador asistido por IA con sede en Europa. Estoy profundamente interesado en el mundo de la programación, la inteligencia artificial, el desarrollo de videojuegos y aplicaciones.
 
-Actualmente, estoy liderando el desarrollo de **OpenClaw**, un framework open-source para agentes de IA que combina ejecución local, integración con LLMs avanzados y herramientas modulares. Mi filosofía: hacer que la IA sea poderosa, auditable y accesible, sin comprometer la privacidad ni la seguridad.
+Mi enfoque se centra en la exploración de sistemas multi-agente de IA, priorizando **seguridad zero-trust**, **orquestación autónoma** y **diseños retro-futuristas** inspirados en la cultura de videojuegos clásicos como *Metal Gear Solid*.
 
-- **Enfoque actual**: Agentes locales (Peanut Agent), dashboards de mando (ClawDesk) y experiencias inmersivas como RPGCLAW (MMORPG de agentes IA).
-- **Principios**: Least privilege, auditoría completa, interfaces intuitivas y código abierto.
+Actualmente, estoy usando y probando **OpenClaw**, un framework open-source para agentes de IA, junto con otros proyectos personales en IA y desarrollo. Mi filosofía: hacer que la tecnología sea poderosa, auditable y accesible, sin comprometer la privacidad ni la seguridad.
+
+- **Intereses**: Programación creativa, agentes autónomos, videojuegos inmersivos y herramientas de productividad con IA.
+- **Principios**: Código abierto, interfaces intuitivas y experimentación constante.
 
 ---
 
