@@ -1,287 +1,102 @@
-# Moltbot Gateway Manager (Dashboard Clawdbot)
+<!-- 
+  smouj/README.md
+  Perfil principal de GitHub | smouj
+-->
 
-> **Aplicación de escritorio (Electron)** que funciona como centro de mando para **Moltbot Gateway**: controla el estado del gateway, revisa logs, ajusta configuración y abre el panel web (`http://127.0.0.1:18789/`).
+<img width="288" height="288" alt="image" src="https://github.com/user-attachments/assets/a1d4890f-ca16-4d73-a630-e7c242af0d4b" />
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=smouj;AI-Assisted+Developer;Orquestación+de+agentes+IA+seguros;Retro-futurismo+aplicado" alt="Typing SVG" />
 
-<img width="1440" height="3557" alt="dashboard-clawdbot" src="https://github.com/user-attachments/assets/f4ea3000-f1ed-49e9-8e89-bbaa0bd2a383" />
+  <br><br>
 
----
+  <p>
+    <strong>Desarrollador especializado en sistemas multi-agente de IA, con enfoque en seguridad, orquestación autónoma y interfaces innovadoras.</strong>
+  </p>
 
-## 📚 Tabla de contenidos
+  <div>
+    <a href="https://www.rpgclaw.com">
+      <img src="https://img.shields.io/badge/Website-rpgclaw.com-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+    </a>
+    <a href="https://x.com/smouj013">
+      <img src="https://img.shields.io/badge/X-@smouj013-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    </a>
+    <img src="https://img.shields.io/badge/Europe-🇪🇺-0077B6?style=for-the-badge" alt="Location" />
+  </div>
 
-- [Visión general](#-visión-general)
-- [Características principales](#-características-principales)
-- [Arquitectura rápida](#-arquitectura-rápida)
-- [Requisitos](#-requisitos)
-- [Instalación para usuarios finales](#-instalación-para-usuarios-finales)
-- [Instalación para desarrolladores](#-instalación-para-desarrolladores)
-- [Comandos útiles](#-comandos-útiles)
-- [Actualización del repositorio](#-actualización-del-repositorio)
-- [Generar build / instalador](#-generar-build--instalador)
-- [Configuración](#-configuración)
-- [Solución de problemas](#-solución-de-problemas)
-- [Seguridad](#-seguridad)
-- [Licencia](#-licencia)
+  <br>
 
----
-
-## 🧭 Visión general
-
-Clawdbot Gateway Manager es una **app de escritorio multiplataforma** (Windows, macOS, Linux) que **no reemplaza** a Clawdbot, sino que lo **orquesta y supervisa**. La app se encarga de:
-
-1) Ejecutar comandos de Clawdbot (localmente o a través de WSL).  
-2) Leer/escribir la configuración del Gateway.  
-3) Mostrar estado, métricas y logs de forma centralizada.  
+  [![GitHub followers](https://img.shields.io/github/followers/smouj?style=social&label=Seguidores)](https://github.com/smouj?tab=followers)
+  [![Contributions](https://img.shields.io/badge/Contribuciones-943+en+el+año-00C853?style=flat-square)](https://github.com/smouj?tab=overview&from=2025-02-01&to=2026-02-16)
+</div>
 
 ---
 
-## ✅ Características principales
+## Sobre mí
 
-- **Control del gateway**: iniciar, detener y reiniciar.
-- **Logs en vivo** con filtros/exportación.
-- **Editor de configuración JSON** con validación.
-- **Monitor de CPU/memoria** (con fallback si `ps` no existe).
-- **Apertura del dashboard del gateway** en ventana integrada o navegador.
-- **Terminal integrada** (WSL en Windows).
+Soy **smouj**, un desarrollador asistido por IA con sede en Europa. Mi trabajo se centra en la creación de ecosistemas de agentes autónomos, priorizando **seguridad zero-trust**, **orquestación multi-agente** y **diseños retro-futuristas** inspirados en la cultura de videojuegos clásicos como *Metal Gear Solid*.
 
----
+Actualmente, estoy liderando el desarrollo de **OpenClaw**, un framework open-source para agentes de IA que combina ejecución local, integración con LLMs avanzados y herramientas modulares. Mi filosofía: hacer que la IA sea poderosa, auditable y accesible, sin comprometer la privacidad ni la seguridad.
 
-## 🧩 Arquitectura rápida
-
-- **Clawdbot Gateway** corre en tu sistema (o en WSL si estás en Windows).
-- **Dashboard Clawdbot** (esta app) se conecta al gateway y lo administra.
-- **Interfaz web del gateway** disponible en `http://127.0.0.1:18789/`.
+- **Enfoque actual**: Agentes locales (Peanut Agent), dashboards de mando (ClawDesk) y experiencias inmersivas como RPGCLAW (MMORPG de agentes IA).
+- **Principios**: Least privilege, auditoría completa, interfaces intuitivas y código abierto.
 
 ---
 
-## 📦 Requisitos
+## Proyectos destacados
 
-### Usuario final (Windows recomendado)
-- Windows 10/11.
-- WSL instalado (opcional, recomendado si Clawdbot corre en Linux/WSL).
+| Repositorio | Descripción | Tecnologías principales | Enlace |
+|-------------|-------------|--------------------------|--------|
+| **[openclaw-mgs-codec](https://github.com/smouj/openclaw-mgs-codec)** | Dashboard multi-agente inspirado en el CODEC de *Metal Gear Solid*. Interfaz retro-futurista con CRT phosphor, 6 agentes especializados (orquestador, shell, browser, etc.) y integración con PicoClaw para ejecución real. | Python, FastAPI, React, MongoDB, WebSocket | [Ver repo](https://github.com/smouj/openclaw-mgs-codec) |
+| **[landing-rpgclaw](https://github.com/smouj/landing-rpgclaw)** | Landing page pixel-art para RPGCLAW, un MMORPG de agentes IA. Incluye stats en tiempo real, i18n (ES/EN), SEO y animaciones suaves. | Next.js 14, TypeScript, Tailwind CSS, Pixel Icons | [Ver repo](https://github.com/smouj/landing-rpgclaw) • [Demo](https://rpgclaw.com) |
+| **[essentials-skill-openclaw](https://github.com/smouj/essentials-skill-openclaw)** | Paquete de skills esenciales para OpenClaw, con énfasis en seguridad (mínimos permisos, auditoría y sandboxing). Organizado por categorías como productividad, DevOps y creatividad. | AgentSkills, Python/JS | [Ver repo](https://github.com/smouj/essentials-skill-openclaw) |
+| **[openclaw-desk](https://github.com/smouj/openclaw-desk)** | ClawDesk: Panel web profesional para gestionar agentes OpenClaw. Interfaz limpia y moderna para monitoreo y control. | JavaScript, React | [Ver repo](https://github.com/smouj/openclaw-desk) |
+| **[PEANUT-AGENT](https://github.com/smouj/PEANUT-AGENT)** | Agente IA local que optimiza modelos pequeños para rendir como grandes. Enfoque en ejecución autónoma y bajo costo. | Python, Local LLMs | [Ver repo](https://github.com/smouj/PEANUT-AGENT) |
+| **[loquendo-app](https://github.com/smouj/loquendo-app)** | PWA para narración TTS estilo Loquendo: grabación de pestaña, efectos de audio, render de vídeo con subtítulos. | JavaScript, Web Speech API, PWA | [Ver repo](https://github.com/smouj/loquendo-app) |
 
-### Desarrollador
-- **Node.js v18+** (v22 recomendado).
-- **pnpm** (o npm, aunque pnpm es recomendado).
-- **Git**.
-- **Clawdbot CLI** instalado (en WSL o local, según tu entorno).
-
----
-
-## 🧑‍💻 Instalación para usuarios finales
-
-### ✅ Opción 1 — Instalador (Setup .exe)
-1. Ve a **Releases**.
-2. Descarga el instalador correcto para tu arquitectura:
-   - **64 bits (x64)**: `Clawdbot Dashboard Setup X.Y.Z-x64.exe`
-   - **32 bits (ia32)**: `Clawdbot Dashboard Setup X.Y.Z-ia32.exe`
-3. Ejecuta el instalador.
-
-> Si descargas el instalador equivocado, Windows mostrará el mensaje  
-> “No se puede ejecutar esta aplicación en el equipo”.
-
-> En releases recientes también verás archivos como `latest.yml` y `.blockmap`.  
-> **Como usuario final**, normalmente solo necesitas el **Setup .exe**.
-
-### ✅ Opción 2 — Portable/ZIP (si existe)
-1. Descarga el ZIP portable.
-2. Descomprime.
-3. Ejecuta la app.
+**Ecosistema principal**: Todos los proyectos orbitan alrededor de **OpenClaw** (ver [openclaw.ai](https://openclaw.ai) y [docs.openclaw.ai](https://docs.openclaw.ai)).
 
 ---
 
-## 🛠️ Instalación para desarrolladores
+## Stack tecnológico
 
-### 1) Clonar el repositorio
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-FF6B00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seguridad-FF2D55?style=for-the-badge&logo=shield&logoColor=white" />
+</div>
 
-```bash
-git clone https://github.com/Ojete-Blog/dashboard-clawdbot.git
-cd dashboard-clawdbot
-```
-
-### 2) Instalar dependencias
-
-```bash
-pnpm install
-```
-
-> También puedes usar `npm install`, pero el repo está optimizado para `pnpm`.
-
-### 3) Ejecutar en modo desarrollo
-
-```bash
-pnpm start
-```
-
-### 4) Depurar (modo dev)
-
-```bash
-pnpm run dev
-```
+**Otros**: Tailwind CSS, WebSockets, Docker, GitHub Actions, Ollama (para LLMs locales).
 
 ---
 
-## ⚡ Comandos útiles
+## Contribuciones y actividad
 
-> Ejecuta estos comandos **desde la raíz del repositorio**.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=smouj&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smouj&theme=dracula&hide_border=true" alt="Streak Stats" width="48%" />
+</div>
 
-| Tarea | Comando |
-|------|---------|
-| Instalar dependencias | `pnpm install` |
-| Modo desarrollo | `pnpm start` |
-| Modo dev (Electron) | `pnpm run dev` |
-| Build (instalador) | `pnpm build` |
-| Ver scripts disponibles | `pnpm run` |
-
----
-
-## 🔄 Actualización del repositorio
-
-### ✅ Si clonaste con Git (recomendado)
-
-```bash
-git status
-git pull
-pnpm install
-```
-
-Si tienes cambios locales que bloquean el pull:
-
-```bash
-git stash -u
-git pull
-pnpm install
-```
-
-Para recuperar cambios:
-
-```bash
-git stash pop
-```
-
-### ⚠️ Si descargaste como ZIP (sin `.git`)
-
-- No puedes hacer `git pull`.
-- Recomendación: **clonar nuevamente** el repo con Git.
+- **943 contribuciones** en el último año (pico en febrero 2026).
+- Repositorios activos: 25 públicos, con foco en IA y web.
+- Lenguajes principales: JavaScript (15 repos), Python (3), TypeScript (3).
 
 ---
 
-## 🏗️ Generar build / instalador
+## Conecta conmigo
 
-```bash
-pnpm build
-```
-
-### Salidas generadas
-
-- **Windows:** `dist/setup/` (instalador `.exe`)
-- **Linux:** `.deb` y `AppImage`
-- **macOS:** `.dmg`
+- **Sitio web**: [rpgclaw.com](https://www.rpgclaw.com) – Explora RPGCLAW y OpenClaw.
+- **X (Twitter)**: [@smouj013](https://x.com/smouj013) – Actualizaciones diarias sobre agentes IA.
+- **Email**: Disponible vía perfil de GitHub.
 
 ---
 
-## ⚙️ Configuración
-
-### 1) Configuración del Gateway (Clawdbot)
-
-Ruta típica en Linux/WSL:
-
-```bash
-~/.clawdbot/clawdbot.json
-```
-
-> En Windows puedes acceder a WSL con:  
-> `\\wsl$\<TuDistro>\home\<TuUsuario>\...`
-
-### 2) Configuración de la app
-
-Archivo principal:
-
-```text
-config.json
-```
-
-Valores destacados (ejemplo):
-
-```json
-{
-  "gatewayPort": 18789,
-  "gatewayHost": "127.0.0.1",
-  "useWslConfig": true,
-  "wslDistro": "Ubuntu-24.04",
-  "selectedProfile": "default"
-}
-```
-
-### 3) Variables de entorno soportadas
-
-```text
-CLAWDBOT_GATEWAY_PORT=18789
-CLAWDBOT_GATEWAY_HOST=127.0.0.1
-CLAWDBOT_CONFIG_PATH=/ruta/a/clawdbot.json
-CLAWDBOT_APP_ICON=C:\ruta\a\icono.ico
-```
-
----
-
-## 🧯 Solución de problemas
-
-### ❌ No abre `http://127.0.0.1:18789/`
-
-En WSL:
-
-```bash
-clawdbot gateway status
-```
-
-Si no está corriendo:
-
-```bash
-clawdbot gateway restart
-```
-
----
-
-### ❌ “clawdbot no se reconoce…”
-
-- Si Clawdbot está en WSL, asegúrate de que la app esté configurada en modo WSL/bridge.
-- Verifica en WSL:
-
-```bash
-which clawdbot
-clawdbot status
-```
-
----
-
-### ❌ Rebuild roto después de actualizar Node o dependencias
-
-En PowerShell (Windows):
-
-```powershell
-rd /s /q node_modules
-del pnpm-lock.yaml
-pnpm store prune
-pnpm install
-pnpm build
-```
-
----
-
-## 🔐 Seguridad
-
-- Mantén el gateway en **localhost** siempre que sea posible.
-- Si necesitas acceso remoto, usa un túnel privado (por ejemplo **Tailscale**) en lugar de abrir puertos públicos.
-
----
-
-## 📄 Licencia
-
-MIT
-
----
-
-## 🔗 Repositorio oficial
-
-https://github.com/Ojete-Blog/dashboard-clawdbot
+<div align="center">
+  <sub>Hecho con 🤖 + 🥜 + ☕ • Última actualización: febrero 2026</sub>
+</div>
