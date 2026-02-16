@@ -86,8 +86,6 @@ Actualmente, estoy usando y probando **OpenClaw**, un framework open-source para
   [![GitHub Streak](https://streak-stats.demolab.com?user=smouj&theme=radical&hide_border=true&border_radius=10&date_format=M+j%2C+Y)](https://git.io/streak-stats)
 </div>
 
-https://github-readme-stats-fast.vercel.app/api?username=smouj&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=10
-
 ---
 
 ## Conecta conmigo
