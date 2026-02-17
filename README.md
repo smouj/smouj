@@ -50,7 +50,7 @@
 
 I am **smouj**, an AI-assisted developer based in Europe. I am deeply interested in the world of programming, artificial intelligence, video game development and applications.
 
-My focus is on exploring multi-agent AI systems, prioritizing **zero-trust security**, **autonomous orchestration** and **retro-futuristic designs** inspired by classic video game culture like *Metal Gear Solid*.
+My focus is on multi-agent **AI** systems, with strong emphasis on zero-trust security, autonomous orchestration, and retro-futuristic design aesthetics.
 
 Currently, I am using and testing **OpenClaw**, an open-source framework for AI agents, along with other personal projects in AI and development. My philosophy: making technology powerful, auditable and accessible, without compromising privacy or security.
 
