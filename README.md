@@ -1,13 +1,12 @@
 <h1 align="center">smouj — Architect of Autonomous SuperAgents</h1>
 
 <p align="center">
-  <img src="https://github.com/smouj.png?size=180" alt="smouj avatar" width="140" style="border-radius:50%;" />
+  <img src="https://github.com/smouj.png?size=220" alt="smouj avatar" width="140" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/smouj/smouj/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License"></a>
-  <img src="https://img.shields.io/badge/focus-local--first%20AI-blue" alt="Focus">
-  <img src="https://img.shields.io/badge/stack-open--source-purple" alt="Stack">
+  <a href="#english"><img src="https://img.shields.io/badge/README-English-1f6feb?style=for-the-badge" alt="English"></a>
+  <a href="#español"><img src="https://img.shields.io/badge/README-Español-c92a2a?style=for-the-badge" alt="Español"></a>
 </p>
 
 <p align="center">
@@ -16,75 +15,75 @@
 
 ---
 
-## 🇬🇧 English
+## English
 
 Building a mythical ecosystem of modular AI skills: **local-first, powerful, and 100% open-source**.
 
-### The smouj Universe (February 2026)
+### Skills Universe (February 2026)
 
-| Emoji | Skill | Repository | Short description | Status |
+| Emoji | Skill | Repository | Purpose | Status |
 |---|---|---|---|---|
-| 🜂 | Velktharion | https://github.com/smouj/Velktharion | Autonomous browser with persistent operational memory | Initiating |
-| 🜁 | Synapsara | https://github.com/smouj/Synapsara | Intelligent multi-source personal RAG core | Initiating |
-| 🜃 | Kryonexus | https://github.com/smouj/Kryonexus | Hybrid ultra-decisive retrieval and ranking engine | Initiating |
-| 🌑 | Noctumbra-Mail | https://github.com/smouj/Noctumbra-Mail | Stealth zero-touch email orchestration | Initiating |
-| 🕰️ | Temporaeth | https://github.com/smouj/Temporaeth | Predictive schedule and planning weaver | Initiating |
-| 🏛️ | Vaeloryn-Conclave | https://github.com/smouj/Vaeloryn-Conclave | Collaborative multi-agent strategic council | Initiating |
-| 🔥 | Ignivox | https://github.com/smouj/Ignivox | Code forge that revives legacy projects | Initiating |
-| 🔮 | Auralith | https://github.com/smouj/Auralith | Vital metrics oracle and signal intelligence | Initiating |
-| 🎙️ | Resonvyr | https://github.com/smouj/Resonvyr | Voice-to-task automation alchemist | Initiating |
-| ⚙️ | Fluxenrath | https://github.com/smouj/Fluxenrath | Automagic workflow and orchestration forge | Initiating |
+| 🜂 | Velktharion | [smouj/Velktharion](https://github.com/smouj/Velktharion) | Autonomous browser with persistent memory | Initiating |
+| 🜁 | Synapsara | [smouj/Synapsara](https://github.com/smouj/Synapsara) | Multi-source personal RAG intelligence | Initiating |
+| 🜃 | Kryonexus | [smouj/Kryonexus](https://github.com/smouj/Kryonexus) | Hybrid retrieval and ranking engine | Initiating |
+| 🌑 | Noctumbra-Mail | [smouj/Noctumbra-Mail](https://github.com/smouj/Noctumbra-Mail) | Zero-touch email orchestration | Initiating |
+| 🕰️ | Temporaeth | [smouj/Temporaeth](https://github.com/smouj/Temporaeth) | Predictive agenda and planning | Initiating |
+| 🏛️ | Vaeloryn-Conclave | [smouj/Vaeloryn-Conclave](https://github.com/smouj/Vaeloryn-Conclave) | Collaborative multi-agent council | Initiating |
+| 🔥 | Ignivox | [smouj/Ignivox](https://github.com/smouj/Ignivox) | Legacy code revival forge | Initiating |
+| 🔮 | Auralith | [smouj/Auralith](https://github.com/smouj/Auralith) | Metrics oracle and signal intelligence | Initiating |
+| 🎙️ | Resonvyr | [smouj/Resonvyr](https://github.com/smouj/Resonvyr) | Voice-to-task automation | Initiating |
+| ⚙️ | Fluxenrath | [smouj/Fluxenrath](https://github.com/smouj/Fluxenrath) | Workflow automation forge | Initiating |
+
+### Core Projects
+
+| Project | Repository | Description | Stage |
+|---|---|---|---|
+| FlickClaw SaaS | [smouj/flickclaw-saas](https://github.com/smouj/flickclaw-saas) | AI video/content SaaS platform | Active |
+| RPGCLAW | [smouj/RPGCLAW](https://github.com/smouj/RPGCLAW) | Online RPG platform and systems | Maintenance |
+| MGS | _Pending repository link_ | Strategic game/automation project | Planning |
+| Peanut | _Pending repository link_ | Experimental product line | Planning |
 
 ### Philosophy
 - Local-first by design
-- Total privacy whenever possible
+- Privacy-first operations
 - Open models over lock-in
 - No mandatory paid APIs
 
-Each skill is modular and can run standalone or as part of a coordinated superagent architecture.
-
-### How to collaborate
-1. Pick one skill from the universe
-2. Open an issue with your idea or bug report
-3. Submit a PR with clear scope and validation notes
-
-Wild ideas are welcome. Stars and forks are deeply appreciated.
-
 ---
 
-## 🇪🇸 Español
+## Español
 
-Estoy construyendo un ecosistema mítico de skills de IA modulares: **local-first, potentes y 100% open-source**.
+Construyendo un ecosistema mítico de skills de IA modulares: **local-first, potente y 100% open-source**.
 
-### Universo smouj (Febrero 2026)
+### Universo de Skills (Febrero 2026)
 
-| Emoji | Skill | Repositorio | Descripción corta | Estado |
+| Emoji | Skill | Repositorio | Propósito | Estado |
 |---|---|---|---|---|
-| 🜂 | Velktharion | https://github.com/smouj/Velktharion | Navegador autónomo con memoria operativa persistente | Iniciando |
-| 🜁 | Synapsara | https://github.com/smouj/Synapsara | Núcleo RAG personal inteligente multi-fuente | Iniciando |
-| 🜃 | Kryonexus | https://github.com/smouj/Kryonexus | Motor híbrido de búsqueda y ranking ultra-decisor | Iniciando |
-| 🌑 | Noctumbra-Mail | https://github.com/smouj/Noctumbra-Mail | Orquestación sigilosa de correo zero-touch | Iniciando |
-| 🕰️ | Temporaeth | https://github.com/smouj/Temporaeth | Tejedor predictivo de agenda y prioridades | Iniciando |
-| 🏛️ | Vaeloryn-Conclave | https://github.com/smouj/Vaeloryn-Conclave | Consejo estratégico colaborativo multi-agente | Iniciando |
-| 🔥 | Ignivox | https://github.com/smouj/Ignivox | Forja de código que revive proyectos legacy | Iniciando |
-| 🔮 | Auralith | https://github.com/smouj/Auralith | Oráculo de métricas y señales operativas | Iniciando |
-| 🎙️ | Resonvyr | https://github.com/smouj/Resonvyr | Alquimista de voz a tareas automatizadas | Iniciando |
-| ⚙️ | Fluxenrath | https://github.com/smouj/Fluxenrath | Forjador de flujos y automatizaciones automágicas | Iniciando |
+| 🜂 | Velktharion | [smouj/Velktharion](https://github.com/smouj/Velktharion) | Navegador autónomo con memoria persistente | Iniciando |
+| 🜁 | Synapsara | [smouj/Synapsara](https://github.com/smouj/Synapsara) | Inteligencia RAG personal multi-fuente | Iniciando |
+| 🜃 | Kryonexus | [smouj/Kryonexus](https://github.com/smouj/Kryonexus) | Motor híbrido de búsqueda y ranking | Iniciando |
+| 🌑 | Noctumbra-Mail | [smouj/Noctumbra-Mail](https://github.com/smouj/Noctumbra-Mail) | Orquestación de correo zero-touch | Iniciando |
+| 🕰️ | Temporaeth | [smouj/Temporaeth](https://github.com/smouj/Temporaeth) | Planificación y agenda predictiva | Iniciando |
+| 🏛️ | Vaeloryn-Conclave | [smouj/Vaeloryn-Conclave](https://github.com/smouj/Vaeloryn-Conclave) | Consejo colaborativo multi-agente | Iniciando |
+| 🔥 | Ignivox | [smouj/Ignivox](https://github.com/smouj/Ignivox) | Forja para revivir código legacy | Iniciando |
+| 🔮 | Auralith | [smouj/Auralith](https://github.com/smouj/Auralith) | Oráculo de métricas y señales | Iniciando |
+| 🎙️ | Resonvyr | [smouj/Resonvyr](https://github.com/smouj/Resonvyr) | Automatización de voz a tareas | Iniciando |
+| ⚙️ | Fluxenrath | [smouj/Fluxenrath](https://github.com/smouj/Fluxenrath) | Forja de flujos automáticos | Iniciando |
+
+### Proyectos Principales
+
+| Proyecto | Repositorio | Descripción | Fase |
+|---|---|---|---|
+| FlickClaw SaaS | [smouj/flickclaw-saas](https://github.com/smouj/flickclaw-saas) | Plataforma SaaS de vídeo/contenido con IA | Activo |
+| RPGCLAW | [smouj/RPGCLAW](https://github.com/smouj/RPGCLAW) | Plataforma RPG online y sistemas de juego | Mantenimiento |
+| MGS | _Enlace de repositorio pendiente_ | Proyecto estratégico de juego/automatización | Planificación |
+| Peanut | _Enlace de repositorio pendiente_ | Línea de producto experimental | Planificación |
 
 ### Filosofía
 - Local-first por diseño
-- Privacidad total siempre que sea posible
-- Modelos abiertos antes que lock-in
+- Privacidad primero
+- Modelos abiertos por encima de lock-in
 - Sin APIs de pago obligatorias
-
-Cada skill es modular y puede usarse sola o como parte de una arquitectura de superagentes coordinados.
-
-### Cómo colaborar
-1. Elige una skill del universo
-2. Abre un issue con tu idea o bug
-3. Envía un PR con alcance claro y validación
-
-Las ideas locas son bienvenidas. Stars y forks se agradecen mucho.
 
 ---
 
