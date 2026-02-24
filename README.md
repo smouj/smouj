@@ -53,4 +53,4 @@ Building a mythical ecosystem of modular AI skills: **local-first, powerful, and
 - No mandatory paid APIs
 
 ## License
-MIT © 2026 smouj
+MIT © 2026 **by:** [@Smouj013](https://x.com/smouj013)
