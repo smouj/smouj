@@ -36,6 +36,8 @@ Building a mythical ecosystem of modular AI skills: **local-first, powerful, and
 
 | Project | Repository | Description | Stage |
 |---|---|---|---|
+| Alchemical Agent Ecosystem | [smouj/alchemical-agent-ecosystem](https://github.com/smouj/alchemical-agent-ecosystem) | Local-first multi-agent ecosystem (gateway + dashboard + SSE + RAM profiles) | Active |
+| GitHub Alchemy Master | [smouj/githubalchemymaster](https://github.com/smouj/githubalchemymaster) | Repo quality/maintainer skill toolkit (governance, CI, docs) | Active |
 | Peanut Agent | [smouj/peanut-agent](https://github.com/smouj/peanut-agent) | Autonomous agent project (public) | Active |
 | OpenClaw MGS Codec | [smouj/openclaw-mgs-codec](https://github.com/smouj/openclaw-mgs-codec) | MGS-style codec system for OpenClaw (public) | Active |
 
