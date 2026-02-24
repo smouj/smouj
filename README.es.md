@@ -31,7 +31,7 @@ Construyendo un ecosistema mítico de skills de IA modulares: **local-first, pot
 | 🔮 | Auralith | [smouj/Auralith](https://github.com/smouj/Auralith) | Oráculo de métricas y señales | Iniciando |
 | 🎙️ | Resonvyr | [smouj/Resonvyr](https://github.com/smouj/Resonvyr) | Automatización de voz a tareas | Iniciando |
 | ⚙️ | Fluxenrath | [smouj/Fluxenrath](https://github.com/smouj/Fluxenrath) | Forja de flujos automáticos | Iniciando |
-| 🧪 | gitmancer | [smouj/gitmancer](https://github.com/smouj/gitmancer) | Skill para calidad y mantenimiento profesional de repos GitHub | Iniciando |
+| 🧪 | Gitmancer | [smouj/Gitmancer](https://github.com/smouj/Gitmancer) | Skill para calidad y mantenimiento profesional de repos GitHub | Iniciando |
 
 ## Proyectos Públicos
 

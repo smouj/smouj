@@ -31,7 +31,7 @@ Building a mythical ecosystem of modular AI skills: **local-first, powerful, and
 | 🔮 | Auralith | [smouj/Auralith](https://github.com/smouj/Auralith) | Metrics oracle and signal intelligence | Initiating |
 | 🎙️ | Resonvyr | [smouj/Resonvyr](https://github.com/smouj/Resonvyr) | Voice-to-task automation | Initiating |
 | ⚙️ | Fluxenrath | [smouj/Fluxenrath](https://github.com/smouj/Fluxenrath) | Workflow automation forge | Initiating |
-| 🧪 | gitmancer | [smouj/gitmancer](https://github.com/smouj/gitmancer) | GitHub repository quality and maintainer forge skill | Initiating |
+| 🧪 | Gitmancer | [smouj/Gitmancer](https://github.com/smouj/Gitmancer) | GitHub repository quality and maintainer forge skill | Initiating |
 
 ## Public Projects
 
