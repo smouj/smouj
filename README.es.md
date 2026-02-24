@@ -31,13 +31,13 @@ Construyendo un ecosistema mítico de skills de IA modulares: **local-first, pot
 | 🔮 | Auralith | [smouj/Auralith](https://github.com/smouj/Auralith) | Oráculo de métricas y señales | Iniciando |
 | 🎙️ | Resonvyr | [smouj/Resonvyr](https://github.com/smouj/Resonvyr) | Automatización de voz a tareas | Iniciando |
 | ⚙️ | Fluxenrath | [smouj/Fluxenrath](https://github.com/smouj/Fluxenrath) | Forja de flujos automáticos | Iniciando |
+| 🧪 | gitmancer | [smouj/gitmancer](https://github.com/smouj/gitmancer) | Skill para calidad y mantenimiento profesional de repos GitHub | Iniciando |
 
 ## Proyectos Públicos
 
 | Proyecto | Repositorio | Descripción | Fase |
 |---|---|---|---|
 | Alchemical Agent Ecosystem | [smouj/alchemical-agent-ecosystem](https://github.com/smouj/alchemical-agent-ecosystem) | Ecosistema multiagente local-first (gateway + dashboard + SSE + perfiles RAM) | Activo |
-| GitHub Alchemy Master | [smouj/githubalchemymaster](https://github.com/smouj/githubalchemymaster) | Toolkit/skill para calidad de repos (gobernanza, CI, documentación) | Activo |
 | Peanut Agent | [smouj/peanut-agent](https://github.com/smouj/peanut-agent) | Proyecto de agente autónomo (público) | Activo |
 | OpenClaw MGS Codec | [smouj/openclaw-mgs-codec](https://github.com/smouj/openclaw-mgs-codec) | Sistema tipo codec MGS para OpenClaw (público) | Activo |
 
