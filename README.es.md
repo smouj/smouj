@@ -19,22 +19,22 @@ Construyendo un ecosistema mítico de skills de IA modulares: **local-first, pot
 
 ## Skills by smouj
 
-| Emoji | Skill | Repositorio | Propósito (resumen) | Estado | Dificultad | Potencial |
-|-------|------------------|-------------------------|------------------------------------------------------------------------------------|------------|--------------|----------------------------|
-| 🛡️ | Aegis Veil | [smouj/Aegis-Veil](https://github.com/smouj/Aegis-Veil) | Escudo anti-prompt-injection y skill-poisoning con sandboxing. | Iniciando | Media-Alta | Add-on premium de seguridad |
-| 🔄 | Phoenix Reborn | [smouj/Phoenix-Reborn](https://github.com/smouj/Phoenix-Reborn) | Auto-recuperación post-fallo con meta-learning ligero. | Iniciando | Alta | Refuerzo de resiliencia |
-| 🧬 | Genome Weaver | [smouj/Genome-Weaver](https://github.com/smouj/Genome-Weaver) | Evolución darwiniana de variantes de skills y selección automática. | Iniciando | Alta | Marketplace de evoluciones |
-| 🌑 | Shadow Ledger | [smouj/Shadow-Ledger](https://github.com/smouj/Shadow-Ledger) | Auditoría local cifrada de prompts/acciones/datos sin fugas. | Iniciando | Media | Gobernanza enterprise |
-| ⚡ | Flux Capacitor | [smouj/Flux-Capacitor](https://github.com/smouj/Flux-Capacitor) | Optimizador de compute para predecir y reducir coste de tokens. | Iniciando | Media-Alta | Packs de ahorro |
-| 🧠 | Mirror Council | [smouj/Mirror-Council](https://github.com/smouj/Mirror-Council) | Consejo multi-agente interno sin exponer datos a externos. | Iniciando | Alta | Modo consejo premium |
+| Emoji | Skill Name | Repository | Purpose (summary) | Status | Difficulty | Potential |
+|---|---|---|---|---|---|---|
 | 🔍 | Abyss Scanner | [smouj/Abyss-Scanner](https://github.com/smouj/Abyss-Scanner) | Escáner OSINT/deep-surface stealth con anti-fingerprinting. | Iniciando | Muy Alta | Suscripción high-risk |
-| 📜 | Codex Eternal | [smouj/Codex-Eternal](https://github.com/smouj/Codex-Eternal) | Memoria semántica de largo plazo con embeddings comprimidos + RAG local. | Iniciando | Media-Alta | Memoria ilimitada |
+| 🛡️ | Aegis Veil | [smouj/Aegis-Veil](https://github.com/smouj/Aegis-Veil) | Escudo anti-prompt-injection y skill-poisoning con sandboxing. | Iniciando | Media-Alta | Add-on premium de seguridad |
 | 🧪 | Alchemurgist | [smouj/Alchemurgist](https://github.com/smouj/Alchemurgist) | Transmutador de formatos legacy (PDF escaneado/docs antiguos) a markdown/JSON. | Iniciando | Media | Suite de resurrección de datos |
 | ⏳ | Chrono Ward | [smouj/Chrono-Ward](https://github.com/smouj/Chrono-Ward) | Detector de drift temporal en tareas repetitivas con re-planificación proactiva. | Iniciando | Media | Motor de alertas proactivas |
-| 🩹 | Vuln Warden | [smouj/Vuln-Warden](https://github.com/smouj/Vuln-Warden) | Triaje de vulnerabilidades en dependencias y parcheo seguro con ejecución rollback-first. | Iniciando | Media | Acelerador de mantenimiento de seguridad |
+| 📜 | Codex Eternal | [smouj/Codex-Eternal](https://github.com/smouj/Codex-Eternal) | Memoria semántica de largo plazo con embeddings comprimidos + RAG local. | Iniciando | Media-Alta | Memoria ilimitada |
+| ⚡ | Flux Capacitor | [smouj/Flux-Capacitor](https://github.com/smouj/Flux-Capacitor) | Optimizador de compute para predecir y reducir coste de tokens. | Iniciando | Media-Alta | Packs de ahorro |
+| 🧬 | Genome Weaver | [smouj/Genome-Weaver](https://github.com/smouj/Genome-Weaver) | Evolución darwiniana de variantes de skills y selección automática. | Iniciando | Alta | Marketplace de evoluciones |
+| 🧠 | Mirror Council | [smouj/Mirror-Council](https://github.com/smouj/Mirror-Council) | Consejo multi-agente interno sin exponer datos a externos. | Iniciando | Alta | Modo consejo premium |
+| 🔄 | Phoenix Reborn | [smouj/Phoenix-Reborn](https://github.com/smouj/Phoenix-Reborn) | Auto-recuperación post-fallo con meta-learning ligero. | Iniciando | Alta | Refuerzo de resiliencia |
 | 🧾 | Provenance Guard | [smouj/Provenance-Guard](https://github.com/smouj/Provenance-Guard) | Integridad de cadena de suministro: SBOM, verificación de procedencia y gates de release. | Iniciando | Media-Alta | Acelerador de compliance y confianza |
-
+| 🌑 | Shadow Ledger | [smouj/Shadow-Ledger](https://github.com/smouj/Shadow-Ledger) | Auditoría local cifrada de prompts/acciones/datos sin fugas. | Iniciando | Media | Gobernanza enterprise |
+| 📡 | Signal Bastion | [smouj/Signal-Bastion](https://github.com/smouj/Signal-Bastion) | Guardrails de mensajería saliente segura con redacción y validación de destino. | Iniciando | Media | Baseline de seguridad en mensajería |
 | 🔐 | Vault Sentry | [smouj/Vault-Sentry](https://github.com/smouj/Vault-Sentry) | Detección y triaje de fuga de secretos con remediación rollback-first. | Iniciando | Media | Endurecimiento de operaciones de seguridad |
+| 🩹 | Vuln Warden | [smouj/Vuln-Warden](https://github.com/smouj/Vuln-Warden) | Triaje de vulnerabilidades en dependencias y parcheo seguro con ejecución rollback-first. | Iniciando | Media | Acelerador de mantenimiento de seguridad |
 
 ## Proyectos Públicos
 
