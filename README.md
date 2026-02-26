@@ -56,3 +56,19 @@ Building a mythical ecosystem of modular AI skills: **local-first, powerful, and
 
 ## License
 MIT © 2026 **by:** [@Smouj013](https://x.com/smouj013)
+
+## OpenClaw Skills by smouj
+
+| Emoji | Skill Name | Repository | Purpose (resumido) | Status | Dificultad | Potencial |
+|-------|------------------|-------------------------|------------------------------------------------------------------------------------|------------|--------------|----------------------------|
+| 🛡️ | Aegis Veil | [smouj/Aegis-Veil](https://github.com/smouj/Aegis-Veil) | Escudo anti-prompt-injection y skill poisoning. Detecta y sandboxea riesgos. | Initiating | Media-Alta | Premium security add-on |
+| 🔄 | Phoenix Reborn | [smouj/Phoenix-Reborn](https://github.com/smouj/Phoenix-Reborn) | Auto-resurrección y evolución post-fallo con meta-learning ligero. | Initiating | Alta | Boost de inmortalidad |
+| 🧬 | Genome Weaver | [smouj/Genome-Weaver](https://github.com/smouj/Genome-Weaver) | Evolución darwiniana: genera, prueba y selecciona variantes de skills. | Initiating | Alta | Marketplace evoluciones |
+| 🌑 | Shadow Ledger | [smouj/Shadow-Ledger](https://github.com/smouj/Shadow-Ledger) | Auditoría encriptada local total (acciones, prompts, datos) sin leaks. | Initiating | Media | Versión enterprise |
+| ⚡ | Flux Capacitor | [smouj/Flux-Capacitor](https://github.com/smouj/Flux-Capacitor) | Optimizador de compute: predice y reduce costos tokens 30-60%. | Initiating | Media-Alta | Créditos ahorro packs |
+| 🪞 | Mirror Council | [smouj/Mirror-Council](https://github.com/smouj/Mirror-Council) | Multi-agente interno para debate sin exponer datos externos. | Initiating | Alta | Modo consejo sabio premium |
+| 🔍 | Abyss Scanner | [smouj/Abyss-Scanner](https://github.com/smouj/Abyss-Scanner) | Navegación stealth deep web / OSINT sin fingerprint. | Initiating | Muy Alta | Suscripción high-risk |
+| 📜 | Codex Eternal | [smouj/Codex-Eternal](https://github.com/smouj/Codex-Eternal) | Memoria semántica eterna con embeddings comprimidos y RAG local. | Initiating | Media-Alta | Memoria ilimitada |
+| 🧪 | Alchemurgist | [smouj/Alchemurgist](https://github.com/smouj/Alchemurgist) | Transmuta formatos legacy (PDF escaneados, Word viejo) a markdown/JSON usable. | Initiating | Media | Resurrección datos |
+| ⏳ | Chrono Ward | [smouj/Chrono-Ward](https://github.com/smouj/Chrono-Ward) | Detecta drift temporal en tareas repetitivas y fuerza re-planificación. | Initiating | Media | Alertas proactivas premium |
+
