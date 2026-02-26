@@ -26,7 +26,7 @@ Construyendo un ecosistema mítico de skills de IA modulares: **local-first, pot
 | 🧬 | Genome Weaver | [smouj/Genome-Weaver](https://github.com/smouj/Genome-Weaver) | Evolución darwiniana de variantes de skills y selección automática. | Iniciando | Alta | Marketplace de evoluciones |
 | 🌑 | Shadow Ledger | [smouj/Shadow-Ledger](https://github.com/smouj/Shadow-Ledger) | Auditoría local cifrada de prompts/acciones/datos sin fugas. | Iniciando | Media | Gobernanza enterprise |
 | ⚡ | Flux Capacitor | [smouj/Flux-Capacitor](https://github.com/smouj/Flux-Capacitor) | Optimizador de compute para predecir y reducir coste de tokens. | Iniciando | Media-Alta | Packs de ahorro |
-| 🪞 | Mirror Council | [smouj/Mirror-Council](https://github.com/smouj/Mirror-Council) | Consejo multi-agente interno sin exponer datos a externos. | Iniciando | Alta | Modo consejo premium |
+| 🧠 | Mirror Council | [smouj/Mirror-Council](https://github.com/smouj/Mirror-Council) | Consejo multi-agente interno sin exponer datos a externos. | Iniciando | Alta | Modo consejo premium |
 | 🔍 | Abyss Scanner | [smouj/Abyss-Scanner](https://github.com/smouj/Abyss-Scanner) | Escáner OSINT/deep-surface stealth con anti-fingerprinting. | Iniciando | Muy Alta | Suscripción high-risk |
 | 📜 | Codex Eternal | [smouj/Codex-Eternal](https://github.com/smouj/Codex-Eternal) | Memoria semántica de largo plazo con embeddings comprimidos + RAG local. | Iniciando | Media-Alta | Memoria ilimitada |
 | 🧪 | Alchemurgist | [smouj/Alchemurgist](https://github.com/smouj/Alchemurgist) | Transmutador de formatos legacy (PDF escaneado/docs antiguos) a markdown/JSON. | Iniciando | Media | Suite de resurrección de datos |
