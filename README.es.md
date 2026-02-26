@@ -17,7 +17,7 @@
 
 Construyendo un ecosistema mítico de skills de IA modulares: **local-first, potente y 100% open-source**.
 
-## OpenClaw Skills by smouj
+## Skills by smouj
 
 | Emoji | Skill | Repositorio | Propósito (resumen) | Estado | Dificultad | Potencial |
 |-------|------------------|-------------------------|------------------------------------------------------------------------------------|------------|--------------|----------------------------|
