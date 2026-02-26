@@ -34,6 +34,8 @@ Building a mythical ecosystem of modular AI skills: **local-first, powerful, and
 | 🩹 | Vuln Warden | [smouj/Vuln-Warden](https://github.com/smouj/Vuln-Warden) | Dependency vulnerability triage and safe patch planning with rollback-first execution. | Initiating | Medium | Security maintenance accelerator |
 | 🧾 | Provenance Guard | [smouj/Provenance-Guard](https://github.com/smouj/Provenance-Guard) | Supply-chain integrity: SBOM generation, provenance verification, and release gating. | Initiating | Medium-High | Compliance and trust accelerator |
 
+| 🔐 | Vault Sentry | [smouj/Vault-Sentry](https://github.com/smouj/Vault-Sentry) | Secret leak detection, triage and rollback-first remediation planning. | Initiating | Medium | Security operations hardening |
+
 ## Public Projects
 
 | Project | Repository | Description | Stage |
