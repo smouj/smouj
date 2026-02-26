@@ -36,6 +36,8 @@ Building a mythical ecosystem of modular AI skills: **local-first, powerful, and
 
 | 🔐 | Vault Sentry | [smouj/Vault-Sentry](https://github.com/smouj/Vault-Sentry) | Secret leak detection, triage and rollback-first remediation planning. | Initiating | Medium | Security operations hardening |
 
+| 📈 | SLO Warden | [smouj/SLO-Warden](https://github.com/smouj/SLO-Warden) | SLO burn-rate incident triage and rollback-first decision playbooks. | Initiating | Medium-High | Reliability and incident response accelerator |
+
 ## Public Projects
 
 | Project | Repository | Description | Stage |

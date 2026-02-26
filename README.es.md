@@ -59,3 +59,5 @@ Construyendo un ecosistema mítico de skills de IA modulares: **local-first, pot
 
 ## Licencia
 MIT © 2026 smouj
+
+| 📈 | SLO Warden | [smouj/SLO-Warden](https://github.com/smouj/SLO-Warden) | SLO burn-rate incident triage and rollback-first decision playbooks. | Initiating | Medium-High | Reliability and incident response accelerator |
