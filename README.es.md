@@ -31,6 +31,7 @@ Construyendo un ecosistema mítico de skills de IA modulares: **local-first, pot
 | 📜 | Codex Eternal | [smouj/Codex-Eternal](https://github.com/smouj/Codex-Eternal) | Memoria semántica de largo plazo con embeddings comprimidos + RAG local. | Iniciando | Media-Alta | Memoria ilimitada |
 | 🧪 | Alchemurgist | [smouj/Alchemurgist](https://github.com/smouj/Alchemurgist) | Transmutador de formatos legacy (PDF escaneado/docs antiguos) a markdown/JSON. | Iniciando | Media | Suite de resurrección de datos |
 | ⏳ | Chrono Ward | [smouj/Chrono-Ward](https://github.com/smouj/Chrono-Ward) | Detector de drift temporal en tareas repetitivas con re-planificación proactiva. | Iniciando | Media | Motor de alertas proactivas |
+| 🩹 | Vuln Warden | [smouj/Vuln-Warden](https://github.com/smouj/Vuln-Warden) | Triaje de vulnerabilidades en dependencias y parcheo seguro con ejecución rollback-first. | Iniciando | Media | Acelerador de mantenimiento de seguridad |
 
 ## Proyectos Públicos
 

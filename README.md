@@ -31,6 +31,7 @@ Building a mythical ecosystem of modular AI skills: **local-first, powerful, and
 | 📜 | Codex Eternal | [smouj/Codex-Eternal](https://github.com/smouj/Codex-Eternal) | Long-term semantic memory with compressed embeddings + local RAG. | Initiating | Medium-High | Unlimited memory tier |
 | 🧪 | Alchemurgist | [smouj/Alchemurgist](https://github.com/smouj/Alchemurgist) | Legacy format transmuter (scanned PDFs, old docs) to markdown/JSON. | Initiating | Medium | Data resurrection suite |
 | ⏳ | Chrono Ward | [smouj/Chrono-Ward](https://github.com/smouj/Chrono-Ward) | Temporal drift detector for recurring tasks with proactive re-planning. | Initiating | Medium | Proactive alert engine |
+| 🩹 | Vuln Warden | [smouj/Vuln-Warden](https://github.com/smouj/Vuln-Warden) | Dependency vulnerability triage and safe patch planning with rollback-first execution. | Initiating | Medium | Security maintenance accelerator |
 
 ## Public Projects
 
