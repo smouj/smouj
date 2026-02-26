@@ -33,9 +33,7 @@ Building a mythical ecosystem of modular AI skills: **local-first, powerful, and
 | ⏳ | Chrono Ward | [smouj/Chrono-Ward](https://github.com/smouj/Chrono-Ward) | Temporal drift detector for recurring tasks with proactive re-planning. | Initiating | Medium | Proactive alert engine |
 | 🩹 | Vuln Warden | [smouj/Vuln-Warden](https://github.com/smouj/Vuln-Warden) | Dependency vulnerability triage and safe patch planning with rollback-first execution. | Initiating | Medium | Security maintenance accelerator |
 | 🧾 | Provenance Guard | [smouj/Provenance-Guard](https://github.com/smouj/Provenance-Guard) | Supply-chain integrity: SBOM generation, provenance verification, and release gating. | Initiating | Medium-High | Compliance and trust accelerator |
-
 | 🔐 | Vault Sentry | [smouj/Vault-Sentry](https://github.com/smouj/Vault-Sentry) | Secret leak detection, triage and rollback-first remediation planning. | Initiating | Medium | Security operations hardening |
-
 | 📈 | SLO Warden | [smouj/SLO-Warden](https://github.com/smouj/SLO-Warden) | SLO burn-rate incident triage and rollback-first decision playbooks. | Initiating | Medium-High | Reliability and incident response accelerator |
 
 ## Public Projects
@@ -61,4 +59,3 @@ Building a mythical ecosystem of modular AI skills: **local-first, powerful, and
 
 ## License
 MIT © 2026 **by:** [@Smouj013](https://x.com/smouj013)
-
