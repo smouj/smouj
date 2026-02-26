@@ -34,6 +34,8 @@ Construyendo un ecosistema mítico de skills de IA modulares: **local-first, pot
 | 🩹 | Vuln Warden | [smouj/Vuln-Warden](https://github.com/smouj/Vuln-Warden) | Triaje de vulnerabilidades en dependencias y parcheo seguro con ejecución rollback-first. | Iniciando | Media | Acelerador de mantenimiento de seguridad |
 | 🧾 | Provenance Guard | [smouj/Provenance-Guard](https://github.com/smouj/Provenance-Guard) | Integridad de cadena de suministro: SBOM, verificación de procedencia y gates de release. | Iniciando | Media-Alta | Acelerador de compliance y confianza |
 
+| 🔐 | Vault Sentry | [smouj/Vault-Sentry](https://github.com/smouj/Vault-Sentry) | Detección y triaje de fuga de secretos con remediación rollback-first. | Iniciando | Media | Endurecimiento de operaciones de seguridad |
+
 ## Proyectos Públicos
 
 | Proyecto | Repositorio | Descripción | Fase |
