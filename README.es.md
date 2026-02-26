@@ -32,6 +32,7 @@ Construyendo un ecosistema mítico de skills de IA modulares: **local-first, pot
 | 🧪 | Alchemurgist | [smouj/Alchemurgist](https://github.com/smouj/Alchemurgist) | Transmutador de formatos legacy (PDF escaneado/docs antiguos) a markdown/JSON. | Iniciando | Media | Suite de resurrección de datos |
 | ⏳ | Chrono Ward | [smouj/Chrono-Ward](https://github.com/smouj/Chrono-Ward) | Detector de drift temporal en tareas repetitivas con re-planificación proactiva. | Iniciando | Media | Motor de alertas proactivas |
 | 🩹 | Vuln Warden | [smouj/Vuln-Warden](https://github.com/smouj/Vuln-Warden) | Triaje de vulnerabilidades en dependencias y parcheo seguro con ejecución rollback-first. | Iniciando | Media | Acelerador de mantenimiento de seguridad |
+| 🧾 | Provenance Guard | [smouj/Provenance-Guard](https://github.com/smouj/Provenance-Guard) | Integridad de cadena de suministro: SBOM, verificación de procedencia y gates de release. | Iniciando | Media-Alta | Acelerador de compliance y confianza |
 
 ## Proyectos Públicos
 
