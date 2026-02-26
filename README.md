@@ -26,7 +26,7 @@ Building a mythical ecosystem of modular AI skills: **local-first, powerful, and
 | 🧬 | Genome Weaver | [smouj/Genome-Weaver](https://github.com/smouj/Genome-Weaver) | Darwinian evolution engine for skill variants and selection. | Initiating | High | Evolution marketplace |
 | 🌑 | Shadow Ledger | [smouj/Shadow-Ledger](https://github.com/smouj/Shadow-Ledger) | Encrypted local audit trail for prompts/actions/data with zero leak policy. | Initiating | Medium | Enterprise governance |
 | ⚡ | Flux Capacitor | [smouj/Flux-Capacitor](https://github.com/smouj/Flux-Capacitor) | Compute optimizer for token/cost prediction and savings. | Initiating | Medium-High | Cost optimization packs |
-| 🪞 | Mirror Council | [smouj/Mirror-Council](https://github.com/smouj/Mirror-Council) | Internal multi-agent debate/consensus without external data exposure. | Initiating | High | Premium council mode |
+| 🧠 | Mirror Council | [smouj/Mirror-Council](https://github.com/smouj/Mirror-Council) | Internal multi-agent debate/consensus without external data exposure. | Initiating | High | Premium council mode |
 | 🔍 | Abyss Scanner | [smouj/Abyss-Scanner](https://github.com/smouj/Abyss-Scanner) | Stealth OSINT/deep-surface scanner with anti-fingerprinting methods. | Initiating | Very High | High-risk subscription tier |
 | 📜 | Codex Eternal | [smouj/Codex-Eternal](https://github.com/smouj/Codex-Eternal) | Long-term semantic memory with compressed embeddings + local RAG. | Initiating | Medium-High | Unlimited memory tier |
 | 🧪 | Alchemurgist | [smouj/Alchemurgist](https://github.com/smouj/Alchemurgist) | Legacy format transmuter (scanned PDFs, old docs) to markdown/JSON. | Initiating | Medium | Data resurrection suite |
