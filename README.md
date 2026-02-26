@@ -17,21 +17,20 @@
 
 Building a mythical ecosystem of modular AI skills: **local-first, powerful, and 100% open-source**.
 
-## Skills Universe (February 2026)
+## OpenClaw Skills by smouj
 
-| Emoji | Skill | Repository | Purpose | Status |
-|---|---|---|---|---|
-| 🜂 | Velktharion | [smouj/Velktharion](https://github.com/smouj/Velktharion) | Autonomous browser with persistent memory | Initiating |
-| 🜁 | Synapsara | [smouj/Synapsara](https://github.com/smouj/Synapsara) | Multi-source personal RAG intelligence | Initiating |
-| 🜃 | Kryonexus | [smouj/Kryonexus](https://github.com/smouj/Kryonexus) | Hybrid retrieval and ranking engine | Initiating |
-| 🌑 | Noctumbra-Mail | [smouj/Noctumbra-Mail](https://github.com/smouj/Noctumbra-Mail) | Zero-touch email orchestration | Initiating |
-| 🕰️ | Temporaeth | [smouj/Temporaeth](https://github.com/smouj/Temporaeth) | Predictive agenda and planning | Initiating |
-| 🏛️ | Vaeloryn-Conclave | [smouj/Vaeloryn-Conclave](https://github.com/smouj/Vaeloryn-Conclave) | Collaborative multi-agent council | Initiating |
-| 🔥 | Ignivox | [smouj/Ignivox](https://github.com/smouj/Ignivox) | Legacy code revival forge | Initiating |
-| 🔮 | Auralith | [smouj/Auralith](https://github.com/smouj/Auralith) | Metrics oracle and signal intelligence | Initiating |
-| 🎙️ | Resonvyr | [smouj/Resonvyr](https://github.com/smouj/Resonvyr) | Voice-to-task automation | Initiating |
-| ⚙️ | Fluxenrath | [smouj/Fluxenrath](https://github.com/smouj/Fluxenrath) | Workflow automation forge | Initiating |
-| 🧪 | Gitmancer | [smouj/Gitmancer](https://github.com/smouj/Gitmancer) | GitHub repository quality and maintainer forge skill | Initiating |
+| Emoji | Skill Name | Repository | Purpose (summary) | Status | Difficulty | Potential |
+|-------|------------------|-------------------------|------------------------------------------------------------------------------------|------------|--------------|----------------------------|
+| 🛡️ | Aegis Veil | [smouj/Aegis-Veil](https://github.com/smouj/Aegis-Veil) | Prompt-injection and skill-poisoning shield with sandboxing controls. | Initiating | Medium-High | Premium security add-on |
+| 🔄 | Phoenix Reborn | [smouj/Phoenix-Reborn](https://github.com/smouj/Phoenix-Reborn) | Post-failure self-recovery with lightweight meta-learning loops. | Initiating | High | Resilience booster |
+| 🧬 | Genome Weaver | [smouj/Genome-Weaver](https://github.com/smouj/Genome-Weaver) | Darwinian evolution engine for skill variants and selection. | Initiating | High | Evolution marketplace |
+| 🌑 | Shadow Ledger | [smouj/Shadow-Ledger](https://github.com/smouj/Shadow-Ledger) | Encrypted local audit trail for prompts/actions/data with zero leak policy. | Initiating | Medium | Enterprise governance |
+| ⚡ | Flux Capacitor | [smouj/Flux-Capacitor](https://github.com/smouj/Flux-Capacitor) | Compute optimizer for token/cost prediction and savings. | Initiating | Medium-High | Cost optimization packs |
+| 🪞 | Mirror Council | [smouj/Mirror-Council](https://github.com/smouj/Mirror-Council) | Internal multi-agent debate/consensus without external data exposure. | Initiating | High | Premium council mode |
+| 🔍 | Abyss Scanner | [smouj/Abyss-Scanner](https://github.com/smouj/Abyss-Scanner) | Stealth OSINT/deep-surface scanner with anti-fingerprinting methods. | Initiating | Very High | High-risk subscription tier |
+| 📜 | Codex Eternal | [smouj/Codex-Eternal](https://github.com/smouj/Codex-Eternal) | Long-term semantic memory with compressed embeddings + local RAG. | Initiating | Medium-High | Unlimited memory tier |
+| 🧪 | Alchemurgist | [smouj/Alchemurgist](https://github.com/smouj/Alchemurgist) | Legacy format transmuter (scanned PDFs, old docs) to markdown/JSON. | Initiating | Medium | Data resurrection suite |
+| ⏳ | Chrono Ward | [smouj/Chrono-Ward](https://github.com/smouj/Chrono-Ward) | Temporal drift detector for recurring tasks with proactive re-planning. | Initiating | Medium | Proactive alert engine |
 
 ## Public Projects
 
@@ -56,19 +55,4 @@ Building a mythical ecosystem of modular AI skills: **local-first, powerful, and
 
 ## License
 MIT © 2026 **by:** [@Smouj013](https://x.com/smouj013)
-
-## OpenClaw Skills by smouj
-
-| Emoji | Skill Name | Repository | Purpose (resumido) | Status | Dificultad | Potencial |
-|-------|------------------|-------------------------|------------------------------------------------------------------------------------|------------|--------------|----------------------------|
-| 🛡️ | Aegis Veil | [smouj/Aegis-Veil](https://github.com/smouj/Aegis-Veil) | Escudo anti-prompt-injection y skill poisoning. Detecta y sandboxea riesgos. | Initiating | Media-Alta | Premium security add-on |
-| 🔄 | Phoenix Reborn | [smouj/Phoenix-Reborn](https://github.com/smouj/Phoenix-Reborn) | Auto-resurrección y evolución post-fallo con meta-learning ligero. | Initiating | Alta | Boost de inmortalidad |
-| 🧬 | Genome Weaver | [smouj/Genome-Weaver](https://github.com/smouj/Genome-Weaver) | Evolución darwiniana: genera, prueba y selecciona variantes de skills. | Initiating | Alta | Marketplace evoluciones |
-| 🌑 | Shadow Ledger | [smouj/Shadow-Ledger](https://github.com/smouj/Shadow-Ledger) | Auditoría encriptada local total (acciones, prompts, datos) sin leaks. | Initiating | Media | Versión enterprise |
-| ⚡ | Flux Capacitor | [smouj/Flux-Capacitor](https://github.com/smouj/Flux-Capacitor) | Optimizador de compute: predice y reduce costos tokens 30-60%. | Initiating | Media-Alta | Créditos ahorro packs |
-| 🪞 | Mirror Council | [smouj/Mirror-Council](https://github.com/smouj/Mirror-Council) | Multi-agente interno para debate sin exponer datos externos. | Initiating | Alta | Modo consejo sabio premium |
-| 🔍 | Abyss Scanner | [smouj/Abyss-Scanner](https://github.com/smouj/Abyss-Scanner) | Navegación stealth deep web / OSINT sin fingerprint. | Initiating | Muy Alta | Suscripción high-risk |
-| 📜 | Codex Eternal | [smouj/Codex-Eternal](https://github.com/smouj/Codex-Eternal) | Memoria semántica eterna con embeddings comprimidos y RAG local. | Initiating | Media-Alta | Memoria ilimitada |
-| 🧪 | Alchemurgist | [smouj/Alchemurgist](https://github.com/smouj/Alchemurgist) | Transmuta formatos legacy (PDF escaneados, Word viejo) a markdown/JSON usable. | Initiating | Media | Resurrección datos |
-| ⏳ | Chrono Ward | [smouj/Chrono-Ward](https://github.com/smouj/Chrono-Ward) | Detecta drift temporal en tareas repetitivas y fuerza re-planificación. | Initiating | Media | Alertas proactivas premium |
 
