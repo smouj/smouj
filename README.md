@@ -67,6 +67,7 @@
 
 | Icon | Skill | Repository | Purpose | Status | Difficulty | Potential |
 |:------:|:------|:-----------|:--------|:------:|:----------:|:---------:|
+| 🧠 | **Threat Detect** | [smouj/threat-detect-skill](https://github.com/smouj/threat-detect-skill) | Detect security threats in real-time | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 
 ---
 
