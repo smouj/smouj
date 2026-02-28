@@ -67,6 +67,7 @@
 
 | Icon | Skill | Repository | Purpose | Status | Difficulty | Potential |
 |:------:|:------|:-----------|:--------|:------:|:----------:|:---------:|
+| 🚀 | **Data Prep** | [smouj/data-prep-skill](https://github.com/smouj/data-prep-skill) | Prepare and clean data for machine learning | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 | 🧠 | **Api Generator** | [smouj/api-generator-skill](https://github.com/smouj/api-generator-skill) | Generate REST/GraphQL APIs | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 | 🧠 | **Threat Detect** | [smouj/threat-detect-skill](https://github.com/smouj/threat-detect-skill) | Detect security threats in real-time | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 
