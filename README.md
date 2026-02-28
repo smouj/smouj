@@ -67,10 +67,34 @@
 
 | Icon | Skill | Repository | Purpose | Status | Difficulty | Potential |
 |:------:|:------|:-----------|:--------|:------:|:----------:|:---------:|
-| 🎯 | **Container Orch** | [smouj/container-orch-skill](https://github.com/smouj/container-orch-skill) | Manage Kubernetes and Docker container deployments | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
-| 🚀 | **Data Prep** | [smouj/data-prep-skill](https://github.com/smouj/data-prep-skill) | Prepare and clean data for machine learning | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
-| 🧠 | **Api Generator** | [smouj/api-generator-skill](https://github.com/smouj/api-generator-skill) | Generate REST/GraphQL APIs | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
-| 🧠 | **Threat Detect** | [smouj/threat-detect-skill](https://github.com/smouj/threat-detect-skill) | Detect security threats in real-time | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
+| 🎯 | **Abyss Scanner** | [smouj/abyss-scanner-skill](https://github.com/smouj/abyss-scanner-skill) | OSINT reconnaissance | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
+| 🛡️ | **Aegis Veil** | [smouj/aegis-veil-skill](https://github.com/smouj/aegis-veil-skill) | Security hardening | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
+| 🧪 | **Alchemurgist** | [smouj/alchemurgist-skill](https://github.com/smouj/alchemurgist-skill) | Data transformation | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
+| ⏳ | **Chrono Ward** | [smouj/chrono-ward-skill](https://github.com/smouj/chrono-ward-skill) | Planning and scheduling | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
+| 📜 | **Codex Eternal** | [smouj/codex-eternal-skill](https://github.com/smouj/codex-eternal-skill) | Memory and knowledge | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
+| ⚡ | **Flux Capacitor** | [smouj/flux-capacitor-skill](https://github.com/smouj/flux-capacitor-skill) | Performance optimization | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
+| 🧬 | **Genome Weaver** | [smouj/genome-weaver-skill](https://github.com/smouj/genome-weaver-skill) | Evolutionary design | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
+| 🧠 | **Mirror Council** | [smouj/mirror-council-skill](https://github.com/smouj/mirror-council-skill) | Multi-agent deliberation | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
+| 🔄 | **Phoenix Reborn** | [smouj/phoenix-reborn-skill](https://github.com/smouj/phoenix-reborn-skill) | Reliability and recovery | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
+| 🧾 | **Provenance Guard** | [smouj/provenance-guard-skill](https://github.com/smouj/provenance-guard-skill) | Supply chain security | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
+| 📈 | **Slo Warden** | [smouj/slo-warden-skill](https://github.com/smouj/slo-warden-skill) | SLO monitoring | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
+| 🌑 | **Shadow Ledger** | [smouj/shadow-ledger-skill](https://github.com/smouj/shadow-ledger-skill) | Audit and traceability | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
+| 🔐 | **Vault Sentry** | [smouj/vault-sentry-skill](https://github.com/smouj/vault-sentry-skill) | Secret management | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
+| 🩹 | **Vuln Warden** | [smouj/vuln-warden-skill](https://github.com/smouj/vuln-warden-skill) | Vulnerability management | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
+| 🚀 | **Cloud Deploy** | [smouj/cloud-deploy-skill](https://github.com/smouj/cloud-deploy-skill) | Cloud deployment | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
+| 💾 | **Db Optimize** | [smouj/db-optimize-skill](https://github.com/smouj/db-optimize-skill) | Database optimization | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
+| 🔍 | **Seo Audit** | [smouj/seo-audit-skill](https://github.com/smouj/seo-audit-skill) | SEO auditing | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
+| 📊 | **Log Analyze** | [smouj/log-analyze-skill](https://github.com/smouj/log-analyze-skill) | Log analysis | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
+| 💰 | **Backup Manager** | [smouj/backup-manager-skill](https://github.com/smouj/backup-manager-skill) | Backup management | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
+| 🛡️ | **Security Scan** | [smouj/security-scan-skill](https://github.com/smouj/security-scan-skill) | Security scanning | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
+| 🧪 | **Test Gen** | [smouj/test-gen-skill](https://github.com/smouj/test-gen-skill) | Test generation | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
+| 📋 | **Api Docs** | [smouj/api-docs-skill](https://github.com/smouj/api-docs-skill) | API documentation | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
+| ⚙️ | **Ci Cd Pipeline** | [smouj/ci-cd-pipeline-skill](https://github.com/smouj/ci-cd-pipeline-skill) | CI/CD pipeline | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
+| 🎯 | **Threat Detect** | [smouj/threat-detect-skill](https://github.com/smouj/threat-detect-skill) | Threat detection | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
+| 🧠 | **Api Generator** | [smouj/api-generator-skill](https://github.com/smouj/api-generator-skill) | API generation | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
+| 📊 | **Data Prep** | [smouj/data-prep-skill](https://github.com/smouj/data-prep-skill) | Data preparation | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
+| 🐳 | **Container Orch** | [smouj/container-orch-skill](https://github.com/smouj/container-orch-skill) | Container orchestration | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
+
 
 ---
 
