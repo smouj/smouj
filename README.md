@@ -67,6 +67,7 @@
 
 | Icon | Skill | Repository | Purpose | Status | Difficulty | Potential |
 |:------:|:------|:-----------|:--------|:------:|:----------:|:---------:|
+| 💡 | **Ci Cd Pipeline** | [smouj/ci-cd-pipeline-skill](https://github.com/smouj/ci-cd-pipeline-skill) | Build continuous integration pipelines | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 | 🎯 | **api-docs-skill** | [smouj/api-docs-skill](https://github.com/smouj/api-docs-skill) | Generates API documentation | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 | 🔍 | **Abyss Scanner** | [smouj/Abyss-Scanner](https://github.com/smouj/Abyss-Scanner) | Stealth OSINT/deep-surface scanner with anti-fingerprinting methods | ![Initiating](https://img.shields.io/badge/Initiating-f59e0b?style=flat-square) | 🔴 Very High | High-risk subscription tier |
 | 🛡️ | **Aegis Veil** | [smouj/Aegis-Veil](https://github.com/smouj/Aegis-Veil) | Prompt-injection and skill-poisoning shield with sandboxing controls | ![Initiating](https://img.shields.io/badge/Initiating-f59e0b?style=flat-square) | 🟠 Medium-High | Premium security add-on |
