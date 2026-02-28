@@ -67,6 +67,7 @@
 
 | Icon | Skill | Repository | Purpose | Status | Difficulty | Potential |
 |:------:|:------|:-----------|:--------|:------:|:----------:|:---------:|
+| 🔍 | **Prompt Engineer** | [smouj/prompt-engineer-skill](https://github.com/smouj/prompt-engineer-skill) | Optimize and test AI prompts for best results | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 | 🔧 | **Code Refactor** | [smouj/code-refactor-skill](https://github.com/smouj/code-refactor-skill) | Refactor and improve code quality | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 | 🎯 | **Abyss Scanner** | [smouj/abyss-scanner-skill](https://github.com/smouj/abyss-scanner-skill) | OSINT reconnaissance | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 | 🛡️ | **Aegis Veil** | [smouj/aegis-veil-skill](https://github.com/smouj/aegis-veil-skill) | Security hardening | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
