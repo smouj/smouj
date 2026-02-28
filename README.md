@@ -85,6 +85,13 @@
 | 📈 | **SLO Warden** | [smouj/SLO-Warden](https://github.com/smouj/SLO-Warden) | SLO burn-rate incident triage and rollback-first decision playbooks | ![Initiating](https://img.shields.io/badge/Initiating-f59e0b?style=flat-square) | 🟠 Medium-High | Reliability & incident response |
 | 🔐 | **Vault Sentry** | [smouj/Vault-Sentry](https://github.com/smouj/Vault-Sentry) | Secret leak detection, triage and rollback-first remediation planning | ![Initiating](https://img.shields.io/badge/Initiating-f59e0b?style=flat-square) | 🟡 Medium | Security operations hardening |
 | 🩹 | **Vuln Warden** | [smouj/Vuln-Warden](https://github.com/smouj/Vuln-Warden) | Dependency vulnerability triage and safe patch planning with rollback-first execution | ![Initiating](https://img.shields.io/badge/Initiating-f59e0b?style=flat-square) | 🟡 Medium | Security maintenance accelerator |
+| 🚀 | **Cloud Deploy** | [smouj/cloud-deploy-skill](https://github.com/smouj/cloud-deploy-skill) | Deploys applications to cloud providers | ![Initiating](https://img.shields.io/badge/Initiating-f59e0b?style=flat-square) | 🟡 Medium | High |
+| 💾 | **DB Optimize** | [smouj/db-optimize-skill](https://github.com/smouj/db-optimize-skill) | Optimizes PostgreSQL queries | ![Initiating](https://img.shields.io/badge/Initiating-f59e0b?style=flat-square) | 🟡 Medium | High |
+| 🔍 | **SEO Audit** | [smouj/seo-audit-skill](https://github.com/smouj/seo-audit-skill) | Analyzes websites for technical SEO | ![Initiating](https://img.shields.io/badge/Initiating-f59e0b?style=flat-square) | 🟡 Medium | High |
+| 📊 | **Log Analyze** | [smouj/log-analyze-skill](https://github.com/smouj/log-analyze-skill) | Parses and analyzes application logs | ![Initiating](https://img.shields.io/badge/Initiating-f59e0b?style=flat-square) | 🟡 Medium | High |
+| 💰 | **Backup Manager** | [smouj/backup-manager-skill](https://github.com/smouj/backup-manager-skill) | Manages automated backup schedules | ![Initiating](https://img.shields.io/badge/Initiating-f59e0b?style=flat-square) | 🟡 Medium | High |
+| 🛡️ | **Security Scan** | [smouj/security-scan-skill](https://github.com/smouj/security-scan-skill) | Scans code for security vulnerabilities | ![Initiating](https://img.shields.io/badge/Initiating-f59e0b?style=flat-square) | 🟡 Medium | High |
+| 🧪 | **Test Gen** | [smouj/test-gen-skill](https://github.com/smouj/test-gen-skill) | Creates unit tests from source code | ![Initiating](https://img.shields.io/badge/Initiating-f59e0b?style=flat-square) | 🟡 Medium | High |
 
 ---
 
