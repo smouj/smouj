@@ -67,6 +67,7 @@
 
 | Icon | Skill | Repository | Purpose | Status | Difficulty | Potential |
 |:------:|:------|:-----------|:--------|:------:|:----------:|:---------:|
+| 🔍 | **max-finder-skill** | [smouj/max-finder-skill](https://github.com/smouj/max-finder-skill) | AI-powered finder for research tasks | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 | 💡 | **code-alchemist-skill** | [smouj/code-alchemist-skill](https://github.com/smouj/code-alchemist-skill) | Transforms messy code into clean, maintainable architectures through automated refactoring | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 | 🛡️ | **ultra-orchestrator-skill** | [smouj/ultra-orchestrator-skill](https://github.com/smouj/ultra-orchestrator-skill) | AI-powered orchestrator for security tasks | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 | 🛡️ | **regex-sorcerer-skill** | [smouj/regex-sorcerer-skill](https://github.com/smouj/regex-sorcerer-skill) | Master regex patterns to transform and manipulate text with magical precision | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
