@@ -100,6 +100,7 @@
 | 🎯 | **Threat Detect** | [smouj/threat-detect-skill](https://github.com/smouj/threat-detect-skill) | Threat detection | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 | 🧠 | **Api Generator** | [smouj/api-generator-skill](https://github.com/smouj/api-generator-skill) | API generation | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 | 📊 | **Data Prep** | [smouj/data-prep-skill](https://github.com/smouj/data-prep-skill) | Data preparation | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
+| 📊 | **Data Visualize** | [smouj/data-visualize-skill](https://github.com/smouj/data-visualize-skill) | Data visualization | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 | 🐳 | **Container Orch** | [smouj/container-orch-skill](https://github.com/smouj/container-orch-skill) | Container orchestration | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 
 
