@@ -67,6 +67,7 @@
 
 | Icon | Skill | Repository | Purpose | Status | Difficulty | Potential |
 |:------:|:------|:-----------|:--------|:------:|:----------:|:---------:|
+| 💡 | **pixel-alchemist-skill** | [smouj/pixel-alchemist-skill](https://github.com/smouj/pixel-alchemist-skill) | Transmutes raw design elements into golden user experiences | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 | 📊 | **code-weaver-skill** | [smouj/code-weaver-skill](https://github.com/smouj/code-weaver-skill) | Automatically stitches together code components into seamless integrations | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 | ✨ | **quantum-mock-skill** | [smouj/quantum-mock-skill](https://github.com/smouj/quantum-mock-skill) | Mocks entire backend services with AI-generated realistic responses | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 | 🧠 | **perf-monitor-skill** | [smouj/perf-monitor-skill](https://github.com/smouj/perf-monitor-skill) | Monitors system performance | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
