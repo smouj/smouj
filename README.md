@@ -67,6 +67,7 @@
 
 | Icon | Skill | Repository | Purpose | Status | Difficulty | Potential |
 |:------:|:------|:-----------|:--------|:------:|:----------:|:---------:|
+| 🔧 | **data-alchemist-skill** | [smouj/data-alchemist-skill](https://github.com/smouj/data-alchemist-skill) | Transforms raw data into valuable insights through alchemical processes | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 | 🚀 | **infra-alchemist-skill** | [smouj/infra-alchemist-skill](https://github.com/smouj/infra-alchemist-skill) | Transmute complex configurations into pure operational elegance | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 | 📊 | **code-whisperer-skill** | [smouj/code-whisperer-skill](https://github.com/smouj/code-whisperer-skill) | Intelligently analyzes and improves code quality through pattern recognition and gentle guidance | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 | 🔍 | **max-finder-skill** | [smouj/max-finder-skill](https://github.com/smouj/max-finder-skill) | AI-powered finder for research tasks | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
