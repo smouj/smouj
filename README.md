@@ -67,6 +67,7 @@
 
 | Icon | Skill | Repository | Purpose | Status | Difficulty | Potential |
 |:------:|:------|:-----------|:--------|:------:|:----------:|:---------:|
+| 📊 | **code-whisperer-skill** | [smouj/code-whisperer-skill](https://github.com/smouj/code-whisperer-skill) | Intelligently analyzes and improves code quality through pattern recognition and gentle guidance | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 | 🔍 | **max-finder-skill** | [smouj/max-finder-skill](https://github.com/smouj/max-finder-skill) | AI-powered finder for research tasks | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 | 💡 | **code-alchemist-skill** | [smouj/code-alchemist-skill](https://github.com/smouj/code-alchemist-skill) | Transforms messy code into clean, maintainable architectures through automated refactoring | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 | 🛡️ | **ultra-orchestrator-skill** | [smouj/ultra-orchestrator-skill](https://github.com/smouj/ultra-orchestrator-skill) | AI-powered orchestrator for security tasks | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
