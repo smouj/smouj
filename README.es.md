@@ -65,7 +65,7 @@
 
 </div>
 
-| &nbsp; | Skill | Repositorio | Propósito | Estado | Dificultad | Potencial |
+| &nbsp; | Skill | Repositorio | Propósito | Estado | Dificultad | Potencial | v1.0 | 2026-02 |
 |:------:|:------|:-----------|:--------|:------:|:----------:|:---------:|
 
 ---
