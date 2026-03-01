@@ -67,6 +67,7 @@
 
 | Icon | Skill | Repository | Purpose | Status | Difficulty | Potential |
 |:------:|:------|:-----------|:--------|:------:|:----------:|:---------:|
+| ✨ | **quantum-mock-skill** | [smouj/quantum-mock-skill](https://github.com/smouj/quantum-mock-skill) | Mocks entire backend services with AI-generated realistic responses | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 | 🧠 | **perf-monitor-skill** | [smouj/perf-monitor-skill](https://github.com/smouj/perf-monitor-skill) | Monitors system performance | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 | 📊 | **code-review-skill** | [smouj/code-review-skill](https://github.com/smouj/code-review-skill) | Provides comprehensive code review | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 | 🔧 | **Secret Rotation** | [smouj/secret-rotation-skill](https://github.com/smouj/secret-rotation-skill) | Automate secret rotation and management | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
