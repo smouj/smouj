@@ -67,6 +67,7 @@
 
 | Icon | Skill | Repository | Purpose | Status | Difficulty | Potential |
 |:------:|:------|:-----------|:--------|:------:|:----------:|:---------:|
+| 🧠 | **perf-monitor-skill** | [smouj/perf-monitor-skill](https://github.com/smouj/perf-monitor-skill) | Monitors system performance | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 | 📊 | **code-review-skill** | [smouj/code-review-skill](https://github.com/smouj/code-review-skill) | Provides comprehensive code review | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 | 🔧 | **Secret Rotation** | [smouj/secret-rotation-skill](https://github.com/smouj/secret-rotation-skill) | Automate secret rotation and management | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 | 🚀 | **Metric Insights** | [smouj/metric-insights-skill](https://github.com/smouj/metric-insights-skill) | Extract insights from metrics and analytics | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
