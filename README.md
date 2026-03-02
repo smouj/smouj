@@ -101,7 +101,7 @@
 | 🐳 | **Container Orch** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/container-orch-skill) | Container orchestration | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
 
 
-</div></div>
+</div>
 ---
 <div align="center">
 ## 🌐 Public Projects
