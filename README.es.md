@@ -75,7 +75,6 @@
 
 <div align="center">
 
-<table align=center>
 | Icon | Skill | Repositorio | Propósito | Versión | Creado |
 |:------:|:------|:-----------|:--------|:------:|:------:|
 | 🚀 | **logic-loom-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/logic-loom-skill) | Weaves together complex logic flows and conditional branches into clean, maintainable decision trees | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) | 2026-02 |
@@ -125,6 +124,7 @@
 | 📊 | **Data Prep** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/data-prep-skill) | Data preparation | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) | 2026-02 |
 | 📊 | **Data Visualize** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/data-visualize-skill) | Data visualization | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) | 2026-02 |
 | 🐳 | **Container Orch** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/container-orch-skill) | Container orchestration | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) | 2026-02 |
+</div>
 
 
 ---
@@ -201,7 +201,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer&text=MIT+%C2%A9+2026+%40smouj013&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%" />
 
 
-</table>
 
 </div>|## 🧿 Skills by smouj
 
@@ -219,7 +218,6 @@
 
 <div align="center">
 
-<table align=center>
 | Icon | Skill | Repositorio | Propósito | Versión | Creado |
 |:------:|:------|:-----------|:--------|:------:|:------:|
 | 🚀 | **logic-loom-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/logic-loom-skill) | Weaves together complex logic flows and conditional branches into clean, maintainable decision trees | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) | 2026-02 |
@@ -269,6 +267,7 @@
 | 📊 | **Data Prep** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/data-prep-skill) | Data preparation | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) | 2026-02 |
 | 📊 | **Data Visualize** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/data-visualize-skill) | Data visualization | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) | 2026-02 |
 | 🐳 | **Container Orch** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/container-orch-skill) | Container orchestration | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) | 2026-02 |
+</div>
 
 
 ---
@@ -345,7 +344,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer&text=MIT+%C2%A9+2026+%40smouj013&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%" />
 
 
-</table>
 
 </div>|## 🧿 Skills by smouj
 
@@ -363,7 +361,6 @@
 
 <div align="center">
 
-<table align=center>
 | Icon | Skill | Repositorio | Propósito | Versión | Creado |
 |:------:|:------|:-----------|:--------|:------:|:------:|
 | 🚀 | **logic-loom-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/logic-loom-skill) | Weaves together complex logic flows and conditional branches into clean, maintainable decision trees | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) | 2026-02 |
@@ -413,6 +410,7 @@
 | 📊 | **Data Prep** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/data-prep-skill) | Data preparation | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) | 2026-02 |
 | 📊 | **Data Visualize** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/data-visualize-skill) | Data visualization | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) | 2026-02 |
 | 🐳 | **Container Orch** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/container-orch-skill) | Container orchestration | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) | 2026-02 |
+</div>
 
 
 ---
@@ -489,7 +487,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer&text=MIT+%C2%A9+2026+%40smouj013&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%" />
 
 
-</table>
 
 </div>|## 🧿 Skills by smouj
 
@@ -507,7 +504,6 @@
 
 <div align="center">
 
-<table align=center>
 | Icon | Skill | Repositorio | Propósito | Versión | Creado |
 |:------:|:------|:-----------|:--------|:------:|:------:|
 | 🚀 | **logic-loom-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/logic-loom-skill) | Weaves together complex logic flows and conditional branches into clean, maintainable decision trees | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) | 2026-02 |
@@ -557,6 +553,7 @@
 | 📊 | **Data Prep** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/data-prep-skill) | Data preparation | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) | 2026-02 |
 | 📊 | **Data Visualize** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/data-visualize-skill) | Data visualization | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) | 2026-02 |
 | 🐳 | **Container Orch** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/container-orch-skill) | Container orchestration | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) | 2026-02 |
+</div>
 
 
 ---
@@ -633,7 +630,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer&text=MIT+%C2%A9+2026+%40smouj013&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%" />
 
 
-</table>
 
 </div>
 
@@ -676,7 +672,6 @@
 
 <div align="center">
 
-<table align=center>
 | Icon | Skill | Repositorio | Propósito | Versión | Creado |
 |:------:|:------|:-----------|:--------|:------:|:------:|
 | 🚀 | **logic-loom-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/logic-loom-skill) | Weaves together complex logic flows and conditional branches into clean, maintainable decision trees | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) | 2026-02 |
@@ -726,6 +721,7 @@
 | 📊 | **Data Prep** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/data-prep-skill) | Data preparation | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) | 2026-02 |
 | 📊 | **Data Visualize** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/data-visualize-skill) | Data visualization | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) | 2026-02 |
 | 🐳 | **Container Orch** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/container-orch-skill) | Container orchestration | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) | 2026-02 |
+</div>
 
 
 ---
@@ -802,7 +798,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer&text=MIT+%C2%A9+2026+%40smouj013&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%" />
 
 
-</table>
 
 </div>|:------------|:-----:|
 | **FlickClaw SaaS** | 🔒 Privado | Plataforma SaaS de vídeo y contenido con IA | ![Activo](https://img.shields.io/badge/Activo-22c55e?style=flat-square) |

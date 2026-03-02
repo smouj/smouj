@@ -75,7 +75,6 @@
 
 <div align="center">
 
-<table align=center>
 | Icon | Skill | Repository | Purpose | Version | Created |
 |:------:|:------|:-----------|:--------|:-----:|:-------:|
 | 🚀 | **logic-loom-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/logic-loom-skill) | Weaves together complex logic flows and conditional branches into clean, maintainable decision trees | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) | 2026-02 |
@@ -125,6 +124,7 @@
 | 📊 | **Data Prep** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/data-prep-skill) | Data preparation | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) | 2026-02 |
 | 📊 | **Data Visualize** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/data-visualize-skill) | Data visualization | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) | 2026-02 |
 | 🐳 | **Container Orch** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/container-orch-skill) | Container orchestration | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) | 2026-02 |
+</div>
 
 
 ---
