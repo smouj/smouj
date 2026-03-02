@@ -52,6 +52,7 @@
 
 | Icon | Skill | Repository | Purpose | Version |
 |:------:|:------|:-----------|:--------|:-----:|:-------:|
+| 🧠 | **flex-analyzer-skill** | [smouj/flex-analyzer-skill](https://github.com/smouj/flex-analyzer-skill) | AI-powered analyzer for marketing tasks | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 | 🚀 | **logic-loom-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/logic-loom-skill) | Weaves together complex logic flows and conditional branches into clean, maintainable decision trees | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
 | 🎯 | **quantum-weaver-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/quantum-weaver-skill) | Generates complex, interconnected design systems by weaving together multiple independent design patterns and user experience flows into cohesive visual ecosystems | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
 | 🔍 | **prime-analyzer-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/prime-analyzer-skill) | AI-powered analyzer for devops tasks | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
