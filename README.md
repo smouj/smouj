@@ -77,6 +77,7 @@
 
 | Icon | Skill | Repository | Purpose | Status | Difficulty | Potential | Version | Created |
 |:------:|:------|:-----------|:--------|:------:|:----------:|:---------:|:-------:|:-------:|
+| 🚀 | **logic-loom-skill** | [smouj/logic-loom-skill](https://github.com/smouj/logic-loom-skill) | Weaves together complex logic flows and conditional branches into clean, maintainable decision trees | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High |
 | 🎯 | **quantum-weaver-skill** | [smouj/quantum-weaver-skill](https://github.com/smouj/quantum-weaver-skill) | Generates complex, interconnected design systems by weaving together multiple independent design patterns and user experience flows into cohesive visual ecosystems | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High | v1.0 | 2026-02 |
 | 🔍 | **prime-analyzer-skill** | [smouj/prime-analyzer-skill](https://github.com/smouj/prime-analyzer-skill) | AI-powered analyzer for devops tasks | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High | v1.0 | 2026-02 |
 | 🔧 | **data-alchemist-skill** | [smouj/data-alchemist-skill](https://github.com/smouj/data-alchemist-skill) | Transforms raw data into valuable insights through alchemical processes | ![Ready](https://img.shields.io/badge/Ready-22c55e?style=flat-square) | 🟡 Medium | High | v1.0 | 2026-02 |
