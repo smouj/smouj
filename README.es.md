@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:c92a2a,100:ff6b6b&height=200&section=header&text=smouj&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Arquitecto%20de%20SuperAgentes%20Aut%C3%B3nomos&descAlignY=60&descSize=22&animation=fadeIn" width="100%" />
 
 <!-- AVATAR -->
-<img src="https://github.com/smouj.png?size=220" alt="smouj avatar" width="130" style="border-radius:50%;border:3px solid #c92a2a;margin-top:-20px;" />
+<img src="https://github.com/smouj.png?size=220" alt="smouj avatar" width="230" style="border-radius:50%;border:3px solid #c92a2a;margin-top:-20px;" />
 
 <!-- LANGUAGE SWITCHER -->
 <p>
