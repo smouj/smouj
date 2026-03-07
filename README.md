@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════════════ HEADER BANNER ═══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=220&section=header&text=smouj&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=Autonomous%20AI%20Systems%20Architect&descAlignY=63&descSize=22&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:ffffff&height=220&section=header&text=smouj&fontSize=80&fontColor=000000&fontAlignY=40&desc=Autonomous%20AI%20Systems%20Architect&descAlignY=63&descSize=22&animation=fadeIn" width="100%" />
 
 <!-- ═══════════════════════════ AVATAR ═══════════════════════════ -->
 <img src="https://github.com/smouj.png?size=220" alt="smouj avatar" width="250" style="border-radius:50%;border:4px solid #1f6feb;margin-top:-20px;" />
@@ -304,6 +304,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=140&section=footer&text=MIT+%C2%A9+2026+%40smouj013&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:ffffff&height=140&section=footer&text=MIT+%C2%A9+2026+%40smouj013&fontSize=20&fontColor=000000&fontAlignY=65&animation=fadeIn" width="100%" />
 
 </div>
