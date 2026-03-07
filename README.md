@@ -51,7 +51,9 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=smouj&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smouj&theme=github_dark&hide_border=true&bg_color=0d1117&border_color=1f6feb&ring_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smouj&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smouj&theme=github_dark&hide_border=true&bg_color=0d1117&border_color=1f6feb&ring_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff&layout=compact)
 
 </div>
 
@@ -67,56 +69,64 @@
 |:---:|
 | **[skill-genesis](https://github.com/smouj/skill-genesis)** <br> *Autonomous AI skill generator (Beta)* |
 
-| Icon | Skill | Repository | Purpose | Version |
-|:---:|:---|:---|:---|:---:|
-| 🧠 | **flex-analyzer-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/flex-analyzer-skill) | AI-powered analyzer for marketing tasks | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 🚀 | **logic-loom-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/logic-loom-skill) | Weaves complex logic flows and conditional branches into clean decision trees | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 🎯 | **quantum-weaver-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/quantum-weaver-skill) | Generates interconnected design systems by weaving multiple patterns into cohesive visual ecosystems | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 🔍 | **prime-analyzer-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/prime-analyzer-skill) | AI-powered analyzer for DevOps tasks | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 🔧 | **data-alchemist-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/data-alchemist-skill) | Transforms raw data into valuable insights through alchemical processes | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 🚀 | **infra-alchemist-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/infra-alchemist-skill) | Transmutes complex configurations into pure operational elegance | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 📊 | **code-whisperer-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/code-whisperer-skill) | Intelligently analyzes and improves code quality through pattern recognition | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 🔍 | **max-finder-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/max-finder-skill) | AI-powered finder for research tasks | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 💡 | **code-alchemist-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/code-alchemist-skill) | Transforms messy code into clean, maintainable architectures through automated refactoring | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 🛡️ | **ultra-orchestrator-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/ultra-orchestrator-skill) | AI-powered orchestrator for security tasks | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 🛡️ | **regex-sorcerer-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/regex-sorcerer-skill) | Master regex patterns to transform and manipulate text with magical precision | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 💡 | **pixel-alchemist-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/pixel-alchemist-skill) | Transmutes raw design elements into golden user experiences | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 📊 | **code-weaver-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/code-weaver-skill) | Automatically stitches together code components into seamless integrations | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| ✨ | **quantum-mock-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/quantum-mock-skill) | Mocks entire backend services with AI-generated realistic responses | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 🧠 | **perf-monitor-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/perf-monitor-skill) | Monitors and reports system performance metrics in real time | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 📊 | **code-review-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/code-review-skill) | Provides comprehensive automated code review with actionable feedback | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 🔧 | **secret-rotation-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/secret-rotation-skill) | Automates secret rotation and credential lifecycle management | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 🚀 | **metric-insights-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/metric-insights-skill) | Extracts actionable insights from metrics and analytics data | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 🔍 | **prompt-engineer-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/prompt-engineer-skill) | Optimizes and tests AI prompts for maximum effectiveness | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 🔧 | **code-refactor-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/code-refactor-skill) | Refactors and improves code quality with intelligent suggestions | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 🎯 | **abyss-scanner-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/abyss-scanner-skill) | OSINT reconnaissance and deep-web intelligence gathering | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 🛡️ | **aegis-veil-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/aegis-veil-skill) | Security hardening and attack surface reduction | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 🧪 | **alchemurgist-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/alchemurgist-skill) | Advanced data transformation and schema migration | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| ⏳ | **chrono-ward-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/chrono-ward-skill) | Intelligent planning, scheduling, and deadline management | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 📜 | **codex-eternal-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/codex-eternal-skill) | Persistent memory and structured knowledge management for agents | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| ⚡ | **flux-capacitor-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/flux-capacitor-skill) | Performance optimization and throughput maximization | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 🧬 | **genome-weaver-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/genome-weaver-skill) | Evolutionary design and genetic algorithm-inspired generation | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 🧠 | **mirror-council-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/mirror-council-skill) | Multi-agent deliberation and consensus-building framework | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 🔄 | **phoenix-reborn-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/phoenix-reborn-skill) | Reliability, fault tolerance, and automatic recovery | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 🧾 | **provenance-guard-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/provenance-guard-skill) | Supply chain security and artifact provenance verification | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 📈 | **slo-warden-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/slo-warden-skill) | SLO monitoring, error budget tracking, and alerting | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 🌑 | **shadow-ledger-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/shadow-ledger-skill) | Full audit trail, traceability, and event sourcing | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 🔐 | **vault-sentry-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/vault-sentry-skill) | Secure secret management and access control enforcement | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 🩹 | **vuln-warden-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/vuln-warden-skill) | Vulnerability scanning, triage, and remediation management | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 🚀 | **cloud-deploy-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/cloud-deploy-skill) | Cloud deployment automation across multiple providers | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 💾 | **db-optimize-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/db-optimize-skill) | Database query optimization and performance tuning | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 🔍 | **seo-audit-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/seo-audit-skill) | Comprehensive SEO auditing and optimization recommendations | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 📊 | **log-analyze-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/log-analyze-skill) | Intelligent log parsing, pattern detection, and anomaly analysis | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 💾 | **backup-manager-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/backup-manager-skill) | Automated backup scheduling, verification, and restore management | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 🛡️ | **security-scan-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/security-scan-skill) | Automated security scanning and compliance reporting | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 🧪 | **test-gen-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/test-gen-skill) | AI-powered test case generation and coverage analysis | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 📋 | **api-docs-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/api-docs-skill) | Automatic API documentation generation and maintenance | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| ⚙️ | **ci-cd-pipeline-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/ci-cd-pipeline-skill) | CI/CD pipeline design, optimization, and management | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 🎯 | **threat-detect-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/threat-detect-skill) | Real-time threat detection and incident response automation | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 🧠 | **api-generator-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/api-generator-skill) | Scaffolds full API endpoints from schema or natural language specs | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 📊 | **data-prep-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/data-prep-skill) | Automated data cleaning, normalization, and pipeline preparation | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 📊 | **data-visualize-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/data-visualize-skill) | Generates charts, dashboards, and interactive data visualizations | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
-| 🐳 | **container-orch-skill** | [![LINK](https://img.shields.io/badge/LINK-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/smouj/container-orch-skill) | Container orchestration, scaling, and lifecycle management | ![v1.0](https://img.shields.io/badge/v1.0-1f6feb?style=flat-square) |
+### 🧠 AI & Machine Learning
+| Icon | Skill | Description |
+|:---:|:---|:---|
+| 🧠 | **flex-analyzer-skill** | AI-powered analyzer for marketing tasks |
+| 🧠 | **prime-analyzer-skill** | AI-powered analyzer for DevOps tasks |
+| 🧠 | **max-finder-skill** | AI-powered finder for research tasks |
+| 🧠 | **code-whisperer-skill** | Intelligently analyzes and improves code quality |
+| 🧠 | **prompt-engineer-skill** | Optimizes and tests AI prompts for maximum effectiveness |
+
+### 🔧 Code & Development
+| Icon | Skill | Description |
+|:---:|:---|:---|
+| 💡 | **code-alchemist-skill** | Transforms messy code into clean architectures |
+| 🔧 | **code-refactor-skill** | Refactors and improves code quality |
+| 📊 | **code-review-skill** | Comprehensive automated code review |
+| ⚙️ | **ci-cd-pipeline-skill** | CI/CD pipeline design and optimization |
+| 🧪 | **test-gen-skill** | AI-powered test case generation |
+
+### 🚀 DevOps & Infrastructure
+| Icon | Skill | Description |
+|:---:|:---|:---|
+| 🚀 | **infra-alchemist-skill** | Transforms complex configurations into operational elegance |
+| 🔧 | **data-alchemist-skill** | Transforms raw data into valuable insights |
+| 🐳 | **container-orch-skill** | Container orchestration and scaling |
+| 💾 | **db-optimize-skill** | Database query optimization |
+| ☁️ | **cloud-deploy-skill** | Multi-provider cloud deployment automation |
+
+### 🛡️ Security
+| Icon | Skill | Description |
+|:---:|:---|:---|
+| 🛡️ | **aegis-veil-skill** | Security hardening and attack surface reduction |
+| 🛡️ | **ultra-orchestrator-skill** | AI-powered orchestrator for security tasks |
+| 🛡️ | **security-scan-skill** | Automated security scanning |
+| 🛡️ | **vuln-warden-skill** | Vulnerability scanning and remediation |
+| 🛡️ | **vault-sentry-skill** | Secure secret management |
+
+### 📊 Data & Analytics
+| Icon | Skill | Description |
+|:---:|:---|:---|
+| 📊 | **data-prep-skill** | Automated data cleaning and normalization |
+| 📊 | **data-visualize-skill** | Generates charts and dashboards |
+| 📊 | **log-analyze-skill** | Intelligent log parsing and anomaly detection |
+| 📊 | **metric-insights-skill** | Extracts actionable insights from metrics |
+
+### 🔄 Workflow & Automation
+| Icon | Skill | Description |
+|:---:|:---|:---|
+| 🔄 | **logic-loom-skill** | Weaves complex logic flows into decision trees |
+| 🔄 | **chrono-ward-skill** | Intelligent planning and scheduling |
+| 🔄 | **flux-capacitor-skill** | Performance optimization and throughput |
+| 🔄 | **phoenix-reborn-skill** | Reliability and automatic recovery |
+
+### 🎨 Design & Content
+| Icon | Skill | Description |
+|:---:|:---|:---|
+| 🎨 | **quantum-weaver-skill** | Generates interconnected design systems |
+| 💎 | **pixel-alchemist-skill** | Transforms design elements into UX |
+| 🎯 | **pixel-poet-skill** | AI-powered creative content generation |
 
 </div>
 
@@ -126,11 +136,12 @@
 
 ## 🌐 Public Projects
 
-| 🚀 Project | Repository | Description | Stage |
-|:---|:---|:---|:---:|
-| **Alchemical Agent Ecosystem** | [smouj/alchemical-agent-ecosystem](https://github.com/smouj/alchemical-agent-ecosystem) | Local-first multi-agent ecosystem — gateway + dashboard + SSE + RAM profiles | ![Active](https://img.shields.io/badge/Active-22c55e?style=flat-square) |
-| **Peanut Agent** | [smouj/peanut-agent](https://github.com/smouj/peanut-agent) | Autonomous agent project — lightweight, modular, open | ![Active](https://img.shields.io/badge/Active-22c55e?style=flat-square) |
-| **OpenClaw MGS Codec** | [smouj/openclaw-mgs-codec](https://github.com/smouj/openclaw-mgs-codec) | MGS-style codec communication system for OpenClaw | ![Active](https://img.shields.io/badge/Active-22c55e?style=flat-square) |
+| 🚀 Project | Description | Status |
+|:---|:---|:---:|
+| **[Alchemical Agent Ecosystem](https://github.com/smouj/alchemical-agent-ecosystem)** | Local-first multi-agent ecosystem — gateway + dashboard + SSE + RAM profiles | ![Active](https://img.shields.io/badge/Active-22c55e?style=flat-square) |
+| **[Peanut Agent](https://github.com/smouj/peanut-agent)** | Autonomous agent project — lightweight, modular, open | ![Active](https://img.shields.io/badge/Active-22c55e?style=flat-square) |
+| **[OpenClaw MGS Codec](https://github.com/smouj/openclaw-mgs-codec)** | MGS-style codec communication system for OpenClaw | ![Active](https://img.shields.io/badge/Active-22c55e?style=flat-square) |
+| **[Abyss-Scanner](https://github.com/smouj/Abyss-Scanner)** | OSINT reconnaissance and deep-web intelligence | ![Active](https://img.shields.io/badge/Active-22c55e?style=flat-square) |
 
 </div>
 
@@ -140,10 +151,9 @@
 
 ## 🔒 Private Projects
 
-| 🏗️ Project | Visibility | Description | Stage |
-|:---|:---:|:---|:---:|
-| **FlickClaw SaaS** | 🔒 Private | AI-powered video & content SaaS platform | ![Active](https://img.shields.io/badge/Active-22c55e?style=flat-square) |
-| **RPGCLAW** | 🔒 Private | Online RPG platform and game systems | ![Maintenance](https://img.shields.io/badge/Maintenance-6b7280?style=flat-square) |
+| 🏗️ Project | Description | Status |
+|:---|:---|:---:|
+| **RPGCLAW** | Online RPG platform and game systems | ![Maintenance](https://img.shields.io/badge/Maintenance-6b7280?style=flat-square) |
 
 </div>
 
@@ -172,14 +182,23 @@
 
 ## 🛠️ Tech Stack & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+| Category | Technologies |
+|:---|:---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **AI/ML** | ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) |
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=smouj&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb30" alt="Activity Graph" />
 
 </div>
 
