@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:2a0a0a,60:c92a2a,100:ff6b6b&height=230&section=header&text=smouj&fontSize=95&fontColor=ffffff&fontAlignY=42&desc=Arquitecto%20de%20SuperAgentes%20Aut%C3%B3nomos&descAlignY=65&descSize=26&animation=fadeIn" width="100%" />
 
 <!-- ═══════════════════════════ AVATAR ═══════════════════════════ -->
-<img src="https://github.com/smouj.png?size=220" alt="smouj avatar" width="140" style="border-radius:50%;border:4px solid #c92a2a;margin-top:-20px;" />
+<img src="https://github.com/smouj.png?size=220" alt="smouj avatar" width="240" style="border-radius:50%;border:4px solid #c92a2a;margin-top:-20px;" />
 
 <br/><br/>
 
@@ -51,10 +51,7 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smouj&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=ff6b6b&title_color=ff6b6b)](https://github.com/smouj)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smouj&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=c92a2a&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b)](https://github.com/smouj)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smouj&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ff6b6b&langs_count=8)](https://github.com/smouj)
 
 </div>
 
