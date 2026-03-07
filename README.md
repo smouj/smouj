@@ -51,10 +51,7 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smouj&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff)](https://github.com/smouj)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smouj&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)](https://github.com/smouj)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smouj&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8)](https://github.com/smouj)
 
 </div>
 
