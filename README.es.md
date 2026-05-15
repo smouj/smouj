@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=180&section=header&text=smouj&fontSize=70&fontColor=58a6ff&fontAlignY=35&desc=Full-Stack%20Developer%20·%20Arquitecto%20de%20Sistemas%20IA&descAlignY=55&descSize=18&descColor=8b949e&animation=fadeIn" width="100%" />
 
-<img src="https://github.com/smouj.png?size=180" alt="smouj" width="180" style="border-radius:50%;border:3px solid #30363d;margin-top:-15px;" />
+<img src="https://github.com/smouj.png?size=260" alt="smouj" width="260" style="border-radius:50%;border:4px solid #30363d;margin-top:-15px;" />
 
 <br/><br/>
 
@@ -59,14 +59,32 @@
 
 | Proyecto | Qué hace | Stack | Live |
 |:---|:---|:---|:---|
-| 🦁 **[Kimari Local AI](https://github.com/smouj/kimari-local-ai)** | Entrenamiento y serving de LLMs en GPUs de consumo. Adaptadores SFT, evaluación privada, Gateway Dashboard. | `Python` `llama.cpp` `CUDA` `Next.js` `HuggingFace` | — |
+| 🦁 **[Kimari Local AI](https://github.com/smouj/kimari-local-ai)** | Entrenamiento y serving de LLMs en GPUs de consumo. Adaptadores SFT, evaluación privada, Gateway Dashboard. | `Python` `llama.cpp` `CUDA` `Next.js` `HuggingFace` | [GitHub Pages](https://smouj.github.io/kimari-local-ai/) |
 | ⚔️ **[MedaClaw Arena](https://github.com/smouj/medaclaw-arena)** | Juego de combate táctico. 3D cel-shading, 28 SFX CC0, sistema de audio, ladders seasonales, OAuth. | `TypeScript` `Next.js` `Three.js` `Prisma` | [medaclawarena.com](https://medaclawarena.com) |
 | 🧱 **[Royal Pixel Game](https://github.com/smouj/royal-pixel-game)** | Canvas colaborativo de píxeles en tiempo real. WebSocket, Docker, analytics autoalojado. | `JavaScript` `Node.js` `MongoDB` `Docker` `Caddy` | [rpgclaw.com](https://rpgclaw.com) |
-| 🛡️ **[CAPTCHA Shield](https://github.com/smouj/captcha-shield)** | Sistema anti-bot. 14 señales de comportamiento, 7 tipos de reto, verificación QR. 100% client-side. | `TypeScript` `React` | — |
-| 🧬 **[MythosForge](https://github.com/smouj/MythosForge)** | Investigación en Transformers de profundidad recurrente. Inferencia LTI-estable, MLA/GQA, MoE, halting adaptativo. | `Python` `PyTorch` | — |
+| 🛡️ **[CAPTCHA Shield](https://github.com/smouj/captcha-shield)** | Sistema anti-bot. 14 señales de comportamiento, 7 tipos de reto, verificación QR. 100% client-side. | `TypeScript` `React` | [GitHub Pages](https://smouj.github.io/captcha-shield/) |
+| 🧬 **[MythosForge](https://github.com/smouj/MythosForge)** | Investigación en Transformers de profundidad recurrente. Inferencia LTI-estable, MLA/GQA, MoE, halting adaptativo. | `Python` `PyTorch` | [GitHub Pages](https://smouj.github.io/MythosForge/) |
 | 🎬 **[FlickClaw](https://github.com/smouj/FlickClaw)** | Generador de clips virales con subtítulos IA. Comparador de 54+ herramientas de IA. | `Python` `Next.js` | — |
-| 🔧 **[AICodeStudio](https://github.com/smouj/AICodeStudio)** | IDE open-source con IA, integración OpenClaw & Hermes, Monaco Editor, PWA desktop. | `Python` `React` | — |
-| 🌐 **[Agent Browser](https://github.com/smouj/agent-browser)** | Dale un navegador real a cualquier agente IA. REST API + Dashboard + Vision AI vía Playwright. | `TypeScript` `Next.js` | — |
+| 🔧 **[AICodeStudio](https://github.com/smouj/AICodeStudio)** | IDE open-source con IA. Integración OpenClaw & Hermes, Monaco Editor, PWA desktop. | `Python` `React` | [GitHub Pages](https://smouj.github.io/AICodeStudio/) |
+| 🌐 **[Agent Browser](https://github.com/smouj/agent-browser)** | Dale un navegador real a cualquier agente IA. REST API + Dashboard + Vision AI vía Playwright. | `TypeScript` `Next.js` | [GitHub Pages](https://smouj.github.io/agent-browser/) |
+
+---
+
+## Más Proyectos
+
+| Proyecto | Qué hace | Live |
+|:---|:---|:---|
+| 🎮 **[Shatter Protocol](https://github.com/smouj/shatter-protocol)** | Tactical Roguelike RPG Breakout | — |
+| 🐾 **[ASCIIcritters](https://github.com/smouj/asciicritters)** | Creador de mascotas virtuales 3D — ASCII art en Three.js con chat IA y bloom | [GitHub Pages](https://smouj.github.io/asciicritters/) |
+| 🤖 **[OpenClaw Desk](https://github.com/smouj/openclaw-desk)** | Panel web para gestionar agentes de OpenClaw | [GitHub Pages](https://smouj.github.io/openclaw-desk/) |
+| 🧬 **[Skill Genesis](https://github.com/smouj/skill-genesis)** | Generador autónomo de Skills para OpenClaw | [GitHub Pages](https://smouj.github.io/skill-genesis/) |
+| 🤖 **[KanClaw](https://github.com/smouj/kanclaw)** | Workspace OS local-first para equipos de agentes IA | — |
+| 📊 **[TokenTax](https://github.com/smouj/tokentax)** | Compara 400+ modelos de IA de todos los proveedores | [GitHub Pages](https://smouj.github.io/tokentax/) |
+| 📦 **[Prompt Organizer](https://github.com/smouj/prompt-organizer)** | Herramienta visual para organizar prompts, auditorías y backlog | [GitHub Pages](https://smouj.github.io/prompt-organizer/) |
+| ⛽ **[Gasolineras España](https://github.com/smouj/gasolineras-espana)** | Panel interactivo con precios de carburantes en tiempo real | — |
+| 🏠 **[Hipoteca Compare](https://github.com/smouj/hipoteca-compare)** | Comparador profesional de hipotecas en España con asistente IA | — |
+| 🛡️ **[Essentials Skill OpenClaw](https://github.com/smouj/essentials-skill-openclaw)** | Pack security-first de skills esenciales para OpenClaw | — |
+| 📚 **[Awesome OpenClaw Skills](https://github.com/smouj/awesome-openclaw-skills)** | Colección curada de OpenClaw Skills | — |
 
 ---
 
