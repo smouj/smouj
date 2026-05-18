@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=SMOUJ&fontSize=80&fontColor=00d9ff&fontAlignY=38&desc=Full-Stack%20Developer%20•%20AI%20Architect%20•%20Open%20Source%20Creator&descAlignY=58&descSize=16&descColor=8892b0&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:1d3557&height=200&section=header&text=SMOUJ&fontSize=80&fontColor=64ffda&fontAlignY=38&desc=Full-Stack%20Developer%20•%20AI%20Architect%20•%20Open%20Source%20Creator&descAlignY=58&descSize=16&descColor=a8b2d1&animation=fadeIn" width="100%" />
 
 <!-- AVATAR CON GLOW -->
 <a href="https://github.com/smouj">
-  <img src="https://github.com/smouj.png?size=280" alt="smouj" width="280" style="border-radius:50%;border:5px solid #00d9ff;box-shadow: 0 0 30px rgba(0,217,255,0.4);margin-top:-20px;" />
+  <img src="https://github.com/smouj.png?size=280" alt="smouj" width="280" style="border-radius:50%;border:5px solid #64ffda;box-shadow: 0 0 35px rgba(100,255,218,0.5);margin-top:-20px;" />
 </a>
 
 <br/><br/>
@@ -39,7 +39,9 @@
 <br/><br/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Training+LLMs+on+consumer+GPUs+since+2026;Building+production-ready+games+and+AI+systems;Local-first+architecture+is+not+a+choice+—+it's+a+principle;Open-source+by+design%2C+privacy+by+default" alt="Typing SVG" />
+<a href="https://github.com/smouj">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=64FFDA&center=true&vCenter=true&width=900&lines=Training+LLMs+on+consumer+GPUs+since+2026;Building+production-ready+games+and+AI+systems;Local-first+architecture+is+not+a+choice+—+it's+a+principle;Open-source+by+design%2C+privacy+by+default" alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -387,10 +389,12 @@ Working apps in production beat polished presentations. Real users > theoretical
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&text=Built%20with%20☕%20and%20CUDA&fontSize=18&fontColor=8892b0&fontAlignY=70&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d3557,50:112240,100:0a192f&height=120&section=footer&text=Built%20with%20☕%20and%20CUDA&fontSize=18&fontColor=64ffda&fontAlignY=70&animation=fadeIn" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&pause=2000&color=8892B0&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐+Star+my+repos+if+you+find+them+useful" alt="Typing SVG" />
+<a href="https://github.com/smouj?tab=repositories">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=14&pause=2000&color=64FFDA&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐+Star+my+repos+if+you+find+them+useful" alt="Typing SVG" />
+</a>
 
 </div>
