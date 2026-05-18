@@ -1,173 +1,385 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=180&section=header&text=smouj&fontSize=70&fontColor=58a6ff&fontAlignY=35&desc=Full-Stack%20Developer%20·%20AI%20Systems%20Architect&descAlignY=55&descSize=18&descColor=8b949e&animation=fadeIn" width="100%" />
+<!-- HEADER ANIMADO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=SMOUJ&fontSize=80&fontColor=00d9ff&fontAlignY=38&desc=Full-Stack%20Developer%20•%20AI%20Architect%20•%20Open%20Source%20Creator&descAlignY=58&descSize=16&descColor=8892b0&animation=fadeIn" width="100%" />
 
-<img src="https://github.com/smouj.png?size=260" alt="smouj" width="260" style="border-radius:50%;border:4px solid #30363d;margin-top:-15px;" />
-
-<br/><br/>
-
-<a href="https://x.com/smouj013"><img src="https://img.shields.io/badge/@smouj013-000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-<a href="https://discord.gg/zQKjRzczTS"><img src="https://img.shields.io/badge/Discord-RPGCLAW-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-<a href="https://github.com/smouj"><img src="https://img.shields.io/badge/GitHub-smouj-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<!-- AVATAR CON GLOW -->
+<a href="https://github.com/smouj">
+  <img src="https://github.com/smouj.png?size=280" alt="smouj" width="280" style="border-radius:50%;border:5px solid #00d9ff;box-shadow: 0 0 30px rgba(0,217,255,0.4);margin-top:-20px;" />
+</a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Training+LLMs+on+a+GTX+1060+since+2026;Building+games+that+run+on+real+servers+not+demos;If+it+can't+run+locally+the+architecture+is+wrong;Open-source+is+not+a+feature+it's+a+requirement" alt="Typing SVG" />
+<!-- BADGES PRINCIPALES -->
+<a href="https://github.com/smouj?tab=followers">
+  <img src="https://img.shields.io/github/followers/smouj?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0f3460" alt="GitHub followers" />
+</a>
+<img src="https://img.shields.io/github/stars/smouj?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=16213e" alt="GitHub stars" />
+<img src="https://komarev.com/ghpvc/?username=smouj&style=for-the-badge&color=0f3460&label=Profile+Views" alt="Profile views" />
 
 <br/><br/>
 
-<a href="./README.es.md"><img src="https://img.shields.io/badge/LEER_EN-ESPAÑOL-c92a2a?style=for-the-badge&logoColor=white" alt="Español"></a>
+<!-- REDES SOCIALES -->
+<a href="https://x.com/smouj013">
+  <img src="https://img.shields.io/badge/@smouj013-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
+</a>
+<a href="https://www.linkedin.com/in/hector-poley-cruz-a712113b6/">
+  <img src="https://img.shields.io/badge/LinkedIn-Hector_Poley_Cruz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="http://huggingface.co/Smouj013">
+  <img src="https://img.shields.io/badge/🤗_HuggingFace-Smouj013-FFD21E?style=for-the-badge&logoColor=black" alt="HuggingFace" />
+</a>
+<a href="https://www.reddit.com/user/SnooMarzipans9093/">
+  <img src="https://img.shields.io/badge/Reddit-SnooMarzipans9093-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+</a>
+<a href="https://discord.gg/zQKjRzczTS">
+  <img src="https://img.shields.io/badge/Discord-RPGCLAW-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+
+<br/><br/>
+
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Training+LLMs+on+consumer+GPUs+since+2026;Building+production-ready+games+and+AI+systems;Local-first+architecture+is+not+a+choice+—+it's+a+principle;Open-source+by+design%2C+privacy+by+default" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## About
+## 👤 About Me
 
-> I train custom LLM adapters on consumer GPUs, ship multiplayer games to production VPS, and build agent orchestration systems that run without cloud dependencies. Everything I build is open-source and local-first by design.
+```typescript
+const smouj = {
+  name: "Hector Poley Cruz",
+  role: "Full-Stack Developer & AI Systems Architect",
+  location: "Spain 🇪🇸",
+  currentFocus: "Local LLM Training & Multiplayer Game Development",
+  
+  philosophy: {
+    localFirst: "AI runs on YOUR hardware — no cloud lock-in",
+    privacy: "No telemetry, no data leaks, no compromises",
+    openSource: "Every tool I ship is open. Fork it, learn from it, improve it.",
+    hardware: "Training LLMs on GTX 1060. If it needs H100, the design is wrong."
+  },
+  
+  techStack: {
+    languages: ["TypeScript", "Python", "JavaScript", "SQL"],
+    ai: ["PyTorch", "llama.cpp", "HuggingFace", "QLoRA", "Ollama"],
+    frontend: ["Next.js", "React", "Three.js", "Tailwind CSS"],
+    backend: ["Node.js", "FastAPI", "Prisma", "MongoDB", "PostgreSQL"],
+    infra: ["Docker", "Linux", "Caddy", "CUDA", "WSL2"]
+  }
+};
+```
 
-<br/>
+---
+
+## 🌐 Live Projects
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=smouj&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&dates=484f58" width="100%" />
+### 🎮 Production Web Applications
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f3460,100:1a1a2e&height=40&section=header&text=&fontSize=0" width="100%" />
 
 </div>
-
----
-
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/smouj/kimari-local-ai">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=smouj&repo=kimari-local-ai&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="Kimari Local AI" />
-</a>
-<a href="https://github.com/smouj/medaclaw-arena">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=smouj&repo=medaclaw-arena&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="MedaClaw Arena" />
-</a>
-<a href="https://github.com/smouj/captcha-shield">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=smouj&repo=captcha-shield&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="CAPTCHA Shield" />
-</a>
-<a href="https://github.com/smouj/MythosForge">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=smouj&repo=MythosForge&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="MythosForge" />
-</a>
-
-</div>
-
-<br/>
-
-| Project | What | Stack | Live |
-|:---|:---|:---|:---|
-| 🦁 **[Kimari Local AI](https://github.com/smouj/kimari-local-ai)** | LLM training & serving on consumer GPUs. Custom SFT adapters, private eval pipelines, Gateway Dashboard. | `Python` `llama.cpp` `CUDA` `Next.js` `HuggingFace` | [GitHub Pages](https://smouj.github.io/kimari-local-ai/) |
-| ⚔️ **[MedaClaw Arena](https://github.com/smouj/medaclaw-arena)** | Tactical combat game. Cel-shading 3D, 28 CC0 SFX, audio system, seasonal ladders, OAuth. | `TypeScript` `Next.js` `Three.js` `Prisma` | [medaclawarena.com](https://medaclawarena.com) |
-| 🧱 **[Royal Pixel Game](https://github.com/smouj/royal-pixel-game)** | Real-time collaborative pixel canvas. WebSocket multiplayer, Docker, self-hosted analytics. | `JavaScript` `Node.js` `MongoDB` `Docker` `Caddy` | [rpgclaw.com](https://rpgclaw.com) |
-| 🛡️ **[CAPTCHA Shield](https://github.com/smouj/captcha-shield)** | Anti-bot system. 14 behavioral signals, 7 challenge types, QR mobile verification. 100% client-side. | `TypeScript` `React` | [GitHub Pages](https://smouj.github.io/captcha-shield/) |
-| 🧬 **[MythosForge](https://github.com/smouj/MythosForge)** | Recurrent-Depth Transformer research. LTI-stable looped inference, MLA/GQA, MoE routing, adaptive halting. | `Python` `PyTorch` | [GitHub Pages](https://smouj.github.io/MythosForge/) |
-| 🎬 **[FlickClaw](https://github.com/smouj/FlickClaw)** | Viral video clip generator with AI subtitles. AI tools comparator (54+ tools). | `Python` `Next.js` | — |
-| 🔧 **[AICodeStudio](https://github.com/smouj/AICodeStudio)** | Open-source AI-powered IDE. OpenClaw & Hermes integration, Monaco Editor, PWA desktop installation. | `Python` `React` | [GitHub Pages](https://smouj.github.io/AICodeStudio/) |
-| 🌐 **[Agent Browser](https://github.com/smouj/agent-browser)** | Give any AI agent a real browser. REST API + Web Dashboard + Vision AI via Playwright. | `TypeScript` `Next.js` | [GitHub Pages](https://smouj.github.io/agent-browser/) |
-
----
-
-## More Projects
-
-| Project | What | Live |
-|:---|:---|:---|
-| 🎮 **[Shatter Protocol](https://github.com/smouj/shatter-protocol)** | Tactical Roguelike RPG Breakout | — |
-| 🐾 **[ASCIIcritters](https://github.com/smouj/asciicritters)** | 3D Virtual Pet Creator — ASCII art pets in Three.js with AI chat & bloom effects | [GitHub Pages](https://smouj.github.io/asciicritters/) |
-| 🤖 **[OpenClaw Desk](https://github.com/smouj/openclaw-desk)** | Web panel for managing OpenClaw agents | [GitHub Pages](https://smouj.github.io/openclaw-desk/) |
-| 🧬 **[Skill Genesis](https://github.com/smouj/skill-genesis)** | Autonomous OpenClaw Skill Generator | [GitHub Pages](https://smouj.github.io/skill-genesis/) |
-| 🤖 **[KanClaw](https://github.com/smouj/kanclaw)** | Local-first workspace OS for AI agent teams | — |
-| 📊 **[TokenTax](https://github.com/smouj/tokentax)** | Compare 400+ AI models from all providers | [GitHub Pages](https://smouj.github.io/tokentax/) |
-| 📦 **[Prompt Organizer](https://github.com/smouj/prompt-organizer)** | Visual tool for organizing prompts, audits & backlog | [GitHub Pages](https://smouj.github.io/prompt-organizer/) |
-| ⛽ **[Gasolineras España](https://github.com/smouj/gasolineras-espana)** | Interactive panel with real-time fuel prices across Spain | — |
-| 🏠 **[Hipoteca Compare](https://github.com/smouj/hipoteca-compare)** | Professional mortgage comparator for Spain with AI assistant | — |
-| 🛡️ **[Essentials Skill OpenClaw](https://github.com/smouj/essentials-skill-openclaw)** | Security-first essential skills pack for OpenClaw | — |
-| 📚 **[Awesome OpenClaw Skills](https://github.com/smouj/awesome-openclaw-skills)** | Curated collection of OpenClaw Skills | — |
-
----
-
-## Tech Stack
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" valign="top">
 
-### Languages & AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### 🦁 [RPGCLAW.com](https://www.rpgclaw.com)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![llama.cpp](https://img.shields.io/badge/llama.cpp-CUDA-000?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![QLoRA](https://img.shields.io/badge/QLoRA-SFT-58a6ff?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-Local-000?style=flat-square&logo=ollama&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-Codex-10A37F?style=flat-square&logo=openai&logoColor=white)
+<img src="https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=flat-square" alt="Status" />
+<img src="https://img.shields.io/badge/TYPE-Multiplayer_Game-blue?style=flat-square" alt="Type" />
+
+**Live Collaborative Pixel World**
+
+> Real-time multiplayer pixel canvas where humans and AI agents compete and collaborate on the same map.
+
+**Features:**
+- 🤖 AI Agent Integration
+- 🎨 2D/3D Persistent Canvas
+- 👥 Real-time Multiplayer
+- 📊 Self-hosted Analytics
+
+**Stack:** `Node.js` `MongoDB` `WebSocket` `Docker`
+
+[🌐 Visit Site](https://rpgclaw.com) · [📖 Docs](https://rpgclaw.com/docs)
 
 </td>
-<td width="50%">
+<td width="33%" valign="top">
 
-### Full-Stack & Infra
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+### 🎬 [FlickClaw.com](https://flickclaw.com)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Caddy](https://img.shields.io/badge/Caddy-1F883D?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+<img src="https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=flat-square" alt="Status" />
+<img src="https://img.shields.io/badge/TYPE-AI_Platform-purple?style=flat-square" alt="Type" />
+
+**AI Animated Wallpaper Generator**
+
+> Upload any image and AI brings it to life with real motion — water flowing, clouds drifting, light changing.
+
+**Features:**
+- 🎥 AI Motion Generation
+- 🖼️ Wallpaper Creation
+- 🤖 Agent Launcher
+- 📱 Cross-platform Export
+
+**Stack:** `Python` `Next.js` `AI/ML`
+
+[🌐 Visit Site](https://flickclaw.com) · [❓ FAQ](https://flickclaw.com/faq)
+
+</td>
+<td width="33%" valign="top">
+
+### ⚔️ [MedaClawArena.com](https://medaclawarena.com)
+
+<img src="https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=flat-square" alt="Status" />
+<img src="https://img.shields.io/badge/TYPE-Tactical_Game-orange?style=flat-square" alt="Type" />
+
+**Tactical Combat Game**
+
+> Build the Body. Insert the MedaCore. Enter the Arena. Modular robots with sentient MedaCore medallions.
+
+**Features:**
+- 🤖 Modular Robot Assembly
+- ⚔️ Tactical Combat
+- 🎯 Deterministic Battles
+- 🏆 Seasonal Ladders
+
+**Stack:** `TypeScript` `Next.js` `Three.js` `Prisma`
+
+[🌐 Visit Site](https://medaclawarena.com)
 
 </td>
 </tr>
 </table>
 
----
-
-## What I'm Working On
-
-```
-2026 Q2 ─────────────────────────────────────────────────────────
-
-🧠 Kimari Local AI    v0.1.82-alpha   Local LLM with CLI, Gateway Dashboard, one-command install
-⚔️ MedaClaw Arena     v0.4.0          Playable battle core, audio system, seasonal ladders
-🧱 RPGCLAW            v2.0.23         Live pixel canvas with 24/7 autonomous marketing agents
-🎬 FlickClaw          —               AI tools comparator + viral clip generator
-
-Production Infra ────────────────────────────────────────────────
-
-VPS (Linux · 8GB RAM)
-├── rpgclaw.com          ──►  Caddy → Node.js + MongoDB (Docker)
-├── medaclawarena.com    ──►  Caddy → PM2 (Next.js cluster)
-└── Plausible Analytics  ──►  Self-hosted privacy-first analytics
-
-Local Dev (WSL2 · GTX 1060 6GB · CUDA 12.0)
-├── Kimari Local AI      ──►  llama.cpp + CUDA training & inference
-├── Ollama (7 models)    ──►  Local inference runtime
-├── OpenClaw Gateway     ──►  Agent orchestration engine
-└── HuggingFace Jobs     ──►  Remote GPU training (A10G)
-```
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1a1a2e,100:0f3460&height=40&section=footer&text=&fontSize=0" width="100%" />
+</div>
 
 ---
 
-## Philosophy
+## 🚀 Featured Open Source Projects
 
 <div align="center">
 
-| | |
-|:---|:---|
-| 🖥️ **Local-first** | AI runs on your hardware. No cloud lock-in, no subscriptions. |
-| 🔒 **Privacy by default** | No telemetry, no data leaks, no API keys for local use. |
-| 🔓 **Open-source always** | Every tool I ship is open. Fork it, learn from it, improve it. |
-| 🎮 **Consumer hardware** | Training LLMs on a GTX 1060. If it needs an H100, the design is wrong. |
-| 🚢 **Ship real products** | Working apps in production > polished presentations. |
+<a href="https://github.com/smouj/kimari-local-ai">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=smouj&repo=kimari-local-ai&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=8892b0" alt="Kimari Local AI" />
+</a>
+<a href="https://github.com/smouj/medaclaw-arena">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=smouj&repo=medaclaw-arena&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=8892b0" alt="MedaClaw Arena" />
+</a>
+<a href="https://github.com/smouj/royal-pixel-game">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=smouj&repo=royal-pixel-game&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=8892b0" alt="Royal Pixel Game" />
+</a>
+<a href="https://github.com/smouj/FlickClaw">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=smouj&repo=FlickClaw&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=8892b0" alt="FlickClaw" />
+</a>
+
+</div>
+
+---
+
+## 📊 Project Overview
+
+| Project | Description | Tech Stack | Status |
+|:---|:---|:---|:---:|
+| 🧠 **[Kimari Local AI](https://github.com/smouj/kimari-local-ai)** | LLM training & serving on consumer GPUs. Custom SFT adapters, private eval pipelines. | `Python` `llama.cpp` `CUDA` `Next.js` | ![Active](https://img.shields.io/badge/Active-brightgreen?style=flat-square) |
+| ⚔️ **[MedaClaw Arena](https://github.com/smouj/medaclaw-arena)** | Tactical combat game with modular robots, cel-shading 3D, seasonal ladders. | `TypeScript` `Next.js` `Three.js` `Prisma` | ![Live](https://img.shields.io/badge/Live-success?style=flat-square) |
+| 🧱 **[Royal Pixel Game](https://github.com/smouj/royal-pixel-game)** | Real-time collaborative pixel canvas with WebSocket multiplayer. | `JavaScript` `Node.js` `MongoDB` `Docker` | ![Live](https://img.shields.io/badge/Live-success?style=flat-square) |
+| 🎬 **[FlickClaw](https://github.com/smouj/FlickClaw)** | AI animated wallpaper generator with viral clip creation. | `Python` `Next.js` `AI/ML` | ![Beta](https://img.shields.io/badge/Beta-yellow?style=flat-square) |
+| 🛡️ **[CAPTCHA Shield](https://github.com/smouj/captcha-shield)** | Anti-bot system with 14 behavioral signals, 7 challenge types. | `TypeScript` `React` | ![Stable](https://img.shields.io/badge/Stable-blue?style=flat-square) |
+| 🧬 **[MythosForge](https://github.com/smouj/MythosForge)** | Recurrent-Depth Transformer research with LTI-stable inference. | `Python` `PyTorch` | ![Research](https://img.shields.io/badge/Research-orange?style=flat-square) |
+| 🌐 **[Agent Browser](https://github.com/smouj/agent-browser)** | Give any AI agent a real browser with REST API + Vision AI. | `TypeScript` `Next.js` `Playwright` | ![Active](https://img.shields.io/badge/Active-brightgreen?style=flat-square) |
+| 🔧 **[AICodeStudio](https://github.com/smouj/AICodeStudio)** | Open-source AI-powered IDE with PWA desktop installation. | `Python` `React` `Monaco` | ![Stable](https://img.shields.io/badge/Stable-blue?style=flat-square) |
+
+<details>
+<summary><b>📁 More Projects</b></summary>
+
+| Project | Description | Status |
+|:---|:---|:---:|
+| 🎮 **[Shatter Protocol](https://github.com/smouj/shatter-protocol)** | Tactical Roguelike RPG Breakout | ![Dev](https://img.shields.io/badge/In_Development-yellow?style=flat-square) |
+| 🐾 **[ASCIIcritters](https://github.com/smouj/asciicritters)** | 3D Virtual Pet Creator with ASCII art pets | ![Live](https://img.shields.io/badge/Live-success?style=flat-square) |
+| 🤖 **[OpenClaw Desk](https://github.com/smouj/openclaw-desk)** | Web panel for managing OpenClaw agents | ![Stable](https://img.shields.io/badge/Stable-blue?style=flat-square) |
+| 🧬 **[Skill Genesis](https://github.com/smouj/skill-genesis)** | Autonomous OpenClaw Skill Generator | ![Beta](https://img.shields.io/badge/Beta-yellow?style=flat-square) |
+| 🤖 **[KanClaw](https://github.com/smouj/kanclaw)** | Local-first workspace OS for AI agent teams | ![Dev](https://img.shields.io/badge/In_Development-yellow?style=flat-square) |
+| 📊 **[TokenTax](https://github.com/smouj/tokentax)** | Compare 400+ AI models from all providers | ![Live](https://img.shields.io/badge/Live-success?style=flat-square) |
+| 📦 **[Prompt Organizer](https://github.com/smouj/prompt-organizer)** | Visual tool for organizing prompts & audits | ![Stable](https://img.shields.io/badge/Stable-blue?style=flat-square) |
+| ⛽ **[Gasolineras España](https://github.com/smouj/gasolineras-espana)** | Real-time fuel prices across Spain | ![Live](https://img.shields.io/badge/Live-success?style=flat-square) |
+| 🏠 **[Hipoteca Compare](https://github.com/smouj/hipoteca-compare)** | Mortgage comparator for Spain with AI | ![Live](https://img.shields.io/badge/Live-success?style=flat-square) |
+| 📚 **[Awesome OpenClaw Skills](https://github.com/smouj/awesome-openclaw-skills)** | Curated collection of OpenClaw Skills | ![Stable](https://img.shields.io/badge/Stable-blue?style=flat-square) |
+
+</details>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Frameworks
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,tailwind,fastapi&perline=8" />
+
+### AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=pytorch,opencv&perline=8" />
+<img src="https://img.shields.io/badge/llama.cpp-CUDA-000?style=flat-square&logo=nvidia&logoColor=76B900" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Ollama-Local-000?style=flat-square&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/QLoRA-SFT-00d9ff?style=flat-square" />
+
+### Databases & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,linux,nginx&perline=8" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Caddy-1F883D?style=flat-square" />
+<img src="https://img.shields.io/badge/CUDA_12.0-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop&perline=8" />
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=smouj&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=8892b0&dates=484f58" width="100%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=smouj&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=8892b0&count_private=true&hide=issues&include_all_commits=true" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smouj&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=8892b0&langs_count=10&include_all_commits=true" width="47%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=smouj&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🏗️ Current Infrastructure
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                           PRODUCTION INFRASTRUCTURE                          │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│   VPS (Linux · 8GB RAM)                                                      │
+│   ├── 🧱 rpgclaw.com         ──►  Caddy → Node.js + MongoDB (Docker)         │
+│   ├── ⚔️ medaclawarena.com   ──►  Caddy → PM2 (Next.js cluster)              │
+│   └── 📊 Plausible Analytics ──►  Self-hosted privacy-first analytics        │
+│                                                                              │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                              LOCAL DEVELOPMENT                               │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│   WSL2 · GTX 1060 6GB · CUDA 12.0                                            │
+│   ├── 🧠 Kimari Local AI     ──►  llama.cpp + CUDA training & inference      │
+│   ├── 🤖 Ollama (7 models)   ──►  Local inference runtime                    │
+│   ├── 🌐 OpenClaw Gateway    ──►  Agent orchestration engine                 │
+│   └── 🤗 HuggingFace Jobs    ──►  Remote GPU training (A10G)                 │
+│                                                                              │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📅 Current Focus (2025 Q2)
+
+<div align="center">
+
+| Project | Version | Description |
+|:---|:---:|:---|
+| 🧠 **Kimari Local AI** | `v0.1.82-alpha` | Local LLM with CLI, Gateway Dashboard, one-command install |
+| ⚔️ **MedaClaw Arena** | `v0.4.0` | Playable battle core, audio system, seasonal ladders |
+| 🧱 **RPGCLAW** | `v2.0.23` | Live pixel canvas with 24/7 autonomous marketing agents |
+| 🎬 **FlickClaw** | `—` | AI tools comparator + viral clip generator |
+
+</div>
+
+---
+
+## 💡 Philosophy
+
+<div align="center">
+
+<table>
+<tr>
+<td width="20%" align="center">🖥️</td>
+<td width="80%">
+<b>Local-First</b><br/>
+AI runs on your hardware. No cloud lock-in, no subscriptions. Your data stays on your machine.
+</td>
+</tr>
+<tr>
+<td width="20%" align="center">🔒</td>
+<td width="80%">
+<b>Privacy by Default</b><br/>
+No telemetry, no data leaks, no API keys required for local use. Privacy is not optional.
+</td>
+</tr>
+<tr>
+<td width="20%" align="center">🔓</td>
+<td width="80%">
+<b>Open-Source Always</b><br/>
+Every tool I ship is open. Fork it, learn from it, improve it. Open source is the only way.
+</td>
+</tr>
+<tr>
+<td width="20%" align="center">🎮</td>
+<td width="80%">
+<b>Consumer Hardware</b><br/>
+Training LLMs on a GTX 1060. If it needs an H100, the architecture is wrong.
+</td>
+</tr>
+<tr>
+<td width="20%" align="center">🚢</td>
+<td width="80%">
+<b>Ship Real Products</b><br/>
+Working apps in production beat polished presentations. Real users > theoretical features.
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://x.com/smouj013">
+  <img src="https://img.shields.io/badge/Follow_on_X-@smouj013-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
+</a>
+<a href="https://www.linkedin.com/in/hector-poley-cruz-a712113b6/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<br/><br/>
+
+<a href="http://huggingface.co/Smouj013">
+  <img src="https://img.shields.io/badge/🤗_HuggingFace-Smouj013-FFD21E?style=for-the-badge&logoColor=black" alt="HuggingFace" />
+</a>
+<a href="https://www.reddit.com/user/SnooMarzipans9093/">
+  <img src="https://img.shields.io/badge/Reddit-u/SnooMarzipans9093-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+</a>
+
+<br/><br/>
+
+<a href="https://discord.gg/zQKjRzczTS">
+  <img src="https://img.shields.io/badge/Join_Discord-RPGCLAW_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+<a href="https://github.com/smouj">
+  <img src="https://img.shields.io/badge/GitHub-Follow_@smouj-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 </div>
 
@@ -175,11 +387,10 @@ Local Dev (WSL2 · GTX 1060 6GB · CUDA 12.0)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=smouj&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true&hide=issues" width="47%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smouj&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" width="47%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&text=Built%20with%20☕%20and%20CUDA&fontSize=18&fontColor=8892b0&fontAlignY=70&animation=fadeIn" width="100%" />
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=100&section=footer&text=Built%20with%20caffeine%20and%20CUDA&fontSize=16&fontColor=8b949e&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&pause=2000&color=8892B0&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐+Star+my+repos+if+you+find+them+useful" alt="Typing SVG" />
 
 </div>
