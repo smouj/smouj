@@ -23,8 +23,8 @@
 <a href="https://x.com/smouj013">
   <img src="https://img.shields.io/badge/@smouj013-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
 </a>
-<a href="https://www.linkedin.com/in/hector-poley-cruz-a712113b6/">
-  <img src="https://img.shields.io/badge/LinkedIn-Hector_Poley_Cruz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/smouj/">
+  <img src="https://img.shields.io/badge/LinkedIn-Smouj013?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="http://huggingface.co/Smouj013">
   <img src="https://img.shields.io/badge/🤗_HuggingFace-Smouj013-FFD21E?style=for-the-badge&logoColor=black" alt="HuggingFace" />
