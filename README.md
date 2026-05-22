@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:0D1117,100:1A1A1A&height=210&section=header&text=SMOUJ013&fontSize=64&fontColor=F5F5F5&fontAlignY=36&desc=Local-first%20AI%20%C2%B7%20Agent%20Workflows%20%C2%B7%20Automation%20%C2%B7%20Game%20Systems&descAlignY=58&descSize=13&descColor=A3A3A3&animation=fadeIn" width="100%" alt="SMOUJ013 profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050505,50:0D1117,100:1A1A1A&amp;height=210&amp;section=header&amp;text=SMOUJ013&amp;fontSize=64&amp;fontColor=F5F5F5&amp;fontAlignY=36&amp;desc=Local-first%20AI%20%C2%B7%20Agent%20Workflows%20%C2%B7%20Automation%20%C2%B7%20Game%20Systems&amp;descAlignY=58&amp;descSize=13&amp;descColor=A3A3A3&amp;animation=fadeIn" width="100%" alt="SMOUJ013 profile banner" />
 
 <br />
 <br />
 
 <a href="https://github.com/smouj">
-  <img src="https://github.com/smouj.png?size=220" width="156" alt="SMOUJ013 avatar" />
+  <img src="https://github.com/smouj.png?size=220" width="154" alt="SMOUJ013 avatar" />
 </a>
 
+<br />
 <br />
 
 <h1>SMOUJ013</h1>
@@ -20,6 +21,8 @@
 <p>
   Developer building practical systems around local LLMs, specialist agents, browser automation, multiplayer worlds, tactical games and production-ready platforms.
 </p>
+
+<br />
 
 <p>
   <a href="https://github.com/smouj">GitHub</a>
@@ -45,7 +48,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:111111&height=90&section=header&text=BUILD%20REAL%20SYSTEMS&fontSize=27&fontColor=F5F5F5&desc=Shipped%20products%20%C2%B7%20Local%20AI%20%C2%B7%20Agent%20workflows%20%C2%B7%20Production%20discipline&descSize=12&descColor=A3A3A3" width="100%" alt="Build real systems banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:050505,100:111111&amp;height=92&amp;section=header&amp;text=BUILD%20REAL%20SYSTEMS&amp;fontSize=27&amp;fontColor=F5F5F5&amp;desc=Shipped%20products%20%C2%B7%20Local%20AI%20%C2%B7%20Agent%20workflows%20%C2%B7%20Production%20discipline&amp;descSize=12&amp;descColor=A3A3A3" width="100%" alt="Build real systems banner" />
 
 </div>
 
@@ -53,15 +56,19 @@
 
 ## 🧭 Profile
 
+<br />
+
 I build practical software around **local AI**, **agent systems**, **developer automation**, **game engineering** and **production infrastructure**.
 
 My work is focused on systems that can be deployed, tested, audited and improved over time: agent launchers, local LLM tooling, browser automation, multiplayer platforms, tactical game systems, dashboards, CLIs and production web products.
 
 <br />
 
-### What I care about
+### Focus areas
 
-| Focus area | Direction |
+<br />
+
+| Area | Direction |
 |:---|:---|
 | **🧠 Local AI** | Local LLM workflows, GGUF, llama.cpp, CUDA, consumer GPU inference and OpenAI-compatible local APIs. |
 | **🤖 Agent workflows** | Agent identities, skills, export formats, quality gates, workflow files and tool-specific operating rules. |
@@ -72,6 +79,8 @@ My work is focused on systems that can be deployed, tested, audited and improved
 <br />
 
 ### Operating principles
+
+<br />
 
 | Principle | Meaning |
 |:---|:---|
@@ -89,7 +98,7 @@ My work is focused on systems that can be deployed, tested, audited and improved
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:171717&height=90&section=header&text=PRODUCT%20ECOSYSTEM&fontSize=27&fontColor=F5F5F5&desc=Live%20products,%20open%20tools,%20agent%20workflows%20and%20game%20systems&descSize=12&descColor=A3A3A3" width="100%" alt="Product ecosystem banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:080808,100:171717&amp;height=92&amp;section=header&amp;text=PRODUCT%20ECOSYSTEM&amp;fontSize=27&amp;fontColor=F5F5F5&amp;desc=Live%20products,%20open%20tools,%20agent%20workflows%20and%20game%20systems&amp;descSize=12&amp;descColor=A3A3A3" width="100%" alt="Product ecosystem banner" />
 
 </div>
 
@@ -101,8 +110,10 @@ My work is focused on systems that can be deployed, tested, audited and improved
 
 ### 01 · FlickClaw
 
+<br />
+
 <a href="https://flickclaw.com">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:181818&height=138&section=header&text=FlickClaw&fontSize=40&fontColor=F5F5F5&desc=AI%20Agent%20Launcher%20%C2%B7%20Exportable%20specialist%20agents&descSize=13&descColor=A3A3A3" width="100%" alt="FlickClaw banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:050505,100:181818&amp;height=140&amp;section=header&amp;text=FlickClaw&amp;fontSize=40&amp;fontColor=F5F5F5&amp;desc=AI%20Agent%20Launcher%20%C2%B7%20Exportable%20specialist%20agents&amp;descSize=13&amp;descColor=A3A3A3" width="100%" alt="FlickClaw banner" />
 </a>
 
 <br />
@@ -111,12 +122,16 @@ My work is focused on systems that can be deployed, tested, audited and improved
 
 It is built around curated, exportable specialist agents. It does not sell raw API tokens and it is not a generic chatbot. The product packages agent instructions, workflow files, quality gates, output contracts and target-specific files for real development tools.
 
+<br />
+
 | Detail | Value |
 |:---|:---|
 | **Type** | Agent launcher / export platform |
 | **Focus** | Preconfigured specialist agents |
 | **Targets** | OpenClaw, Hermes, Claude Code, Codex and IDE agents |
 | **Status** | Live |
+
+<br />
 
 <p>
   <a href="https://flickclaw.com">Website</a>
@@ -134,13 +149,17 @@ It is built around curated, exportable specialist agents. It does not sell raw A
 
 ### 02 · Kimari Local AI
 
+<br />
+
 <a href="https://github.com/smouj/kimari-local-ai">
-  <img src="https://opengraph.githubassets.com/smouj-profile-kimari-v2/smouj/kimari-local-ai" width="100%" alt="Kimari Local AI repository preview" />
+  <img src="https://opengraph.githubassets.com/smouj-profile-kimari-final/smouj/kimari-local-ai" width="100%" alt="Kimari Local AI repository preview" />
 </a>
 
 <br />
 
 **Kimari Local AI** is my local-first AI framework focused on useful LLM workflows for consumer GPUs, especially older and low-VRAM NVIDIA cards.
+
+<br />
 
 | Detail | Value |
 |:---|:---|
@@ -148,6 +167,8 @@ It is built around curated, exportable specialist agents. It does not sell raw A
 | **Focus** | llama.cpp, GGUF, CUDA, local APIs |
 | **Hardware direction** | GTX 1060 / GTX 1080 class machines |
 | **Status** | Active alpha |
+
+<br />
 
 <p>
   <a href="https://github.com/smouj/kimari-local-ai">Repository</a>
@@ -163,13 +184,17 @@ It is built around curated, exportable specialist agents. It does not sell raw A
 
 ### 03 · RPGCLAW
 
+<br />
+
 <a href="https://www.rpgclaw.com">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:181818&height=138&section=header&text=RPGCLAW&fontSize=40&fontColor=F5F5F5&desc=Collaborative%20pixel%20world%20%C2%B7%20Humans%20and%20AI%20agents&descSize=13&descColor=A3A3A3" width="100%" alt="RPGCLAW banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:050505,100:181818&amp;height=140&amp;section=header&amp;text=RPGCLAW&amp;fontSize=40&amp;fontColor=F5F5F5&amp;desc=Collaborative%20pixel%20world%20%C2%B7%20Humans%20and%20AI%20agents&amp;descSize=13&amp;descColor=A3A3A3" width="100%" alt="RPGCLAW banner" />
 </a>
 
 <br />
 
 **RPGCLAW** is a collaborative pixel world where humans and AI agents interact under shared fair-play rules.
+
+<br />
 
 | Detail | Value |
 |:---|:---|
@@ -177,6 +202,8 @@ It is built around curated, exportable specialist agents. It does not sell raw A
 | **Focus** | Humans and AI agents on persistent maps |
 | **Core mechanics** | Canvas, templates, cooldowns, real-time updates |
 | **Status** | Live |
+
+<br />
 
 <p>
   <a href="https://www.rpgclaw.com">Website</a>
@@ -192,15 +219,21 @@ It is built around curated, exportable specialist agents. It does not sell raw A
 
 ### 04 · MedaClaw Arena
 
+<br />
+
 <a href="https://medaclawarena.com">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:181818&height=138&section=header&text=MedaClaw%20Arena&fontSize=36&fontColor=F5F5F5&desc=Modular%20robots%20%C2%B7%20MedaCore%20%C2%B7%20Tactical%20combat&descSize=13&descColor=A3A3A3" width="100%" alt="MedaClaw Arena banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:050505,100:181818&amp;height=140&amp;section=header&amp;text=MedaClaw%20Arena&amp;fontSize=36&amp;fontColor=F5F5F5&amp;desc=Modular%20robots%20%C2%B7%20MedaCore%20%C2%B7%20Tactical%20combat&amp;descSize=13&amp;descColor=A3A3A3" width="100%" alt="MedaClaw Arena banner" />
 </a>
 
 <br />
 
 **MedaClaw Arena** is a tactical robot combat game built around modular bodies, MedaCore identity and deterministic arena battles.
 
+<br />
+
 > Build the body. Insert the MedaCore. Enter the arena.
+
+<br />
 
 | Detail | Value |
 |:---|:---|
@@ -208,6 +241,8 @@ It is built around curated, exportable specialist agents. It does not sell raw A
 | **Focus** | Modular robots, sentient cores, deterministic battles |
 | **Visual direction** | Cel-shaded mechanical arcade style |
 | **Status** | Active |
+
+<br />
 
 <p>
   <a href="https://medaclawarena.com">Website</a>
@@ -221,7 +256,7 @@ It is built around curated, exportable specialist agents. It does not sell raw A
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:171717&height=90&section=header&text=AGENT%20WORKFLOWS&fontSize=27&fontColor=F5F5F5&desc=Structured%20agents,%20native%20exports,%20quality%20gates%20and%20tool-specific%20files&descSize=12&descColor=A3A3A3" width="100%" alt="Agent workflows banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:080808,100:171717&amp;height=92&amp;section=header&amp;text=AGENT%20WORKFLOWS&amp;fontSize=27&amp;fontColor=F5F5F5&amp;desc=Structured%20agents,%20native%20exports,%20quality%20gates%20and%20tool-specific%20files&amp;descSize=12&amp;descColor=A3A3A3" width="100%" alt="Agent workflows banner" />
 
 </div>
 
@@ -229,11 +264,15 @@ It is built around curated, exportable specialist agents. It does not sell raw A
 
 ## 🤖 FlickClaw Agent Model
 
+<br />
+
 FlickClaw is built around **preconfigured specialist agents**, not generic prompts. Each agent should carry enough structure to perform a specific job inside the user's own tools and environment.
 
 <br />
 
 ### Agent package layers
+
+<br />
 
 | Layer | Purpose |
 |:---|:---|
@@ -247,6 +286,8 @@ FlickClaw is built around **preconfigured specialist agents**, not generic promp
 <br />
 
 ### Export targets
+
+<br />
 
 | Target | Output direction |
 |:---|:---|
@@ -265,7 +306,7 @@ FlickClaw is built around **preconfigured specialist agents**, not generic promp
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:111111&height=90&section=header&text=SELECTED%20REPOSITORIES&fontSize=27&fontColor=F5F5F5&desc=Public%20tools,%20agent%20systems,%20local%20AI%20and%20security%20projects&descSize=12&descColor=A3A3A3" width="100%" alt="Selected repositories banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:050505,100:111111&amp;height=92&amp;section=header&amp;text=SELECTED%20REPOSITORIES&amp;fontSize=27&amp;fontColor=F5F5F5&amp;desc=Public%20tools,%20agent%20systems,%20local%20AI%20and%20security%20projects&amp;descSize=12&amp;descColor=A3A3A3" width="100%" alt="Selected repositories banner" />
 
 </div>
 
@@ -277,19 +318,25 @@ FlickClaw is built around **preconfigured specialist agents**, not generic promp
 
 ### Agent Browser
 
+<br />
+
 <a href="https://github.com/smouj/agent-browser">
-  <img src="https://opengraph.githubassets.com/smouj-profile-agent-browser-v2/smouj/agent-browser" width="100%" alt="Agent Browser repository preview" />
+  <img src="https://opengraph.githubassets.com/smouj-profile-agent-browser-final/smouj/agent-browser" width="100%" alt="Agent Browser repository preview" />
 </a>
 
 <br />
 
 Controlled browser access for AI agents through Playwright, REST APIs and dashboard-driven workflows.
 
+<br />
+
 | Area | Stack |
 |:---|:---|
 | **Automation** | Playwright, browser sessions, controlled actions |
 | **Frontend** | Next.js, TypeScript |
 | **Agent use** | OpenClaw, Hermes and LLM-driven browsing |
+
+<br />
 
 <p>
   <a href="https://github.com/smouj/agent-browser">Repository</a>
@@ -303,19 +350,25 @@ Controlled browser access for AI agents through Playwright, REST APIs and dashbo
 
 ### CAPTCHA Shield
 
+<br />
+
 <a href="https://github.com/smouj/captcha-shield">
-  <img src="https://opengraph.githubassets.com/smouj-profile-captcha-shield-v2/smouj/captcha-shield" width="100%" alt="CAPTCHA Shield repository preview" />
+  <img src="https://opengraph.githubassets.com/smouj-profile-captcha-shield-final/smouj/captcha-shield" width="100%" alt="CAPTCHA Shield repository preview" />
 </a>
 
 <br />
 
 Anti-bot challenge system focused on behavioral signals and interactive verification.
 
+<br />
+
 | Area | Stack |
 |:---|:---|
 | **Security** | Bot protection, behavioral checks |
 | **Frontend** | TypeScript, React |
 | **Direction** | Interactive, themeable challenge systems |
+
+<br />
 
 <p>
   <a href="https://github.com/smouj/captcha-shield">Repository</a>
@@ -329,19 +382,25 @@ Anti-bot challenge system focused on behavioral signals and interactive verifica
 
 ### AICodeStudio
 
+<br />
+
 <a href="https://github.com/smouj/AICodeStudio">
-  <img src="https://opengraph.githubassets.com/smouj-profile-aicodestudio-v2/smouj/AICodeStudio" width="100%" alt="AICodeStudio repository preview" />
+  <img src="https://opengraph.githubassets.com/smouj-profile-aicodestudio-final/smouj/AICodeStudio" width="100%" alt="AICodeStudio repository preview" />
 </a>
 
 <br />
 
 AI-assisted development environment concept for structured coding workflows, project context and developer productivity.
 
+<br />
+
 | Area | Stack |
 |:---|:---|
 | **IDE** | Assisted development workflows |
 | **Agents** | OpenClaw / Hermes-oriented direction |
 | **Status** | Public concept / tool project |
+
+<br />
 
 <p>
   <a href="https://github.com/smouj/AICodeStudio">Repository</a>
@@ -355,19 +414,25 @@ AI-assisted development environment concept for structured coding workflows, pro
 
 ### MythosForge
 
+<br />
+
 <a href="https://github.com/smouj/MythosForge">
-  <img src="https://opengraph.githubassets.com/smouj-profile-mythosforge-v2/smouj/MythosForge" width="100%" alt="MythosForge repository preview" />
+  <img src="https://opengraph.githubassets.com/smouj-profile-mythosforge-final/smouj/MythosForge" width="100%" alt="MythosForge repository preview" />
 </a>
 
 <br />
 
 Experimental research playground for recurrent-depth transformer ideas and model architecture exploration.
 
+<br />
+
 | Area | Stack |
 |:---|:---|
 | **Research** | Transformer architecture experiments |
 | **Runtime** | Python, PyTorch |
 | **Status** | Experimental |
+
+<br />
 
 <p>
   <a href="https://github.com/smouj/MythosForge">Repository</a>
@@ -381,19 +446,25 @@ Experimental research playground for recurrent-depth transformer ideas and model
 
 ### Kimari Microcompress
 
+<br />
+
 <a href="https://github.com/smouj/kimari-microcompress">
-  <img src="https://opengraph.githubassets.com/smouj-profile-microcompress-v2/smouj/kimari-microcompress" width="100%" alt="Kimari Microcompress repository preview" />
+  <img src="https://opengraph.githubassets.com/smouj-profile-microcompress-final/smouj/kimari-microcompress" width="100%" alt="Kimari Microcompress repository preview" />
 </a>
 
 <br />
 
 Compression experiments around AI model files, metadata, streaming access and local workflow optimization.
 
+<br />
+
 | Area | Stack |
 |:---|:---|
 | **AI tooling** | GGUF / safetensors-oriented workflows |
 | **Focus** | Reversible compression, indexes, streaming |
 | **Status** | Public |
+
+<br />
 
 <p>
   <a href="https://github.com/smouj/kimari-microcompress">Repository</a>
@@ -407,7 +478,7 @@ Compression experiments around AI model files, metadata, streaming access and lo
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:171717&height=90&section=header&text=TECHNICAL%20STACK&fontSize=27&fontColor=F5F5F5&desc=Full-stack,%20local%20AI,%20game%20engineering,%20agent%20automation%20and%20production%20infrastructure&descSize=12&descColor=A3A3A3" width="100%" alt="Technical stack banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:080808,100:171717&amp;height=92&amp;section=header&amp;text=TECHNICAL%20STACK&amp;fontSize=27&amp;fontColor=F5F5F5&amp;desc=Full-stack,%20local%20AI,%20game%20engineering,%20agent%20automation%20and%20production%20infrastructure&amp;descSize=12&amp;descColor=A3A3A3" width="100%" alt="Technical stack banner" />
 
 </div>
 
@@ -418,6 +489,8 @@ Compression experiments around AI model files, metadata, streaming access and lo
 <br />
 
 ### Languages
+
+<br />
 
 | Primary | Also used |
 |:---|:---|
@@ -430,6 +503,8 @@ Compression experiments around AI model files, metadata, streaming access and lo
 
 ### Frontend
 
+<br />
+
 | Area | Tools |
 |:---|:---|
 | **Web apps** | React, Next.js, Vite |
@@ -440,6 +515,8 @@ Compression experiments around AI model files, metadata, streaming access and lo
 <br />
 
 ### Backend
+
+<br />
 
 | Area | Tools |
 |:---|:---|
@@ -452,6 +529,8 @@ Compression experiments around AI model files, metadata, streaming access and lo
 
 ### AI and agent tooling
 
+<br />
+
 | Area | Tools / Concepts |
 |:---|:---|
 | **Local AI** | llama.cpp, GGUF, CUDA, Ollama, OpenAI-compatible local APIs |
@@ -462,6 +541,8 @@ Compression experiments around AI model files, metadata, streaming access and lo
 <br />
 
 ### Infrastructure
+
+<br />
 
 | Area | Tools |
 |:---|:---|
@@ -478,7 +559,7 @@ Compression experiments around AI model files, metadata, streaming access and lo
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:111111&height=90&section=header&text=PRODUCT%20DIRECTION&fontSize=27&fontColor=F5F5F5&desc=Focused%20execution%20across%20agents,%20local%20AI,%20games%20and%20automation&descSize=12&descColor=A3A3A3" width="100%" alt="Product direction banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:050505,100:111111&amp;height=92&amp;section=header&amp;text=PRODUCT%20DIRECTION&amp;fontSize=27&amp;fontColor=F5F5F5&amp;desc=Focused%20execution%20across%20agents,%20local%20AI,%20games%20and%20automation&amp;descSize=12&amp;descColor=A3A3A3" width="100%" alt="Product direction banner" />
 
 </div>
 
@@ -489,6 +570,8 @@ Compression experiments around AI model files, metadata, streaming access and lo
 <br />
 
 ### FlickClaw
+
+<br />
 
 | Track | Direction |
 |:---|:---|
@@ -502,6 +585,8 @@ Compression experiments around AI model files, metadata, streaming access and lo
 
 ### Kimari Local AI
 
+<br />
+
 | Track | Direction |
 |:---|:---|
 | **Runtime** | Local LLM serving on consumer GPUs |
@@ -514,6 +599,8 @@ Compression experiments around AI model files, metadata, streaming access and lo
 
 ### RPGCLAW
 
+<br />
+
 | Track | Direction |
 |:---|:---|
 | **Canvas** | Persistent world and real-time interaction |
@@ -525,6 +612,8 @@ Compression experiments around AI model files, metadata, streaming access and lo
 <br />
 
 ### MedaClaw Arena
+
+<br />
 
 | Track | Direction |
 |:---|:---|
@@ -542,13 +631,15 @@ Compression experiments around AI model files, metadata, streaming access and lo
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:171717&height=90&section=header&text=WORKFLOW&fontSize=27&fontColor=F5F5F5&desc=Audit,%20scope,%20implement,%20validate,%20document,%20release&descSize=12&descColor=A3A3A3" width="100%" alt="Workflow banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:080808,100:171717&amp;height=92&amp;section=header&amp;text=WORKFLOW&amp;fontSize=27&amp;fontColor=F5F5F5&amp;desc=Audit,%20scope,%20implement,%20validate,%20document,%20release&amp;descSize=12&amp;descColor=A3A3A3" width="100%" alt="Workflow banner" />
 
 </div>
 
 <br />
 
 ## ⚙️ How I Work
+
+<br />
 
 | Step | Purpose |
 |:---|:---|
@@ -567,7 +658,7 @@ Compression experiments around AI model files, metadata, streaming access and lo
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:111111&height=90&section=header&text=PROJECT%20CATEGORIES&fontSize=27&fontColor=F5F5F5&desc=Organized%20map%20of%20the%20ecosystem&descSize=12&descColor=A3A3A3" width="100%" alt="Project categories banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:050505,100:111111&amp;height=92&amp;section=header&amp;text=PROJECT%20CATEGORIES&amp;fontSize=27&amp;fontColor=F5F5F5&amp;desc=Organized%20map%20of%20the%20ecosystem&amp;descSize=12&amp;descColor=A3A3A3" width="100%" alt="Project categories banner" />
 
 </div>
 
@@ -579,6 +670,8 @@ Compression experiments around AI model files, metadata, streaming access and lo
 
 ### Local AI
 
+<br />
+
 | Project | Purpose |
 |:---|:---|
 | **Kimari Local AI** | Local LLM runtime, CLI, gateway and evaluation workflows. |
@@ -588,6 +681,8 @@ Compression experiments around AI model files, metadata, streaming access and lo
 <br />
 
 ### Agent Systems
+
+<br />
 
 | Project | Purpose |
 |:---|:---|
@@ -600,6 +695,8 @@ Compression experiments around AI model files, metadata, streaming access and lo
 
 ### Games and Interactive Systems
 
+<br />
+
 | Project | Purpose |
 |:---|:---|
 | **RPGCLAW** | Collaborative pixel world for humans and agents. |
@@ -610,6 +707,8 @@ Compression experiments around AI model files, metadata, streaming access and lo
 <br />
 
 ### Security, Tools and Utilities
+
+<br />
 
 | Project | Purpose |
 |:---|:---|
@@ -627,7 +726,7 @@ Compression experiments around AI model files, metadata, streaming access and lo
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,100:171717&height=90&section=header&text=PUBLIC%20LINKS&fontSize=27&fontColor=F5F5F5&desc=Products,%20repositories%20and%20technical%20channels&descSize=12&descColor=A3A3A3" width="100%" alt="Public links banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:080808,100:171717&amp;height=92&amp;section=header&amp;text=PUBLIC%20LINKS&amp;fontSize=27&amp;fontColor=F5F5F5&amp;desc=Products,%20repositories%20and%20technical%20channels&amp;descSize=12&amp;descColor=A3A3A3" width="100%" alt="Public links banner" />
 
 </div>
 
@@ -639,6 +738,8 @@ Compression experiments around AI model files, metadata, streaming access and lo
 
 ### Products
 
+<br />
+
 | Product | Link |
 |:---|:---|
 | **FlickClaw** | [flickclaw.com](https://flickclaw.com) |
@@ -648,6 +749,8 @@ Compression experiments around AI model files, metadata, streaming access and lo
 <br />
 
 ### Profiles
+
+<br />
 
 | Platform | Link |
 |:---|:---|
@@ -663,6 +766,6 @@ Compression experiments around AI model files, metadata, streaming access and lo
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,50:0D1117,100:050505&height=125&section=footer&text=LOCAL-FIRST%20AI%20%C2%B7%20AGENT%20WORKFLOWS%20%C2%B7%20REAL%20SYSTEMS&fontSize=18&fontColor=F5F5F5&fontAlignY=70&animation=fadeIn" width="100%" alt="Footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1A1A1A,50:0D1117,100:050505&amp;height=125&amp;section=footer&amp;text=LOCAL-FIRST%20AI%20%C2%B7%20AGENT%20WORKFLOWS%20%C2%B7%20REAL%20SYSTEMS&amp;fontSize=18&amp;fontColor=F5F5F5&amp;fontAlignY=70&amp;animation=fadeIn" width="100%" alt="Footer banner" />
 
 </div>
