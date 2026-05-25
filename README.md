@@ -25,18 +25,33 @@
 <br />
 
 <p>
-  <a href="https://github.com/smouj">GitHub</a>
-  ·
-  <a href="https://x.com/smouj013">X / Twitter</a>
-  ·
-  <a href="https://huggingface.co/Smouj013">Hugging Face</a>
-  ·
+  <a href="https://github.com/smouj">
+    <img src="https://img.shields.io/badge/GitHub-smouj-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://x.com/smouj013">
+    <img src="https://img.shields.io/badge/X-@smouj013-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X / Twitter" />
+  </a>
+  <a href="https://huggingface.co/Smouj013">
+    <img src="https://img.shields.io/badge/Hugging%20Face-Smouj013-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="Hugging Face" />
+  </a>
+  <a href="https://discord.gg/zQKjRzczTS">
+    <img src="https://img.shields.io/badge/Discord-RPGCLAW-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord" />
+  </a>
+</p>
+
+<br />
+
+<p>
   <a href="https://flickclaw.com">FlickClaw</a>
   ·
   <a href="https://www.rpgclaw.com">RPGCLAW</a>
   ·
   <a href="https://medaclawarena.com">MedaClaw Arena</a>
 </p>
+
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=16&amp;pause=1000&amp;color=A3A3A3&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Running+LLMs+on+consumer+GPUs+since+2025;Building+agent+systems+that+ship+to+production;If+it+can't+run+local+the+architecture+is+wrong;Open-source+isn't+a+feature+it's+a+requirement" alt="Typing SVG" />
 
 <br />
 
@@ -476,6 +491,70 @@ Compression experiments around AI model files, metadata, streaming access and lo
 
 <br />
 
+### Skill Genesis
+
+<br />
+
+<a href="https://github.com/smouj/skill-genesis">
+  <img src="https://opengraph.githubassets.com/smouj-profile-skill-genesis-final/smouj/skill-genesis" width="100%" alt="Skill Genesis repository preview" />
+</a>
+
+<br />
+
+Autonomous agent skill generator for OpenClaw. Generates structured, validated skill packages from natural-language descriptions.
+
+<br />
+
+| Area | Stack |
+|:---|:---|
+| **Agent tooling** | Skill generation and packaging |
+| **Target** | OpenClaw AgentSkills format |
+| **Status** | Public |
+
+<br />
+
+<p>
+  <a href="https://github.com/smouj/skill-genesis">Repository</a>
+</p>
+
+<br />
+
+---
+
+<br />
+
+### FerroNest
+
+<br />
+
+<a href="https://github.com/smouj/FerroNest">
+  <img src="https://opengraph.githubassets.com/smouj-profile-ferronest-final/smouj/FerroNest" width="100%" alt="FerroNest repository preview" />
+</a>
+
+<br />
+
+Strategic ant colony management game. You don't give orders — you design signals, pheromone trails and environmental cues that shape emergent colony behavior.
+
+<br />
+
+| Area | Stack |
+|:---|:---|
+| **Game design** | Emergent behavior, signal-based strategy |
+| **Frontend** | Next.js, TypeScript |
+| **Status** | Active development |
+
+<br />
+
+<p>
+  <a href="https://github.com/smouj/FerroNest">Repository</a>
+</p>
+
+<br />
+
+---
+
+<br />
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:080808,100:171717&amp;height=92&amp;section=header&amp;text=TECHNICAL%20STACK&amp;fontSize=27&amp;fontColor=F5F5F5&amp;desc=Full-stack,%20local%20AI,%20game%20engineering,%20agent%20automation%20and%20production%20infrastructure&amp;descSize=12&amp;descColor=A3A3A3" width="100%" alt="Technical stack banner" />
@@ -701,8 +780,8 @@ Compression experiments around AI model files, metadata, streaming access and lo
 |:---|:---|
 | **RPGCLAW** | Collaborative pixel world for humans and agents. |
 | **MedaClaw Arena** | Modular robot tactical combat. |
+| **FerroNest** | Strategic ant colony management with emergent behavior. |
 | **ASCIIcritters** | Virtual pet and 3D interaction experiments. |
-| **Shatter Protocol** | Tactical and arcade game experimentation. |
 
 <br />
 
@@ -717,6 +796,42 @@ Compression experiments around AI model files, metadata, streaming access and lo
 | **Gasolineras España** | Fuel price dashboard for Spain. |
 | **Hipoteca Compare** | Mortgage comparison tool for Spain. |
 | **AICodeStudio** | AI-assisted IDE concept. |
+
+<br />
+
+---
+
+<br />
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:080808,100:171717&amp;height=92&amp;section=header&amp;text=GITHUB%20STATS&amp;fontSize=27&amp;fontColor=F5F5F5&amp;desc=Activity,%20languages%20and%20contribution%20overview&amp;descSize=12&amp;descColor=A3A3A3" width="100%" alt="GitHub stats banner" />
+
+</div>
+
+<br />
+
+## 📊 GitHub Stats
+
+<br />
+
+<div align="center">
+
+<a href="https://github.com/smouj">
+  <img src="https://github-readme-stats.vercel.app/api?username=smouj&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=8b949e&amp;count_private=true&amp;hide=issues" width="48%" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/smouj">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smouj&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=8b949e&amp;langs_count=8" width="41%" alt="Top Languages" />
+</a>
+
+<br />
+<br />
+
+<a href="https://github.com/smouj">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smouj&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;stroke=30363d&amp;ring=58a6ff&amp;fire=ff6b6b&amp;currStreakLabel=58a6ff&amp;sideLabels=8b949e&amp;dates=484f58" width="75%" alt="GitHub Streak" />
+</a>
+
+</div>
 
 <br />
 
@@ -757,6 +872,7 @@ Compression experiments around AI model files, metadata, streaming access and lo
 | **GitHub** | [github.com/smouj](https://github.com/smouj) |
 | **X / Twitter** | [x.com/smouj013](https://x.com/smouj013) |
 | **Hugging Face** | [huggingface.co/Smouj013](https://huggingface.co/Smouj013) |
+| **Discord** | [discord.gg/zQKjRzczTS](https://discord.gg/zQKjRzczTS) |
 
 <br />
 
