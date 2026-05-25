@@ -1,887 +1,158 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050505,50:0D1117,100:1A1A1A&amp;height=210&amp;section=header&amp;text=SMOUJ013&amp;fontSize=64&amp;fontColor=F5F5F5&amp;fontAlignY=36&amp;desc=Local-first%20AI%20%C2%B7%20Agent%20Workflows%20%C2%B7%20Automation%20%C2%B7%20Game%20Systems&amp;descAlignY=58&amp;descSize=13&amp;descColor=A3A3A3&amp;animation=fadeIn" width="100%" alt="SMOUJ013 profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050505,50:0D1117,100:1A1A1A&amp;height=200&amp;section=header&amp;text=SMOUJ013&amp;fontSize=62&amp;fontColor=F5F5F5&amp;fontAlignY=36&amp;desc=Local-first%20AI%20%C2%B7%20Agent%20Workflows%20%C2%B7%20Automation%20%C2%B7%20Game%20Systems&amp;descAlignY=58&amp;descSize=13&amp;descColor=A3A3A3&amp;animation=fadeIn" width="100%" />
+
+<a href="https://github.com/smouj"><img src="https://github.com/smouj.png?size=180" width="130" style="border-radius:50%;margin-top:-10px" /></a>
+
+<br />
+
+<a href="https://github.com/smouj"><img src="https://img.shields.io/badge/GitHub-smouj-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+<a href="https://x.com/smouj013"><img src="https://img.shields.io/badge/X-@smouj013-000?style=for-the-badge&amp;logo=x&amp;logoColor=white" /></a>
+<a href="https://huggingface.co/Smouj013"><img src="https://img.shields.io/badge/Hugging%20Face-Smouj013-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" /></a>
+<a href="https://discord.gg/zQKjRzczTS"><img src="https://img.shields.io/badge/Discord-RPGCLAW-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" /></a>
 
 <br />
 <br />
 
-<a href="https://github.com/smouj">
-  <img src="https://github.com/smouj.png?size=220" width="154" alt="SMOUJ013 avatar" />
-</a>
-
-<br />
-<br />
-
-<h1>SMOUJ013</h1>
-
-<p>
-  <strong>Local-first AI · Agent workflows · Automation · Game systems · Production web products</strong>
-</p>
-
-<p>
-  Developer building practical systems around local LLMs, specialist agents, browser automation, multiplayer worlds, tactical games and production-ready platforms.
-</p>
-
-<br />
-
-<p>
-  <a href="https://github.com/smouj">
-    <img src="https://img.shields.io/badge/GitHub-smouj-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://x.com/smouj013">
-    <img src="https://img.shields.io/badge/X-@smouj013-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X / Twitter" />
-  </a>
-  <a href="https://huggingface.co/Smouj013">
-    <img src="https://img.shields.io/badge/Hugging%20Face-Smouj013-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="Hugging Face" />
-  </a>
-  <a href="https://discord.gg/zQKjRzczTS">
-    <img src="https://img.shields.io/badge/Discord-RPGCLAW-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord" />
-  </a>
-</p>
-
-<br />
-
-<p>
-  <a href="https://flickclaw.com">FlickClaw</a>
-  ·
-  <a href="https://www.rpgclaw.com">RPGCLAW</a>
-  ·
-  <a href="https://medaclawarena.com">MedaClaw Arena</a>
-</p>
-
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=16&amp;pause=1000&amp;color=A3A3A3&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Running+LLMs+on+consumer+GPUs+since+2025;Building+agent+systems+that+ship+to+production;If+it+can't+run+local+the+architecture+is+wrong;Open-source+isn't+a+feature+it's+a+requirement" alt="Typing SVG" />
-
-<br />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=16&amp;pause=1000&amp;color=A3A3A3&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Running+LLMs+on+consumer+GPUs+since+2025;Building+agent+systems+that+ship+to+production;If+it+can't+run+local+the+architecture+is+wrong;Open-source+isn't+a+feature+it's+a+requirement" />
 
 </div>
 
 ---
-
-<br />
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:050505,100:111111&amp;height=92&amp;section=header&amp;text=BUILD%20REAL%20SYSTEMS&amp;fontSize=27&amp;fontColor=F5F5F5&amp;desc=Shipped%20products%20%C2%B7%20Local%20AI%20%C2%B7%20Agent%20workflows%20%C2%B7%20Production%20discipline&amp;descSize=12&amp;descColor=A3A3A3" width="100%" alt="Build real systems banner" />
-
-</div>
-
-<br />
 
 ## 🧭 Profile
 
-<br />
+Developer building practical systems around **local AI**, **agent workflows**, **game engineering** and **production infrastructure**. Deployed, tested, audited and improved over time — not just prototypes.
 
-I build practical software around **local AI**, **agent systems**, **developer automation**, **game engineering** and **production infrastructure**.
-
-My work is focused on systems that can be deployed, tested, audited and improved over time: agent launchers, local LLM tooling, browser automation, multiplayer platforms, tactical game systems, dashboards, CLIs and production web products.
-
-<br />
-
-### Focus areas
-
-<br />
-
-| Area | Direction |
+| Focus | Direction |
 |:---|:---|
-| **🧠 Local AI** | Local LLM workflows, GGUF, llama.cpp, CUDA, consumer GPU inference and OpenAI-compatible local APIs. |
-| **🤖 Agent workflows** | Agent identities, skills, export formats, quality gates, workflow files and tool-specific operating rules. |
-| **🌐 Production products** | SaaS-style platforms, authentication, billing flows, dashboards, documentation, health checks and release flows. |
-| **🎮 Game systems** | Multiplayer worlds, modular mechanics, deterministic combat, real-time interaction and 3D interfaces. |
-| **⚙️ Automation** | Browser agents, coding workflows, validation scripts, infrastructure checks and internal tooling. |
+| 🧠 **Local AI** | llama.cpp · GGUF · CUDA · Ollama · consumer GPU inference · OpenAI-compatible local APIs |
+| 🤖 **Agent Workflows** | identities · skills · export formats · quality gates · target-specific tool files |
+| 🌐 **Production** | SaaS platforms · auth · billing · dashboards · health checks · release flows |
+| 🎮 **Game Systems** | multiplayer worlds · modular mechanics · deterministic combat · 3D interfaces |
+| ⚙️ **Automation** | browser agents · coding workflows · validation scripts · infrastructure checks |
 
 <br />
 
-### Operating principles
-
-<br />
-
-| Principle | Meaning |
+| Principle | |
 |:---|:---|
-| **Audit first** | Inspect the real state before changing code or infrastructure. |
-| **Small safe releases** | Prefer focused changes that can be tested and reverted. |
-| **Local-first when possible** | AI should run on hardware people actually own. |
-| **Production discipline** | Logs, smoke tests, health checks and rollback notes matter. |
-| **No fake claims** | Experimental work stays labeled as experimental. Production work must be validated. |
-
-<br />
+| Audit first | Inspect real state before changing anything |
+| Small safe releases | Focused changes that can be tested and reverted |
+| Local-first | AI should run on hardware people actually own |
+| Production discipline | Logs, smoke tests, health checks, rollback notes |
+| No fake claims | Experimental = labeled. Production = validated |
 
 ---
-
-<br />
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:080808,100:171717&amp;height=92&amp;section=header&amp;text=PRODUCT%20ECOSYSTEM&amp;fontSize=27&amp;fontColor=F5F5F5&amp;desc=Live%20products,%20open%20tools,%20agent%20workflows%20and%20game%20systems&amp;descSize=12&amp;descColor=A3A3A3" width="100%" alt="Product ecosystem banner" />
-
-</div>
-
-<br />
 
 ## 🚀 Main Ecosystem
 
-<br />
-
-### 01 · FlickClaw
-
-<br />
-
-<a href="https://flickclaw.com">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:050505,100:181818&amp;height=140&amp;section=header&amp;text=FlickClaw&amp;fontSize=40&amp;fontColor=F5F5F5&amp;desc=AI%20Agent%20Launcher%20%C2%B7%20Exportable%20specialist%20agents&amp;descSize=13&amp;descColor=A3A3A3" width="100%" alt="FlickClaw banner" />
-</a>
-
-<br />
-
-**FlickClaw** is an **AI Agent Launcher** for serious builders.
-
-It is built around curated, exportable specialist agents. It does not sell raw API tokens and it is not a generic chatbot. The product packages agent instructions, workflow files, quality gates, output contracts and target-specific files for real development tools.
-
-<br />
-
-| Detail | Value |
-|:---|:---|
-| **Type** | Agent launcher / export platform |
-| **Focus** | Preconfigured specialist agents |
-| **Targets** | OpenClaw, Hermes, Claude Code, Codex and IDE agents |
-| **Status** | Live |
-
-<br />
-
-<p>
-  <a href="https://flickclaw.com">Website</a>
-  ·
-  <a href="https://flickclaw.com/agents">Agents</a>
-  ·
-  <a href="https://flickclaw.com/docs">Docs</a>
-</p>
-
-<br />
+| # | Product | Description | Type | Status | Links |
+|:---:|:---|:---|:---|:---:|:---|
+| 01 | **FlickClaw** | AI Agent Launcher — curated specialist agents with native exports, quality gates, target files | Platform | 🟢 Live | [Web](https://flickclaw.com) · [Agents](https://flickclaw.com/agents) · [Docs](https://flickclaw.com/docs) |
+| 02 | **Kimari Local AI** | Local LLM runtime for consumer GPUs — CLI, gateway, CUDA, GGUF, evaluation | Framework | 🟡 Alpha | [Repo](https://github.com/smouj/kimari-local-ai) · [HF](https://huggingface.co/Smouj013) |
+| 03 | **RPGCLAW** | Collaborative pixel world — humans and AI agents on persistent maps | Game | 🟢 Live | [Web](https://www.rpgclaw.com) · [Docs](https://www.rpgclaw.com/docs) |
+| 04 | **MedaClaw Arena** | Tactical robot combat — modular bodies, MedaCore identity, deterministic battles | Game | 🟡 Active | [Web](https://medaclawarena.com) |
+| 05 | **FerroNest** | Ant colony management — emergent behavior through pheromone trails and signals | Game | 🔵 Dev | [Repo](https://github.com/smouj/FerroNest) |
 
 ---
 
-<br />
+## 🧩 Selected Repositories
 
-### 02 · Kimari Local AI
-
-<br />
-
-<a href="https://github.com/smouj/kimari-local-ai">
-  <img src="https://opengraph.githubassets.com/smouj-profile-kimari-final/smouj/kimari-local-ai" width="100%" alt="Kimari Local AI repository preview" />
-</a>
-
-<br />
-
-**Kimari Local AI** is my local-first AI framework focused on useful LLM workflows for consumer GPUs, especially older and low-VRAM NVIDIA cards.
+| Repository | Description | Stack | |
+|:---|:---|:---|---:|
+| [agent-browser](https://github.com/smouj/agent-browser) | Controlled browser automation for AI agents via Playwright + REST API | `TS` `Next.js` `Playwright` | → [Repo](https://github.com/smouj/agent-browser) |
+| [captcha-shield](https://github.com/smouj/captcha-shield) | Anti-bot challenge system — 14 behavioral signals, 7 challenge types | `TS` `React` | → [Repo](https://github.com/smouj/captcha-shield) |
+| [AICodeStudio](https://github.com/smouj/AICodeStudio) | AI-assisted IDE concept — OpenClaw &amp; Hermes integration, Monaco Editor | `Python` `React` | → [Repo](https://github.com/smouj/AICodeStudio) |
+| [MythosForge](https://github.com/smouj/MythosForge) | Recurrent-depth transformer research — LTI-stable inference, MLA, MoE | `Python` `PyTorch` | → [Repo](https://github.com/smouj/MythosForge) |
+| [kimari-microcompress](https://github.com/smouj/kimari-microcompress) | Reversible model compression — partial access, selective extraction | `Python` | → [Repo](https://github.com/smouj/kimari-microcompress) |
+| [skill-genesis](https://github.com/smouj/skill-genesis) | Autonomous agent skill generator for OpenClaw AgentSkills format | `TS` | → [Repo](https://github.com/smouj/skill-genesis) |
 
 <br />
 
-| Detail | Value |
-|:---|:---|
-| **Type** | Local AI runtime / CLI / gateway |
-| **Focus** | llama.cpp, GGUF, CUDA, local APIs |
-| **Hardware direction** | GTX 1060 / GTX 1080 class machines |
-| **Status** | Active alpha |
-
+<details>
+<summary><b>📦 More projects</b></summary>
 <br />
 
-<p>
-  <a href="https://github.com/smouj/kimari-local-ai">Repository</a>
-  ·
-  <a href="https://huggingface.co/Smouj013">Hugging Face</a>
-</p>
+| Project | Description | |
+|:---|:---|---:|
+| [ASCIIcritters](https://github.com/smouj/asciicritters) | 3D virtual pet creator — ASCII art in Three.js + AI chat | → [Repo](https://github.com/smouj/asciicritters) |
+| [openclaw-desk](https://github.com/smouj/openclaw-desk) | Web dashboard for managing OpenClaw agents | → [Repo](https://github.com/smouj/openclaw-desk) |
+| [tokentax](https://github.com/smouj/tokentax) | Compare 400+ AI models across all providers by price | → [Repo](https://github.com/smouj/tokentax) |
+| [prompt-organizer](https://github.com/smouj/prompt-organizer) | Visual tool for prompts, audits and backlog | → [Repo](https://github.com/smouj/prompt-organizer) |
+| [gasolineras-espana](https://github.com/smouj/gasolineras-espana) | Real-time fuel price dashboard for Spain | → [Repo](https://github.com/smouj/gasolineras-espana) |
+| [hipoteca-compare](https://github.com/smouj/hipoteca-compare) | Mortgage comparison tool for Spain with AI assistant | → [Repo](https://github.com/smouj/hipoteca-compare) |
+| [essentials-skill-openclaw](https://github.com/smouj/essentials-skill-openclaw) | Security-first essential skills pack for OpenClaw | → [Repo](https://github.com/smouj/essentials-skill-openclaw) |
+| [awesome-openclaw-skills](https://github.com/smouj/awesome-openclaw-skills) | Curated collection of OpenClaw skills | → [Repo](https://github.com/smouj/awesome-openclaw-skills) |
 
-<br />
+</details>
 
 ---
 
-<br />
+## 🛠️ Tech Stack
 
-### 03 · RPGCLAW
-
-<br />
-
-<a href="https://www.rpgclaw.com">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:050505,100:181818&amp;height=140&amp;section=header&amp;text=RPGCLAW&amp;fontSize=40&amp;fontColor=F5F5F5&amp;desc=Collaborative%20pixel%20world%20%C2%B7%20Humans%20and%20AI%20agents&amp;descSize=13&amp;descColor=A3A3A3" width="100%" alt="RPGCLAW banner" />
-</a>
-
-<br />
-
-**RPGCLAW** is a collaborative pixel world where humans and AI agents interact under shared fair-play rules.
-
-<br />
-
-| Detail | Value |
-|:---|:---|
-| **Type** | Multiplayer pixel world |
-| **Focus** | Humans and AI agents on persistent maps |
-| **Core mechanics** | Canvas, templates, cooldowns, real-time updates |
-| **Status** | Live |
-
-<br />
-
-<p>
-  <a href="https://www.rpgclaw.com">Website</a>
-  ·
-  <a href="https://www.rpgclaw.com/docs">Docs</a>
-</p>
-
-<br />
+| Languages | Frontend | Backend / Data | AI / Agents | Infra |
+|:---|:---|:---|:---|:---|
+| TypeScript | React · Next.js · Vite | Node.js · FastAPI | llama.cpp · GGUF · CUDA | Linux VPS · Docker · systemd |
+| Python | Tailwind CSS | PostgreSQL · MongoDB | Ollama · HuggingFace | Caddy |
+| JavaScript | Three.js · R3F | SQLite · Prisma | PyTorch · QLoRA | Plausible Analytics |
+| SQL · Bash | Dashboards · Admin panels | OAuth · Stripe · Billing | OpenClaw · Codex · IDE agents | Lint · Typecheck · Smoke tests |
 
 ---
-
-<br />
-
-### 04 · MedaClaw Arena
-
-<br />
-
-<a href="https://medaclawarena.com">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:050505,100:181818&amp;height=140&amp;section=header&amp;text=MedaClaw%20Arena&amp;fontSize=36&amp;fontColor=F5F5F5&amp;desc=Modular%20robots%20%C2%B7%20MedaCore%20%C2%B7%20Tactical%20combat&amp;descSize=13&amp;descColor=A3A3A3" width="100%" alt="MedaClaw Arena banner" />
-</a>
-
-<br />
-
-**MedaClaw Arena** is a tactical robot combat game built around modular bodies, MedaCore identity and deterministic arena battles.
-
-<br />
-
-> Build the body. Insert the MedaCore. Enter the arena.
-
-<br />
-
-| Detail | Value |
-|:---|:---|
-| **Type** | Tactical combat game |
-| **Focus** | Modular robots, sentient cores, deterministic battles |
-| **Visual direction** | Cel-shaded mechanical arcade style |
-| **Status** | Active |
-
-<br />
-
-<p>
-  <a href="https://medaclawarena.com">Website</a>
-</p>
-
-<br />
-
----
-
-<br />
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:080808,100:171717&amp;height=92&amp;section=header&amp;text=AGENT%20WORKFLOWS&amp;fontSize=27&amp;fontColor=F5F5F5&amp;desc=Structured%20agents,%20native%20exports,%20quality%20gates%20and%20tool-specific%20files&amp;descSize=12&amp;descColor=A3A3A3" width="100%" alt="Agent workflows banner" />
-
-</div>
-
-<br />
-
-## 🤖 FlickClaw Agent Model
-
-<br />
-
-FlickClaw is built around **preconfigured specialist agents**, not generic prompts. Each agent should carry enough structure to perform a specific job inside the user's own tools and environment.
-
-<br />
-
-### Agent package layers
-
-<br />
-
-| Layer | Purpose |
-|:---|:---|
-| **Identity** | Defines what the agent is, what it does, its boundaries and its specialization. |
-| **Operating rules** | Explains how the agent should inspect, plan, implement, validate and report. |
-| **Workflow** | Provides a repeatable process instead of vague instructions. |
-| **Quality gates** | Adds checks before the agent can claim work is complete. |
-| **Output contract** | Forces a useful final response format. |
-| **Target files** | Generates native files for each supported tool. |
-
-<br />
-
-### Export targets
-
-<br />
-
-| Target | Output direction |
-|:---|:---|
-| **OpenClaw** | Full agent package, identity, tools, skills, workflow and quality gates. |
-| **Hermes** | Skill files, validation scripts, workflow and output contracts. |
-| **Claude Code** | Project instructions, subagent context, settings and development workflow files. |
-| **Codex** | Agent instructions, quality gates and output templates. |
-| **Cursor / IDE agents** | Project-aware rules and workflow instructions. |
-| **Ollama / local AI** | Local model-oriented operating context and runnable guidance. |
-
-<br />
-
----
-
-<br />
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:050505,100:111111&amp;height=92&amp;section=header&amp;text=SELECTED%20REPOSITORIES&amp;fontSize=27&amp;fontColor=F5F5F5&amp;desc=Public%20tools,%20agent%20systems,%20local%20AI%20and%20security%20projects&amp;descSize=12&amp;descColor=A3A3A3" width="100%" alt="Selected repositories banner" />
-
-</div>
-
-<br />
-
-## 🧩 Selected Public Repositories
-
-<br />
-
-### Agent Browser
-
-<br />
-
-<a href="https://github.com/smouj/agent-browser">
-  <img src="https://opengraph.githubassets.com/smouj-profile-agent-browser-final/smouj/agent-browser" width="100%" alt="Agent Browser repository preview" />
-</a>
-
-<br />
-
-Controlled browser access for AI agents through Playwright, REST APIs and dashboard-driven workflows.
-
-<br />
-
-| Area | Stack |
-|:---|:---|
-| **Automation** | Playwright, browser sessions, controlled actions |
-| **Frontend** | Next.js, TypeScript |
-| **Agent use** | OpenClaw, Hermes and LLM-driven browsing |
-
-<br />
-
-<p>
-  <a href="https://github.com/smouj/agent-browser">Repository</a>
-</p>
-
-<br />
-
----
-
-<br />
-
-### CAPTCHA Shield
-
-<br />
-
-<a href="https://github.com/smouj/captcha-shield">
-  <img src="https://opengraph.githubassets.com/smouj-profile-captcha-shield-final/smouj/captcha-shield" width="100%" alt="CAPTCHA Shield repository preview" />
-</a>
-
-<br />
-
-Anti-bot challenge system focused on behavioral signals and interactive verification.
-
-<br />
-
-| Area | Stack |
-|:---|:---|
-| **Security** | Bot protection, behavioral checks |
-| **Frontend** | TypeScript, React |
-| **Direction** | Interactive, themeable challenge systems |
-
-<br />
-
-<p>
-  <a href="https://github.com/smouj/captcha-shield">Repository</a>
-</p>
-
-<br />
-
----
-
-<br />
-
-### AICodeStudio
-
-<br />
-
-<a href="https://github.com/smouj/AICodeStudio">
-  <img src="https://opengraph.githubassets.com/smouj-profile-aicodestudio-final/smouj/AICodeStudio" width="100%" alt="AICodeStudio repository preview" />
-</a>
-
-<br />
-
-AI-assisted development environment concept for structured coding workflows, project context and developer productivity.
-
-<br />
-
-| Area | Stack |
-|:---|:---|
-| **IDE** | Assisted development workflows |
-| **Agents** | OpenClaw / Hermes-oriented direction |
-| **Status** | Public concept / tool project |
-
-<br />
-
-<p>
-  <a href="https://github.com/smouj/AICodeStudio">Repository</a>
-</p>
-
-<br />
-
----
-
-<br />
-
-### MythosForge
-
-<br />
-
-<a href="https://github.com/smouj/MythosForge">
-  <img src="https://opengraph.githubassets.com/smouj-profile-mythosforge-final/smouj/MythosForge" width="100%" alt="MythosForge repository preview" />
-</a>
-
-<br />
-
-Experimental research playground for recurrent-depth transformer ideas and model architecture exploration.
-
-<br />
-
-| Area | Stack |
-|:---|:---|
-| **Research** | Transformer architecture experiments |
-| **Runtime** | Python, PyTorch |
-| **Status** | Experimental |
-
-<br />
-
-<p>
-  <a href="https://github.com/smouj/MythosForge">Repository</a>
-</p>
-
-<br />
-
----
-
-<br />
-
-### Kimari Microcompress
-
-<br />
-
-<a href="https://github.com/smouj/kimari-microcompress">
-  <img src="https://opengraph.githubassets.com/smouj-profile-microcompress-final/smouj/kimari-microcompress" width="100%" alt="Kimari Microcompress repository preview" />
-</a>
-
-<br />
-
-Compression experiments around AI model files, metadata, streaming access and local workflow optimization.
-
-<br />
-
-| Area | Stack |
-|:---|:---|
-| **AI tooling** | GGUF / safetensors-oriented workflows |
-| **Focus** | Reversible compression, indexes, streaming |
-| **Status** | Public |
-
-<br />
-
-<p>
-  <a href="https://github.com/smouj/kimari-microcompress">Repository</a>
-</p>
-
-<br />
-
----
-
-<br />
-
-### Skill Genesis
-
-<br />
-
-<a href="https://github.com/smouj/skill-genesis">
-  <img src="https://opengraph.githubassets.com/smouj-profile-skill-genesis-final/smouj/skill-genesis" width="100%" alt="Skill Genesis repository preview" />
-</a>
-
-<br />
-
-Autonomous agent skill generator for OpenClaw. Generates structured, validated skill packages from natural-language descriptions.
-
-<br />
-
-| Area | Stack |
-|:---|:---|
-| **Agent tooling** | Skill generation and packaging |
-| **Target** | OpenClaw AgentSkills format |
-| **Status** | Public |
-
-<br />
-
-<p>
-  <a href="https://github.com/smouj/skill-genesis">Repository</a>
-</p>
-
-<br />
-
----
-
-<br />
-
-### FerroNest
-
-<br />
-
-<a href="https://github.com/smouj/FerroNest">
-  <img src="https://opengraph.githubassets.com/smouj-profile-ferronest-final/smouj/FerroNest" width="100%" alt="FerroNest repository preview" />
-</a>
-
-<br />
-
-Strategic ant colony management game. You don't give orders — you design signals, pheromone trails and environmental cues that shape emergent colony behavior.
-
-<br />
-
-| Area | Stack |
-|:---|:---|
-| **Game design** | Emergent behavior, signal-based strategy |
-| **Frontend** | Next.js, TypeScript |
-| **Status** | Active development |
-
-<br />
-
-<p>
-  <a href="https://github.com/smouj/FerroNest">Repository</a>
-</p>
-
-<br />
-
----
-
-<br />
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:080808,100:171717&amp;height=92&amp;section=header&amp;text=TECHNICAL%20STACK&amp;fontSize=27&amp;fontColor=F5F5F5&amp;desc=Full-stack,%20local%20AI,%20game%20engineering,%20agent%20automation%20and%20production%20infrastructure&amp;descSize=12&amp;descColor=A3A3A3" width="100%" alt="Technical stack banner" />
-
-</div>
-
-<br />
-
-## 🛠️ Technical Stack
-
-<br />
-
-### Languages
-
-<br />
-
-| Primary | Also used |
-|:---|:---|
-| **TypeScript** | JavaScript |
-| **Python** | SQL |
-| **Bash** | Markdown |
-| **HTML / CSS** | JSON / YAML |
-
-<br />
-
-### Frontend
-
-<br />
-
-| Area | Tools |
-|:---|:---|
-| **Web apps** | React, Next.js, Vite |
-| **Styling** | Tailwind CSS, design tokens, responsive UI |
-| **Interfaces** | Dashboards, admin panels, landing pages, developer tools |
-| **3D / interactive** | Three.js, React Three Fiber |
-
-<br />
-
-### Backend
-
-<br />
-
-| Area | Tools |
-|:---|:---|
-| **APIs** | Node.js, FastAPI |
-| **Data** | PostgreSQL, MongoDB, SQLite, Prisma |
-| **Auth** | OAuth, protected dashboards, session flows |
-| **Product systems** | Catalogs, exports, billing flows, health endpoints |
-
-<br />
-
-### AI and agent tooling
-
-<br />
-
-| Area | Tools / Concepts |
-|:---|:---|
-| **Local AI** | llama.cpp, GGUF, CUDA, Ollama, OpenAI-compatible local APIs |
-| **Agent frameworks** | OpenClaw, Hermes, Claude Code, Codex-style workflows, IDE agents |
-| **Automation** | Browser agents, coding agents, validation agents, infrastructure agents |
-| **Validation** | Quality gates, smoke tests, release checklists, rollback notes |
-
-<br />
-
-### Infrastructure
-
-<br />
-
-| Area | Tools |
-|:---|:---|
-| **Deployment** | Linux VPS, Docker, systemd |
-| **Reverse proxy** | Caddy |
-| **Validation** | Lint, typecheck, tests, builds, smoke checks |
-| **Operations** | Logs, rollback notes, versioning, release checklists |
-
-<br />
-
----
-
-<br />
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:050505,100:111111&amp;height=92&amp;section=header&amp;text=PRODUCT%20DIRECTION&amp;fontSize=27&amp;fontColor=F5F5F5&amp;desc=Focused%20execution%20across%20agents,%20local%20AI,%20games%20and%20automation&amp;descSize=12&amp;descColor=A3A3A3" width="100%" alt="Product direction banner" />
-
-</div>
-
-<br />
 
 ## 🎯 Current Direction
 
-<br />
-
-### FlickClaw
-
-<br />
-
-| Track | Direction |
+| Project | Focus |
 |:---|:---|
-| **Agent catalog** | More complete, consistent and specialized agents |
-| **Exports** | OpenClaw, Hermes, Claude Code, Codex and IDE formats |
-| **UX** | Clearer agent cards, plan boundaries and install flow |
-| **Product** | Free with ads, Pro without ads, no token resale |
-| **Quality** | Better target registry, validation and file generation |
-
-<br />
-
-### Kimari Local AI
-
-<br />
-
-| Track | Direction |
-|:---|:---|
-| **Runtime** | Local LLM serving on consumer GPUs |
-| **Profiles** | GTX 1060 / GTX 1080 low-VRAM tuning |
-| **CLI** | Diagnostics, benchmarks, server startup and profiles |
-| **Evaluation** | Honest results, reproducible checks and release gates |
-| **Future** | Small model planning, SFT packages and quantization strategy |
-
-<br />
-
-### RPGCLAW
-
-<br />
-
-| Track | Direction |
-|:---|:---|
-| **Canvas** | Persistent world and real-time interaction |
-| **Agents** | Human and AI participation under shared rules |
-| **Fairness** | No pay-to-win acceleration mechanics |
-| **Community** | Templates, clans and coordination tools |
-| **Reliability** | WebSocket updates, cooldowns and world-size consistency |
-
-<br />
-
-### MedaClaw Arena
-
-<br />
-
-| Track | Direction |
-|:---|:---|
-| **Assembly** | Modular robot parts and sockets |
-| **Identity** | MedaCore class, personality and tactical role |
-| **Combat** | Deterministic battle engine and reproducible outcomes |
-| **Visuals** | Cel-shaded mechanical style with strong silhouettes |
-| **Progression** | Parts, strategy, marketplace clarity and arena loops |
-
-<br />
+| **FlickClaw** | Agent catalog expansion · OpenClaw / Hermes / Claude Code / Codex exports · UX polish · free+ads / Pro model |
+| **Kimari Local AI** | GTX 1060 / 1080 low-VRAM tuning · CLI diagnostics · reproducible evaluation · SFT packages |
+| **RPGCLAW** | Persistent canvas world · human + AI agent coexistence · templates · WebSocket reliability |
+| **MedaClaw Arena** | Modular assembly system · MedaCore identity · deterministic combat engine · cel-shaded visuals |
+| **FerroNest** | Signal-based strategy · emergent colony AI · pheromone mechanics · procedural environments |
 
 ---
-
-<br />
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:080808,100:171717&amp;height=92&amp;section=header&amp;text=WORKFLOW&amp;fontSize=27&amp;fontColor=F5F5F5&amp;desc=Audit,%20scope,%20implement,%20validate,%20document,%20release&amp;descSize=12&amp;descColor=A3A3A3" width="100%" alt="Workflow banner" />
-
-</div>
-
-<br />
 
 ## ⚙️ How I Work
 
-<br />
-
-| Step | Purpose |
+| Step | |
 |:---|:---|
-| **01 · Audit** | Inspect the real state before assuming the problem. |
-| **02 · Scope** | Define the smallest safe change with a clear rollback path. |
-| **03 · Implement** | Make focused changes with limited blast radius. |
-| **04 · Validate** | Run linting, type checks, tests, builds and smoke checks where applicable. |
-| **05 · Document** | Record what changed, why it changed and how it can be reverted. |
-| **06 · Release** | Deploy with version alignment, health checks and post-deploy verification. |
-
-<br />
+| **01 · Audit** | Inspect real state before assuming the problem |
+| **02 · Scope** | Smallest safe change with clear rollback path |
+| **03 · Implement** | Focused changes, limited blast radius |
+| **04 · Validate** | Lint · typecheck · tests · build · smoke |
+| **05 · Document** | What changed, why, how to revert |
+| **06 · Release** | Version-aligned deploy, health checks, post-deploy verification |
 
 ---
-
-<br />
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:050505,100:111111&amp;height=92&amp;section=header&amp;text=PROJECT%20CATEGORIES&amp;fontSize=27&amp;fontColor=F5F5F5&amp;desc=Organized%20map%20of%20the%20ecosystem&amp;descSize=12&amp;descColor=A3A3A3" width="100%" alt="Project categories banner" />
-
-</div>
-
-<br />
-
-## 🗂️ Project Categories
-
-<br />
-
-### Local AI
-
-<br />
-
-| Project | Purpose |
-|:---|:---|
-| **Kimari Local AI** | Local LLM runtime, CLI, gateway and evaluation workflows. |
-| **Kimari Microcompress** | Compression and model-file workflow experiments. |
-| **MythosForge** | Transformer architecture and recurrent-depth research. |
-
-<br />
-
-### Agent Systems
-
-<br />
-
-| Project | Purpose |
-|:---|:---|
-| **FlickClaw** | Agent launcher and export platform. |
-| **Agent Browser** | Controlled browser automation for agents. |
-| **Skill Genesis** | Skill generation and packaging experiments. |
-| **Awesome OpenClaw Skills** | Curated OpenClaw resources and skills. |
-
-<br />
-
-### Games and Interactive Systems
-
-<br />
-
-| Project | Purpose |
-|:---|:---|
-| **RPGCLAW** | Collaborative pixel world for humans and agents. |
-| **MedaClaw Arena** | Modular robot tactical combat. |
-| **FerroNest** | Strategic ant colony management with emergent behavior. |
-| **ASCIIcritters** | Virtual pet and 3D interaction experiments. |
-
-<br />
-
-### Security, Tools and Utilities
-
-<br />
-
-| Project | Purpose |
-|:---|:---|
-| **CAPTCHA Shield** | Interactive anti-bot challenge system. |
-| **Prompt Organizer** | Prompt, audit and task organization. |
-| **Gasolineras España** | Fuel price dashboard for Spain. |
-| **Hipoteca Compare** | Mortgage comparison tool for Spain. |
-| **AICodeStudio** | AI-assisted IDE concept. |
-
-<br />
-
----
-
-<br />
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:080808,100:171717&amp;height=92&amp;section=header&amp;text=GITHUB%20STATS&amp;fontSize=27&amp;fontColor=F5F5F5&amp;desc=Activity,%20languages%20and%20contribution%20overview&amp;descSize=12&amp;descColor=A3A3A3" width="100%" alt="GitHub stats banner" />
-
-</div>
-
-<br />
 
 ## 📊 GitHub Stats
 
-<br />
-
 <div align="center">
 
-<a href="https://github.com/smouj">
-  <img src="https://github-readme-stats.vercel.app/api?username=smouj&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=8b949e&amp;count_private=true&amp;hide=issues" width="48%" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/smouj">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smouj&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=8b949e&amp;langs_count=8" width="41%" alt="Top Languages" />
-</a>
+<a href="https://github.com/smouj"><img src="https://github-readme-stats.vercel.app/api?username=smouj&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;icon_color=58a6ff&amp;text_color=8b949e&amp;count_private=true&amp;hide=issues" width="48%" /></a>
+<a href="https://github.com/smouj"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smouj&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=8b949e&amp;langs_count=8" width="41%" /></a>
 
 <br />
 <br />
 
-<a href="https://github.com/smouj">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smouj&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;stroke=30363d&amp;ring=58a6ff&amp;fire=ff6b6b&amp;currStreakLabel=58a6ff&amp;sideLabels=8b949e&amp;dates=484f58" width="75%" alt="GitHub Streak" />
-</a>
+<a href="https://github.com/smouj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=smouj&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;stroke=30363d&amp;ring=58a6ff&amp;fire=ff6b6b&amp;currStreakLabel=58a6ff&amp;sideLabels=8b949e&amp;dates=484f58" width="75%" /></a>
 
 </div>
 
-<br />
+---
+
+## 🔗 Links
+
+| Products | Profiles |
+|:---|:---|
+| [flickclaw.com](https://flickclaw.com) | [github.com/smouj](https://github.com/smouj) |
+| [rpgclaw.com](https://www.rpgclaw.com) | [x.com/smouj013](https://x.com/smouj013) |
+| [medaclawarena.com](https://medaclawarena.com) | [huggingface.co/Smouj013](https://huggingface.co/Smouj013) |
+| | [discord.gg/zQKjRzczTS](https://discord.gg/zQKjRzczTS) |
 
 ---
 
-<br />
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:080808,100:171717&amp;height=92&amp;section=header&amp;text=PUBLIC%20LINKS&amp;fontSize=27&amp;fontColor=F5F5F5&amp;desc=Products,%20repositories%20and%20technical%20channels&amp;descSize=12&amp;descColor=A3A3A3" width="100%" alt="Public links banner" />
-
-</div>
-
-<br />
-
-## 🔗 Public Links
-
-<br />
-
-### Products
-
-<br />
-
-| Product | Link |
-|:---|:---|
-| **FlickClaw** | [flickclaw.com](https://flickclaw.com) |
-| **RPGCLAW** | [rpgclaw.com](https://www.rpgclaw.com) |
-| **MedaClaw Arena** | [medaclawarena.com](https://medaclawarena.com) |
-
-<br />
-
-### Profiles
-
-<br />
-
-| Platform | Link |
-|:---|:---|
-| **GitHub** | [github.com/smouj](https://github.com/smouj) |
-| **X / Twitter** | [x.com/smouj013](https://x.com/smouj013) |
-| **Hugging Face** | [huggingface.co/Smouj013](https://huggingface.co/Smouj013) |
-| **Discord** | [discord.gg/zQKjRzczTS](https://discord.gg/zQKjRzczTS) |
-
-<br />
-
----
-
-<br />
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1A1A1A,50:0D1117,100:050505&amp;height=125&amp;section=footer&amp;text=LOCAL-FIRST%20AI%20%C2%B7%20AGENT%20WORKFLOWS%20%C2%B7%20REAL%20SYSTEMS&amp;fontSize=18&amp;fontColor=F5F5F5&amp;fontAlignY=70&amp;animation=fadeIn" width="100%" alt="Footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1A1A1A,50:0D1117,100:050505&amp;height=100&amp;section=footer&amp;text=LOCAL-FIRST%20AI%20%C2%B7%20AGENT%20WORKFLOWS%20%C2%B7%20REAL%20SYSTEMS&amp;fontSize=16&amp;fontColor=A3A3A3&amp;fontAlignY=70&amp;animation=fadeIn" width="100%" />
 
 </div>
