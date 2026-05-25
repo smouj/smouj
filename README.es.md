@@ -31,11 +31,11 @@
 
 ## 🧭 Perfil
 
-Construyo sistemas prácticos con **IA local**, **agentes**, **juegos** e **infraestructura de producción**. Desplegado, probado, auditado y mejorado — no prototipos de laboratorio.
+Construyo sistemas prácticos con **IA local**, **agentes**, **juegos** e **infraestructura de producción** — desplegado, probado, auditado y mejorado con el tiempo.
 
 > Entreno LLMs en GPUs de consumo, despliego juegos multiplayer en VPS, y construyo sistemas de agentes sin dependencias cloud. Todo open-source y local-first por diseño.
 
-| Enfoque | Dirección |
+| Enfoque | |
 |:---|:---|
 | 🧠 **IA Local** | llama.cpp · GGUF · CUDA · Ollama · inferencia en GPUs consumo · APIs locales OpenAI-compatibles |
 | 🤖 **Agentes** | identidades · skills · exportaciones · quality gates · archivos por herramienta |
@@ -43,95 +43,94 @@ Construyo sistemas prácticos con **IA local**, **agentes**, **juegos** e **infr
 | 🎮 **Juegos** | mundos multiplayer · mecánicas modulares · combate determinista · interfaces 3D |
 | ⚙️ **Automatización** | agentes de navegador · workflows de código · scripts de validación · chequeos de infra |
 
-<br />
-
 | Principio | |
 |:---|:---|
-| Auditar primero | Inspeccionar el estado real antes de tocar nada |
-| Cambios pequeños | Cambios enfocados que se puedan probar y revertir |
-| Local-first | La IA debe correr en hardware que la gente ya tiene |
-| Disciplina de producción | Logs, smoke tests, health checks, notas de rollback |
-| Sin claims falsos | Experimental = etiquetado. Producción = validado |
+| 🔍 Auditar primero | Inspeccionar el estado real antes de tocar nada |
+| 📦 Cambios pequeños | Cambios enfocados que se puedan probar y revertir |
+| 🖥️ Local-first | La IA debe correr en hardware que la gente ya tiene |
+| 🚦 Disciplina de producción | Logs, smoke tests, health checks, notas de rollback |
+| 🏷️ Sin claims falsos | Experimental = etiquetado. Producción = validado |
 
 ---
 
-## 🚀 Ecosistema Principal
+## 🚀 Ecosistema
 
-| # | Producto | Descripción | Tipo | Estado | Links |
-|:---:|:---|:---|:---|:---:|:---|
-| 01 | **FlickClaw** | Lanzador de agentes IA — catálogo curado, exports nativos, quality gates | Plataforma | 🟢 Live | [Web](https://flickclaw.com) · [Agentes](https://flickclaw.com/agents) · [Docs](https://flickclaw.com/docs) |
-| 02 | **Kimari Local AI** | Runtime LLM local para GPUs consumo — CLI, gateway, CUDA, GGUF, evaluación | Framework | 🟡 Alpha | [Repo](https://github.com/smouj/kimari-local-ai) · [HF](https://huggingface.co/Smouj013) |
-| 03 | **RPGCLAW** | Mundo colaborativo de píxeles — humanos y agentes IA en mapas persistentes | Juego | 🟢 Live | [Web](https://www.rpgclaw.com) · [Docs](https://www.rpgclaw.com/docs) |
-| 04 | **MedaClaw Arena** | Combate táctico con robots modulares — cuerpos, MedaCore, batallas deterministas | Juego | 🟡 Activo | [Web](https://medaclawarena.com) |
-| 05 | **FerroNest** | Gestión de colonias de hormigas — comportamiento emergente con feromonas y señales | Juego | 🔵 Dev | [Repo](https://github.com/smouj/FerroNest) |
+| | Producto | Descripción | Stack | |
+|:---:|:---|:---|:---|:---:|
+| 🎬 | **[FlickClaw](https://flickclaw.com)** | Lanzador de agentes IA — catálogo curado, exports nativos, quality gates | ![](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs) ![](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript) ![](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma) ![](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe) | 🟢 |
+| 🦁 | **[Kimari](https://github.com/smouj/kimari-local-ai)** | Runtime LLM local — GPUs consumo, CUDA, GGUF, evaluación | ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia) ![](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs) ![](https://img.shields.io/badge/HF-FFD21E?style=flat&logo=huggingface) | 🟡 |
+| 🧱 | **[RPGCLAW](https://www.rpgclaw.com)** | Mundo colaborativo de píxeles — humanos &amp; agentes IA, canvas en tiempo real | ![](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs) ![](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb) ![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) ![](https://img.shields.io/badge/Caddy-1F883D?style=flat) | 🟢 |
+| ⚔️ | **[MedaClaw Arena](https://medaclawarena.com)** | Combate táctico con robots — cuerpos modulares, MedaCore, batallas deterministas | ![](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs) ![](https://img.shields.io/badge/Three.js-000?style=flat&logo=threedotjs) ![](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript) ![](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma) | 🟡 |
+| 🐜 | **[FerroNest](https://github.com/smouj/FerroNest)** | Simulador de colonias — comportamiento emergente con feromonas y señales | ![](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs) ![](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript) | 🔵 |
+
+> 🟢 En producción &nbsp; 🟡 Desarrollo activo &nbsp; 🔵 Fase temprana
 
 ---
 
-## 🧩 Repositorios Seleccionados
+## 🧩 Repositorios
 
-| Repositorio | Descripción | Stack | |
-|:---|:---|:---|---:|
-| [agent-browser](https://github.com/smouj/agent-browser) | Navegador real para agentes IA vía Playwright + REST API | `TS` `Next.js` `Playwright` | → [Repo](https://github.com/smouj/agent-browser) |
-| [captcha-shield](https://github.com/smouj/captcha-shield) | Sistema anti-bot — 14 señales de comportamiento, 7 tipos de reto | `TS` `React` | → [Repo](https://github.com/smouj/captcha-shield) |
-| [AICodeStudio](https://github.com/smouj/AICodeStudio) | IDE open-source con IA — OpenClaw &amp; Hermes, Monaco Editor | `Python` `React` | → [Repo](https://github.com/smouj/AICodeStudio) |
-| [MythosForge](https://github.com/smouj/MythosForge) | Investigación en transformers de profundidad recurrente — LTI, MLA, MoE | `Python` `PyTorch` | → [Repo](https://github.com/smouj/MythosForge) |
-| [kimari-microcompress](https://github.com/smouj/kimari-microcompress) | Compresión reversible de modelos — acceso parcial, extracción selectiva | `Python` | → [Repo](https://github.com/smouj/kimari-microcompress) |
-| [skill-genesis](https://github.com/smouj/skill-genesis) | Generador autónomo de Skills para OpenClaw | `TS` | → [Repo](https://github.com/smouj/skill-genesis) |
-
-<br />
+| | Repositorio | Descripción | Stack | |
+|:---:|:---|:---|:---|:---:|
+| 🌐 | [agent-browser](https://github.com/smouj/agent-browser) | Navegador real para agentes IA — Playwright, REST API, dashboard | ![](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs) ![](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript) ![](https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright) | → |
+| 🛡️ | [captcha-shield](https://github.com/smouj/captcha-shield) | Sistema anti-bot — 14 señales de comportamiento, 7 tipos de reto, QR | ![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) ![](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript) | → |
+| 🔧 | [AICodeStudio](https://github.com/smouj/AICodeStudio) | IDE open-source con IA — OpenClaw + Hermes, Monaco Editor, PWA | ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) | → |
+| 🧬 | [MythosForge](https://github.com/smouj/MythosForge) | Investigación en transformers recurrentes — inferencia LTI, MLA, MoE | ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch) | → |
+| 📦 | [kimari-microcompress](https://github.com/smouj/kimari-microcompress) | Compresión reversible de modelos — acceso parcial, extracción selectiva | ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) | → |
+| 🧬 | [skill-genesis](https://github.com/smouj/skill-genesis) | Generador autónomo de Skills para OpenClaw | ![](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript) | → |
 
 <details>
 <summary><b>📦 Más proyectos</b></summary>
 <br />
 
-| Proyecto | Descripción | |
-|:---|:---|---:|
-| [ASCIIcritters](https://github.com/smouj/asciicritters) | Mascotas virtuales 3D — ASCII art en Three.js + chat IA | → [Repo](https://github.com/smouj/asciicritters) |
-| [openclaw-desk](https://github.com/smouj/openclaw-desk) | Panel web para gestionar agentes de OpenClaw | → [Repo](https://github.com/smouj/openclaw-desk) |
-| [tokentax](https://github.com/smouj/tokentax) | Compara 400+ modelos de IA de todos los proveedores | → [Repo](https://github.com/smouj/tokentax) |
-| [prompt-organizer](https://github.com/smouj/prompt-organizer) | Herramienta visual para prompts, auditorías y backlog | → [Repo](https://github.com/smouj/prompt-organizer) |
-| [gasolineras-espana](https://github.com/smouj/gasolineras-espana) | Panel de precios de carburantes en tiempo real | → [Repo](https://github.com/smouj/gasolineras-espana) |
-| [hipoteca-compare](https://github.com/smouj/hipoteca-compare) | Comparador de hipotecas en España con asistente IA | → [Repo](https://github.com/smouj/hipoteca-compare) |
-| [essentials-skill-openclaw](https://github.com/smouj/essentials-skill-openclaw) | Pack security-first de skills esenciales para OpenClaw | → [Repo](https://github.com/smouj/essentials-skill-openclaw) |
-| [awesome-openclaw-skills](https://github.com/smouj/awesome-openclaw-skills) | Colección curada de OpenClaw Skills | → [Repo](https://github.com/smouj/awesome-openclaw-skills) |
+| | Proyecto | Descripción | |
+|:---:|:---|:---|---:|
+| 🐾 | [ASCIIcritters](https://github.com/smouj/asciicritters) | Mascotas virtuales 3D — ASCII art en Three.js + chat IA | → |
+| 🤖 | [openclaw-desk](https://github.com/smouj/openclaw-desk) | Panel web para gestionar agentes de OpenClaw | → |
+| 📊 | [tokentax](https://github.com/smouj/tokentax) | Compara 400+ modelos de IA de todos los proveedores | → |
+| 📋 | [prompt-organizer](https://github.com/smouj/prompt-organizer) | Herramienta visual para prompts, auditorías y backlog | → |
+| ⛽ | [gasolineras-espana](https://github.com/smouj/gasolineras-espana) | Panel de precios de carburantes en tiempo real | → |
+| 🏠 | [hipoteca-compare](https://github.com/smouj/hipoteca-compare) | Comparador de hipotecas en España + asistente IA | → |
+| 🛡️ | [essentials-skill](https://github.com/smouj/essentials-skill-openclaw) | Pack security-first de skills esenciales para OpenClaw | → |
+| 📚 | [awesome-openclaw](https://github.com/smouj/awesome-openclaw-skills) | Colección curada de OpenClaw Skills | → |
 
 </details>
 
 ---
 
-## 🛠️ Stack Técnico
+## 🛠️ Stack
 
-| Lenguajes | Frontend | Backend / Datos | IA / Agentes | Infra |
+| Lenguajes | Frontend | Backend &amp; Datos | IA &amp; Agentes | Infraestructura |
 |:---|:---|:---|:---|:---|
-| TypeScript | React · Next.js · Vite | Node.js · FastAPI | llama.cpp · GGUF · CUDA | Linux VPS · Docker · systemd |
-| Python | Tailwind CSS | PostgreSQL · MongoDB | Ollama · HuggingFace | Caddy |
-| JavaScript | Three.js · R3F | SQLite · Prisma | PyTorch · QLoRA | Plausible Analytics |
-| SQL · Bash | Dashboards · Admin panels | OAuth · Stripe · Pagos | OpenClaw · Codex · IDE agents | Lint · Typecheck · Smoke tests |
+| ![](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript) | ![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) | ![](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs) | ![](https://img.shields.io/badge/llama.cpp-CUDA-000?style=flat) | ![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux) |
+| ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) | ![](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs) | ![](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi) | ![](https://img.shields.io/badge/Ollama-Local-000?style=flat&logo=ollama) | ![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) |
+| ![](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript) | ![](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss) | ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql) | ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch) | ![](https://img.shields.io/badge/Caddy-1F883D?style=flat) |
+| ![](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql) | ![](https://img.shields.io/badge/Three.js-000?style=flat&logo=threedotjs) | ![](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb) | ![](https://img.shields.io/badge/HF-FFD21E?style=flat&logo=huggingface) | ![](https://img.shields.io/badge/systemd-E95420?style=flat&logo=ubuntu) |
+| ![](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash) | ![](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite) | ![](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite) | ![](https://img.shields.io/badge/OpenAI-Codex-10A37F?style=flat&logo=openai) | ![](https://img.shields.io/badge/Plausible-5850EC?style=flat&logo=plausibleanalytics) |
 
 ---
 
-## 🎯 Dirección Actual
+## 🎯 Dirección
 
-| Proyecto | Enfoque |
-|:---|:---|
-| **FlickClaw** | Expansión del catálogo · exports OpenClaw / Hermes / Claude Code / Codex · UX · modelo free+ads / Pro |
-| **Kimari Local AI** | Optimización GTX 1060 / 1080 · diagnósticos CLI · evaluación reproducible · paquetes SFT |
-| **RPGCLAW** | Canvas persistente · coexistencia humanos + agentes IA · plantillas · fiabilidad WebSocket |
-| **MedaClaw Arena** | Sistema modular de ensamblaje · identidad MedaCore · motor de combate determinista · visual cel-shaded |
-| **FerroNest** | Estrategia basada en señales · IA de colonia emergente · mecánicas de feromonas · entornos procedurales |
+| | Proyecto | Enfoque |
+|:---:|:---|:---|
+| 🎬 | **FlickClaw** | Expansión del catálogo · exports OpenClaw / Hermes / Claude Code / Codex · UX · free+ads / Pro |
+| 🦁 | **Kimari** | Optimización GTX 1060 / 1080 · diagnósticos CLI · evaluación reproducible · paquetes SFT |
+| 🧱 | **RPGCLAW** | Canvas persistente · coexistencia humanos + agentes · plantillas · fiabilidad WebSocket |
+| ⚔️ | **MedaClaw** | Ensamblaje modular · identidad MedaCore · combate determinista · visual cel-shaded |
+| 🐜 | **FerroNest** | Estrategia por señales · IA de colonia emergente · feromonas · entornos procedurales |
 
 ---
 
-## ⚙️ Cómo Trabajo
+## ⚙️ Flujo de Trabajo
 
 | Paso | |
 |:---|:---|
-| **01 · Auditar** | Inspeccionar estado real antes de asumir el problema |
-| **02 · Acotar** | Cambio más pequeño posible con camino de rollback claro |
-| **03 · Implementar** | Cambios enfocados, radio de impacto limitado |
-| **04 · Validar** | Lint · typecheck · tests · build · smoke |
-| **05 · Documentar** | Qué cambió, por qué, cómo se revierte |
-| **06 · Publicar** | Despliegue versionado, health checks, verificación post-deploy |
+| 🔍 **01 · Auditar** | Inspeccionar estado real antes de asumir el problema |
+| 📐 **02 · Acotar** | Cambio más pequeño posible con camino de rollback claro |
+| 🔨 **03 · Implementar** | Cambios enfocados, radio de impacto limitado |
+| ✅ **04 · Validar** | Lint · typecheck · tests · build · smoke |
+| 📝 **05 · Documentar** | Qué cambió, por qué, cómo se revierte |
+| 🚀 **06 · Publicar** | Despliegue versionado, health checks, verificación post-deploy |
 
 ---
 
@@ -151,14 +150,13 @@ Construyo sistemas prácticos con **IA local**, **agentes**, **juegos** e **infr
 
 ---
 
-## 🔗 Enlaces
+<div align="center">
 
 | Productos | Perfiles |
 |:---|:---|
-| [flickclaw.com](https://flickclaw.com) | [github.com/smouj](https://github.com/smouj) |
-| [rpgclaw.com](https://www.rpgclaw.com) | [x.com/smouj013](https://x.com/smouj013) |
-| [medaclawarena.com](https://medaclawarena.com) | [huggingface.co/Smouj013](https://huggingface.co/Smouj013) |
-| | [discord.gg/zQKjRzczTS](https://discord.gg/zQKjRzczTS) |
+| [flickclaw.com](https://flickclaw.com) · [rpgclaw.com](https://www.rpgclaw.com) · [medaclawarena.com](https://medaclawarena.com) | [github.com/smouj](https://github.com/smouj) · [x.com/smouj013](https://x.com/smouj013) · [huggingface.co/Smouj013](https://huggingface.co/Smouj013) · [discord.gg/zQKjRzczTS](https://discord.gg/zQKjRzczTS) |
+
+</div>
 
 ---
 
