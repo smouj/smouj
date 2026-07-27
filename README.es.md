@@ -14,7 +14,7 @@
 <br />
 <br />
 
-<a href="https://flickclaw.com">FlickClaw</a> · <a href="https://www.rpgclaw.com">RPGCLAW</a> · <a href="https://medaclawarena.com">MedaClaw Arena</a>
+<a href="https://flickclaw.com">FlickClaw</a> · <a href="https://www.rpgclaw.com">RPGCLAW</a> · <a href="https://tradingtazosgame.com">Trading Tazos</a>
 
 <br />
 <br />
@@ -40,7 +40,7 @@ Construyo sistemas prácticos con **IA local**, **agentes**, **juegos** e **infr
 | 🧠 **IA Local** | llama.cpp · GGUF · CUDA · Ollama · inferencia en GPUs consumo · APIs locales OpenAI-compatibles |
 | 🤖 **Agentes** | identidades · skills · exportaciones · quality gates · archivos por herramienta |
 | 🌐 **Producción** | plataformas SaaS · auth · pagos · dashboards · health checks · releases |
-| 🎮 **Juegos** | mundos multiplayer · mecánicas modulares · combate determinista · interfaces 3D |
+| 🎮 **Juegos** | mundos multiplayer · economías de cartas coleccionables · mecánicas modulares · WebSocket en tiempo real |
 | ⚙️ **Automatización** | agentes de navegador · workflows de código · scripts de validación · chequeos de infra |
 
 | Principio | |
@@ -60,7 +60,7 @@ Construyo sistemas prácticos con **IA local**, **agentes**, **juegos** e **infr
 | 🎬 | **[FlickClaw](https://flickclaw.com)** | Lanzador de agentes IA — catálogo curado, exports nativos, quality gates | ![](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs) ![](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript) ![](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma) ![](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe) | 🟢 |
 | 🦁 | **[Kimari](https://github.com/smouj/kimari-local-ai)** | Runtime LLM local — GPUs consumo, CUDA, GGUF, evaluación | ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia) ![](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs) ![](https://img.shields.io/badge/HF-FFD21E?style=flat&logo=huggingface) | 🟡 |
 | 🧱 | **[RPGCLAW](https://www.rpgclaw.com)** | Mundo colaborativo de píxeles — humanos &amp; agentes IA, canvas en tiempo real | ![](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs) ![](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb) ![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) ![](https://img.shields.io/badge/Caddy-1F883D?style=flat) | 🟢 |
-| ⚔️ | **[MedaClaw Arena](https://medaclawarena.com)** | Combate táctico con robots — cuerpos modulares, MedaCore, batallas deterministas | ![](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs) ![](https://img.shields.io/badge/Three.js-000?style=flat&logo=threedotjs) ![](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript) ![](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma) | 🟡 |
+| ⚔️ | **[Trading Tazos Game](https://tradingtazosgame.com)** | Juego digital de cartas coleccionables — tazos, duelos PvP, mercado, temporadas | ![](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs) ![](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript) ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql) ![](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe) | 🟡 |
 | 🐜 | **[FerroNest](https://github.com/smouj/FerroNest)** | Simulador de colonias — comportamiento emergente con feromonas y señales | ![](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs) ![](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript) | 🔵 |
 
 > 🟢 En producción &nbsp; 🟡 Desarrollo activo &nbsp; 🔵 Fase temprana
@@ -92,6 +92,9 @@ Construyo sistemas prácticos con **IA local**, **agentes**, **juegos** e **infr
 | 🏠 | [hipoteca-compare](https://github.com/smouj/hipoteca-compare) | Comparador de hipotecas en España + asistente IA | → |
 | 🛡️ | [essentials-skill](https://github.com/smouj/essentials-skill-openclaw) | Pack security-first de skills esenciales para OpenClaw | → |
 | 📚 | [awesome-openclaw](https://github.com/smouj/awesome-openclaw-skills) | Colección curada de OpenClaw Skills | → |
+| 🔐 | [agentdnai](https://github.com/smouj/agentdnai) | Identidad digital verificable — permisos + auditoría para agentes IA | → |
+| ⚔️ | [trading-tazos-game-cli](https://github.com/smouj/trading-tazos-game-cli) | CLI oficial de TTG — buscar, batallar, gestionar colección desde terminal | → |
+| 🎨 | [tazo-art-studio](https://github.com/smouj/tazo-art-studio) | Diseñador visual drag & drop de tazos con IA para Trading Tazos Game | → |
 
 </details>
 
@@ -116,7 +119,7 @@ Construyo sistemas prácticos con **IA local**, **agentes**, **juegos** e **infr
 | 🎬 | **FlickClaw** | Expansión del catálogo · exports OpenClaw / Hermes / Claude Code / Codex · UX · free+ads / Pro |
 | 🦁 | **Kimari** | Optimización GTX 1060 / 1080 · diagnósticos CLI · evaluación reproducible · paquetes SFT |
 | 🧱 | **RPGCLAW** | Canvas persistente · coexistencia humanos + agentes · plantillas · fiabilidad WebSocket |
-| ⚔️ | **MedaClaw** | Ensamblaje modular · identidad MedaCore · combate determinista · visual cel-shaded |
+| ⚔️ | **Trading Tazos** | Duelos PvP · temporadas de mercado · PWA móvil · fiabilidad WebSocket |
 | 🐜 | **FerroNest** | Estrategia por señales · IA de colonia emergente · feromonas · entornos procedurales |
 
 ---
@@ -154,7 +157,7 @@ Construyo sistemas prácticos con **IA local**, **agentes**, **juegos** e **infr
 
 | Productos | Perfiles |
 |:---|:---|
-| [flickclaw.com](https://flickclaw.com) · [rpgclaw.com](https://www.rpgclaw.com) · [medaclawarena.com](https://medaclawarena.com) | [github.com/smouj](https://github.com/smouj) · [x.com/smouj013](https://x.com/smouj013) · [huggingface.co/Smouj013](https://huggingface.co/Smouj013) · [discord.gg/zQKjRzczTS](https://discord.gg/zQKjRzczTS) |
+| [flickclaw.com](https://flickclaw.com) · [rpgclaw.com](https://www.rpgclaw.com) · [tradingtazosgame.com](https://tradingtazosgame.com) | [github.com/smouj](https://github.com/smouj) · [x.com/smouj013](https://x.com/smouj013) · [huggingface.co/Smouj013](https://huggingface.co/Smouj013) · [discord.gg/zQKjRzczTS](https://discord.gg/zQKjRzczTS) |
 
 </div>
 

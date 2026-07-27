@@ -29,7 +29,7 @@ Developer building practical systems around **local AI**, **agent workflows**, *
 | 🧠 **Local AI** | llama.cpp · GGUF · CUDA · Ollama · consumer GPU inference · OpenAI-compatible local APIs |
 | 🤖 **Agent Workflows** | identities · skills · export formats · quality gates · target-specific tool files |
 | 🌐 **Production** | SaaS platforms · auth · billing · dashboards · health checks · release flows |
-| 🎮 **Game Systems** | multiplayer worlds · modular mechanics · deterministic combat · 3D interfaces |
+| 🎮 **Game Systems** | multiplayer worlds · trading card economies · modular mechanics · real-time WebSocket |
 | ⚙️ **Automation** | browser agents · coding workflows · validation scripts · infrastructure checks |
 
 | Principle | |
@@ -49,7 +49,7 @@ Developer building practical systems around **local AI**, **agent workflows**, *
 | 🎬 | **[FlickClaw](https://flickclaw.com)** | Agent launcher — curated specialist agents, native exports, quality gates | ![](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs) ![](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript) ![](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma) ![](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe) | 🟢 |
 | 🦁 | **[Kimari](https://github.com/smouj/kimari-local-ai)** | Local LLM runtime — consumer GPUs, CUDA, GGUF, evaluation | ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia) ![](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs) ![](https://img.shields.io/badge/HF-FFD21E?style=flat&logo=huggingface) | 🟡 |
 | 🧱 | **[RPGCLAW](https://www.rpgclaw.com)** | Collaborative pixel world — humans &amp; AI agents, real-time canvas | ![](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs) ![](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb) ![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) ![](https://img.shields.io/badge/Caddy-1F883D?style=flat) | 🟢 |
-| ⚔️ | **[MedaClaw Arena](https://medaclawarena.com)** | Tactical robot combat — modular bodies, MedaCore, deterministic battles | ![](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs) ![](https://img.shields.io/badge/Three.js-000?style=flat&logo=threedotjs) ![](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript) ![](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma) | 🟡 |
+| ⚔️ | **[Trading Tazos Game](https://tradingtazosgame.com)** | Digital trading card game — tazos, PvP battles, marketplace, seasonal content | ![](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs) ![](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript) ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql) ![](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe) | 🟡 |
 | 🐜 | **[FerroNest](https://github.com/smouj/FerroNest)** | Ant colony sim — emergent behavior via pheromone trails &amp; signals | ![](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs) ![](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript) | 🔵 |
 
 > 🟢 Live &nbsp; 🟡 Active development &nbsp; 🔵 Early stage
@@ -81,6 +81,9 @@ Developer building practical systems around **local AI**, **agent workflows**, *
 | 🏠 | [hipoteca-compare](https://github.com/smouj/hipoteca-compare) | Mortgage comparison tool for Spain + AI assistant | → |
 | 🛡️ | [essentials-skill](https://github.com/smouj/essentials-skill-openclaw) | Security-first essential skills pack for OpenClaw | → |
 | 📚 | [awesome-openclaw](https://github.com/smouj/awesome-openclaw-skills) | Curated collection of OpenClaw skills | → |
+| 🔐 | [agentdnai](https://github.com/smouj/agentdnai) | Verifiable digital identity — scoped permissions + audit trails for AI agents | → |
+| ⚔️ | [trading-tazos-game-cli](https://github.com/smouj/trading-tazos-game-cli) | Official TTG CLI — search, battle, manage tazo collections from terminal | → |
+| 🎨 | [tazo-art-studio](https://github.com/smouj/tazo-art-studio) | AI-powered visual drag & drop tazo designer for Trading Tazos Game | → |
 
 </details>
 
@@ -105,7 +108,7 @@ Developer building practical systems around **local AI**, **agent workflows**, *
 | 🎬 | **FlickClaw** | Catalog expansion · OpenClaw / Hermes / Claude Code / Codex exports · UX polish · free+ads / Pro |
 | 🦁 | **Kimari** | GTX 1060 / 1080 low-VRAM tuning · CLI diagnostics · reproducible eval · SFT packages |
 | 🧱 | **RPGCLAW** | Persistent canvas world · human + AI coexistence · templates · WebSocket reliability |
-| ⚔️ | **MedaClaw** | Modular assembly · MedaCore identity · deterministic combat · cel-shaded visuals |
+| ⚔️ | **Trading Tazos** | PvP battles · marketplace seasons · mobile PWA · WebSocket reliability |
 | 🐜 | **FerroNest** | Signal-based strategy · emergent colony AI · pheromone mechanics · procedural environments |
 
 ---
@@ -143,7 +146,7 @@ Developer building practical systems around **local AI**, **agent workflows**, *
 
 | Products | Profiles |
 |:---|:---|
-| [flickclaw.com](https://flickclaw.com) · [rpgclaw.com](https://www.rpgclaw.com) · [medaclawarena.com](https://medaclawarena.com) | [github.com/smouj](https://github.com/smouj) · [x.com/smouj013](https://x.com/smouj013) · [huggingface.co/Smouj013](https://huggingface.co/Smouj013) · [discord.gg/zQKjRzczTS](https://discord.gg/zQKjRzczTS) |
+| [flickclaw.com](https://flickclaw.com) · [rpgclaw.com](https://www.rpgclaw.com) · [tradingtazosgame.com](https://tradingtazosgame.com) | [github.com/smouj](https://github.com/smouj) · [x.com/smouj013](https://x.com/smouj013) · [huggingface.co/Smouj013](https://huggingface.co/Smouj013) · [discord.gg/zQKjRzczTS](https://discord.gg/zQKjRzczTS) |
 
 </div>
 
