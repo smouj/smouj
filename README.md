@@ -109,13 +109,13 @@ Developer building practical systems around **local AI**, **agent workflows**, *
 
 <div align="center">
 
-<a href="https://github.com/smouj"><img src="https://github-readme-stats.vercel.app/api?username=smouj&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true&hide=issues" width="48%" /></a>
-<a href="https://github.com/smouj"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smouj&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" width="41%" /></a>
+<a href="https://github.com/smouj"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smouj&theme=github_dark" width="48%" /></a>
+<a href="https://github.com/smouj"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smouj&theme=github_dark" width="48%" /></a>
 
 <br />
 <br />
 
-<a href="https://github.com/smouj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=smouj&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&dates=484f58" width="75%" /></a>
+<a href="https://github.com/smouj"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smouj&theme=github_dark" width="75%" /></a>
 
 </div>
 
