@@ -10,7 +10,6 @@
 <a href="https://x.com/smouj013"><img src="https://img.shields.io/badge/X-@smouj013-000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://huggingface.co/Smouj013"><img src="https://img.shields.io/badge/Hugging%20Face-Smouj013-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
 <a href="https://reddit.com/r/DBZ_LSW_FANGAME"><img src="https://img.shields.io/badge/Reddit-r%2FDBZ__LSW__FANGAME-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
-<a href="https://discord.gg/zQKjRzczTS"><img src="https://img.shields.io/badge/Discord-RPGCLAW-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
 <br />
 <br />
