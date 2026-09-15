@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0D1117,100:1A1A1A&height=200&section=header&text=SMOUJ&fontSize=62&fontColor=F5F5F5&fontAlignY=36&desc=Local-first%20AI%20%C2%B7%20Game%20Systems%20%C2%B7%20Automation%20%C2%B7%20Open%20Source&descAlignY=58&descSize=13&descColor=A3A3A3&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0D1117,100:1A1A1A&height=200&section=header&text=SMOUJ013&fontSize=62&fontColor=F5F5F5&fontAlignY=36&desc=AI%20%C2%B7%20Software%20Dev%20%C2%B7%20Game%20Systems%20%C2%B7%20Open%20Source&descAlignY=58&descSize=13&descColor=A3A3A3&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/smouj"><img src="https://github.com/smouj.png?size=180" width="130" style="border-radius:50%;margin-top:-10px" /></a>
 
 <br />
 
 <a href="https://github.com/smouj"><img src="https://img.shields.io/badge/GitHub-smouj-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://x.com/smouj013"><img src="https://img.shields.io/badge/X-@smouj013-000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://bsky.app/profile/smouj013.bsky.social"><img src="https://img.shields.io/badge/Bluesky-@smouj013-0085FF?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
 <a href="https://huggingface.co/Smouj013"><img src="https://img.shields.io/badge/Hugging%20Face-Smouj013-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
 <a href="https://reddit.com/r/DBZ_LSW_FANGAME"><img src="https://img.shields.io/badge/Reddit-r%2FDBZ__LSW__FANGAME-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
 
@@ -50,32 +50,9 @@ Developer building practical systems around **local AI**, **agent workflows**, *
 | 🔧 | **[AICodeStudio](https://github.com/smouj/AICodeStudio)** | AI-assisted IDE — OpenClaw + Hermes, Monaco Editor, PWA | ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) |
 | 🧬 | **[MythosForge](https://github.com/smouj/MythosForge)** | Recurrent-depth transformer research — LTI inference, MLA, MoE | ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch) |
 | 🌐 | **[agent-browser](https://github.com/smouj/agent-browser)** | Browser automation for AI agents — Playwright, REST API, dashboard | ![](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs) ![](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript) ![](https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright) |
-
----
-
-## 🧩 All Repositories
-
-| | Repository | Description |
-|:---:|:---|:---|
-| 🦁 | [kimari-local-ai](https://github.com/smouj/kimari-local-ai) | Local AI for consumer GPUs — llama.cpp + CUDA |
-| 🌐 | [agent-browser](https://github.com/smouj/agent-browser) | Browser automation for AI agents — Playwright + REST API |
-| 🛡️ | [captcha-shield](https://github.com/smouj/captcha-shield) | Advanced anti-bot CAPTCHA with behavioral signals |
-| 🔧 | [AICodeStudio](https://github.com/smouj/AICodeStudio) | AI-powered IDE with OpenClaw & Hermes integration |
-| 🧬 | [MythosForge](https://github.com/smouj/MythosForge) | Recurrent-depth transformer research — LTI, MLA, MoE |
-| 📦 | [kimari-microcompress](https://github.com/smouj/kimari-microcompress) | Reversible model compression with partial access |
-| 🧬 | [skill-genesis](https://github.com/smouj/skill-genesis) | Autonomous agent skill generator for OpenClaw |
-| 🤖 | [openclaw-desk](https://github.com/smouj/openclaw-desk) | Web dashboard for managing OpenClaw agents |
-| 🛡️ | [essentials-skill-openclaw](https://github.com/smouj/essentials-skill-openclaw) | Security-first essential skills pack for OpenClaw |
-| 📚 | [awesome-openclaw-skills](https://github.com/smouj/awesome-openclaw-skills) | Curated collection of OpenClaw skills |
-| 🔐 | [agentdnai](https://github.com/smouj/agentdnai) | Verifiable digital identity for AI agents |
-| 📊 | [tokentax](https://github.com/smouj/tokentax) | Compare 400+ AI models across all providers by price |
-| 📋 | [prompt-organizer](https://github.com/smouj/prompt-organizer) | Visual tool for prompts, audits and backlog |
-| 🐾 | [ASCIIcritters](https://github.com/smouj/asciicritters) | 3D virtual pet creator — ASCII art in Three.js + AI chat |
-| ⛽ | [gasolineras-espana](https://github.com/smouj/gasolineras-espana) | Real-time fuel price dashboard for Spain |
-| 🏠 | [hipoteca-compare](https://github.com/smouj/hipoteca-compare) | Mortgage comparison tool for Spain + AI assistant |
-| 💻 | [flickclaw-cli](https://github.com/smouj/flickclaw-cli) | One-command CLI for pre-configured agents in AI tools |
-| ⚔️ | [trading-tazos-game-cli](https://github.com/smouj/trading-tazos-game-cli) | TTG CLI — search, battle, manage tazo collections |
-| 🎨 | [tazo-art-studio](https://github.com/smouj/tazo-art-studio) | AI-powered drag & drop tazo designer |
+| 🖥️ | **[SysGlance](https://github.com/smouj/sysglance)** | Windows desktop overlay — system health, customization, live metrics | ![](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript) |
+| ⌨️ | **[LCDGlance](https://github.com/smouj/lcdglance)** | Logitech G510 LCD + RGB monitor with VPS stats and scouter | ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) |
+| 📟 | **[OpenClaw Widget](https://github.com/smouj/openclaw-desktop-widget)** | Always-on desktop panel for OpenClaw agents, Codex, process monitoring | ![](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp) |
 
 ---
 
@@ -87,7 +64,7 @@ Developer building practical systems around **local AI**, **agent workflows**, *
 | ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) | ![](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs) | ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql) | ![](https://img.shields.io/badge/Ollama-Local-000?style=flat&logo=ollama) | ![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) |
 | ![](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript) | ![](https://img.shields.io/badge/PixiJS-47A248?style=flat) | ![](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite) | ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch) | ![](https://img.shields.io/badge/Caddy-1F883D?style=flat) |
 | ![](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash) | ![](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss) | ![](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb) | ![](https://img.shields.io/badge/HF-FFD21E?style=flat&logo=huggingface) | ![](https://img.shields.io/badge/systemd-E95420?style=flat&logo=ubuntu) |
-| | ![](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite) | | ![](https://img.shields.io/badge/OpenAI-Codex-10A37F?style=flat&logo=openai) | ![](https://img.shields.io/badge/Plausible-5850EC?style=flat&logo=plausibleanalytics) |
+| ![](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp) | ![](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite) | | ![](https://img.shields.io/badge/OpenAI-Codex-10A37F?style=flat&logo=openai) | ![](https://img.shields.io/badge/Plausible-5850EC?style=flat&logo=plausibleanalytics) |
 
 ---
 
@@ -124,7 +101,7 @@ Developer building practical systems around **local AI**, **agent workflows**, *
 
 | Links |
 |:---|
-| [github.com/smouj](https://github.com/smouj) · [x.com/smouj013](https://x.com/smouj013) · [huggingface.co/Smouj013](https://huggingface.co/Smouj013) · [r/DBZ_LSW_FANGAME](https://reddit.com/r/DBZ_LSW_FANGAME) · [discord.gg/zQKjRzczTS](https://discord.gg/zQKjRzczTS) |
+| [github.com/smouj](https://github.com/smouj) · [bsky.app/profile/smouj013.bsky.social](https://bsky.app/profile/smouj013.bsky.social) · [huggingface.co/Smouj013](https://huggingface.co/Smouj013) · [r/DBZ_LSW_FANGAME](https://reddit.com/r/DBZ_LSW_FANGAME) · [discord.gg/zQKjRzczTS](https://discord.gg/zQKjRzczTS) |
 
 </div>
 
