@@ -9,7 +9,7 @@
 <a href="https://github.com/smouj"><img src="https://img.shields.io/badge/GitHub-smouj-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://bsky.app/profile/smouj013.bsky.social"><img src="https://img.shields.io/badge/Bluesky-@smouj013-0085FF?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
 <a href="https://huggingface.co/Smouj013"><img src="https://img.shields.io/badge/Hugging%20Face-Smouj013-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
-<a href="https://www.reddit.com/user/SnooMarzipans9093"><img src="https://img.shields.io/badge/Reddit-r%2FSmouj013-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+<a href="https://www.reddit.com/user/SnooMarzipans9093"><img src="https://img.shields.io/badge/Reddit-u%2FSmouj013-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
 
 <br />
 <br />
