@@ -7,7 +7,8 @@
 <br />
 
 <a href="https://github.com/smouj"><img src="https://img.shields.io/badge/GitHub-smouj-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://x.com/smouj013"><img src="https://img.shields.io/badge/X-@smouj013-000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://x.com/Smouj_013"><img src="https://img.shields.io/badge/X-@Smouj_013-000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://bsky.app/profile/smouj013.bsky.social"><img src="https://img.shields.io/badge/Bluesky-@smouj013-0085FF?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
 <a href="https://www.threads.com/@smouj.013"><img src="https://img.shields.io/badge/Threads-@smouj.013-000000?style=for-the-badge&logo=threads&logoColor=white" /></a>
 <a href="https://www.instagram.com/smouj.013/"><img src="https://img.shields.io/badge/Instagram-@smouj.013-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://huggingface.co/Smouj013"><img src="https://img.shields.io/badge/Hugging%20Face-Smouj013-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
@@ -134,7 +135,7 @@ Desarrollador construyendo sistemas prácticos alrededor de **IA local**, **work
 
 | Links |
 |:---|
-| [github.com/smouj](https://github.com/smouj) · [x.com/smouj013](https://x.com/smouj013) · [threads.com/@smouj.013](https://www.threads.com/@smouj.013) · [instagram.com/smouj.013](https://www.instagram.com/smouj.013/) · [huggingface.co/Smouj013](https://huggingface.co/Smouj013) · [reddit.com/user/SnooMarzipans9093](https://www.reddit.com/user/SnooMarzipans9093) · [discord.gg/BVWXWY5eUT](https://discord.gg/BVWXWY5eUT) · [Donar](https://www.paypal.com/ncp/payment/XUY7RB9X2JE2G) |
+| [github.com/smouj](https://github.com/smouj) · [x.com/Smouj_013](https://x.com/Smouj_013) · [threads.com/@smouj.013](https://www.threads.com/@smouj.013) · [instagram.com/smouj.013](https://www.instagram.com/smouj.013/) · [huggingface.co/Smouj013](https://huggingface.co/Smouj013) · [reddit.com/user/SnooMarzipans9093](https://www.reddit.com/user/SnooMarzipans9093) · [discord.gg/BVWXWY5eUT](https://discord.gg/BVWXWY5eUT) · [Donar](https://www.paypal.com/ncp/payment/XUY7RB9X2JE2G) |
 
 </div>
 
