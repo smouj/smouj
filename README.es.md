@@ -13,6 +13,7 @@
 <a href="https://huggingface.co/Smouj013"><img src="https://img.shields.io/badge/Hugging%20Face-Smouj013-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
 <a href="https://www.reddit.com/user/SnooMarzipans9093"><img src="https://img.shields.io/badge/Reddit-Smouj013-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
 <a href="https://discord.gg/BVWXWY5eUT"><img src="https://img.shields.io/badge/Discord-Smouj013-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://www.paypal.com/ncp/payment/XUY7RB9X2JE2G"><img src="https://img.shields.io/badge/Donar-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
 
 <br />
 <br />
@@ -133,7 +134,7 @@ Desarrollador construyendo sistemas prácticos alrededor de **IA local**, **work
 
 | Links |
 |:---|
-| [github.com/smouj](https://github.com/smouj) · [x.com/smouj013](https://x.com/smouj013) · [threads.com/@smouj.013](https://www.threads.com/@smouj.013) · [instagram.com/smouj.013](https://www.instagram.com/smouj.013/) · [huggingface.co/Smouj013](https://huggingface.co/Smouj013) · [reddit.com/user/SnooMarzipans9093](https://www.reddit.com/user/SnooMarzipans9093) · [discord.gg/BVWXWY5eUT](https://discord.gg/BVWXWY5eUT) |
+| [github.com/smouj](https://github.com/smouj) · [x.com/smouj013](https://x.com/smouj013) · [threads.com/@smouj.013](https://www.threads.com/@smouj.013) · [instagram.com/smouj.013](https://www.instagram.com/smouj.013/) · [huggingface.co/Smouj013](https://huggingface.co/Smouj013) · [reddit.com/user/SnooMarzipans9093](https://www.reddit.com/user/SnooMarzipans9093) · [discord.gg/BVWXWY5eUT](https://discord.gg/BVWXWY5eUT) · [Donar](https://www.paypal.com/ncp/payment/XUY7RB9X2JE2G) |
 
 </div>
 
