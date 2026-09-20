@@ -8,8 +8,11 @@
 
 <a href="https://github.com/smouj"><img src="https://img.shields.io/badge/GitHub-smouj-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://bsky.app/profile/smouj013.bsky.social"><img src="https://img.shields.io/badge/Bluesky-@smouj013-0085FF?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
+<a href="https://www.threads.com/@smouj.013"><img src="https://img.shields.io/badge/Threads-@smouj.013-000000?style=for-the-badge&logo=threads&logoColor=white" /></a>
+<a href="https://www.instagram.com/smouj.013/"><img src="https://img.shields.io/badge/Instagram-@smouj.013-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://discord.gg/BVWXWY5eUT"><img src="https://img.shields.io/badge/Discord-Smouj013-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://huggingface.co/Smouj013"><img src="https://img.shields.io/badge/Hugging%20Face-Smouj013-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
-<a href="https://www.reddit.com/user/SnooMarzipans9093"><img src="https://img.shields.io/badge/Reddit-u%2FSmouj013-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+<a href="https://www.reddit.com/user/SnooMarzipans9093"><img src="https://img.shields.io/badge/Reddit-Smouj013-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
 
 <br />
 <br />
@@ -101,7 +104,7 @@ Developer building practical systems around **local AI**, **agent workflows**, *
 
 | Links |
 |:---|
-| [github.com/smouj](https://github.com/smouj) · [bsky.app/profile/smouj013.bsky.social](https://bsky.app/profile/smouj013.bsky.social) · [huggingface.co/Smouj013](https://huggingface.co/Smouj013) · [r/DBZ_LSW_FANGAME](https://reddit.com/r/DBZ_LSW_FANGAME) · [discord.gg/zQKjRzczTS](https://discord.gg/zQKjRzczTS) |
+| [github.com/smouj](https://github.com/smouj) · [threads.com/@smouj.013](https://www.threads.com/@smouj.013) · [instagram.com/smouj.013](https://www.instagram.com/smouj.013/) · [bsky.app/profile/smouj013.bsky.social](https://bsky.app/profile/smouj013.bsky.social) · [huggingface.co/Smouj013](https://huggingface.co/Smouj013) · [reddit.com/user/SnooMarzipans9093](https://www.reddit.com/user/SnooMarzipans9093) · [discord.gg/BVWXWY5eUT](https://discord.gg/BVWXWY5eUT) |
 
 </div>
 
