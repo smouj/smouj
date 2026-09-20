@@ -46,16 +46,45 @@ Developer building practical systems around **local AI**, **agent workflows**, *
 
 ## 🚀 Featured Projects
 
-| | Project | Description | Stack |
-|:---:|:---|:---|:---|
-| 🦁 | **[Kimari](https://github.com/smouj/kimari-local-ai)** | Local LLM runtime — consumer GPUs, CUDA, GGUF, evaluation | ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia) ![](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs) ![](https://img.shields.io/badge/HF-FFD21E?style=flat&logo=huggingface) |
-| 🛡️ | **[captcha-shield](https://github.com/smouj/captcha-shield)** | Anti-bot system — 14 behavioral signals, 7 challenge types, QR verification | ![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) ![](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript) |
-| 🔧 | **[AICodeStudio](https://github.com/smouj/AICodeStudio)** | AI-assisted IDE — OpenClaw + Hermes, Monaco Editor, PWA | ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) |
-| 🧬 | **[MythosForge](https://github.com/smouj/MythosForge)** | Recurrent-depth transformer research — LTI inference, MLA, MoE | ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch) |
-| 🌐 | **[agent-browser](https://github.com/smouj/agent-browser)** | Browser automation for AI agents — Playwright, REST API, dashboard | ![](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs) ![](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript) ![](https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright) |
-| 🖥️ | **[SysGlance](https://github.com/smouj/sysglance)** | Windows desktop overlay — system health, customization, live metrics | ![](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript) |
-| ⌨️ | **[LCDGlance](https://github.com/smouj/lcdglance)** | Logitech G510 LCD + RGB monitor with VPS stats and scouter | ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) |
-| 📟 | **[OpenClaw Widget](https://github.com/smouj/openclaw-desktop-widget)** | Always-on desktop panel for OpenClaw agents, Codex, process monitoring | ![](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp) |
+**active** = shipping now · **stable** = works, maintained occasionally · **alpha** = early, expect breakage · **research** = experimental lab
+
+| | Project | Description | Status | Stack |
+|:---:|:---|:---|:---:|:---|
+| 🦁 | **[Kimari](https://github.com/smouj/kimari-local-ai)** | Local LLM runtime — consumer GPUs, CUDA, GGUF, evaluation | ![](https://img.shields.io/badge/status-stable-1f6feb?style=flat) | ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia) ![](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs) ![](https://img.shields.io/badge/HF-FFD21E?style=flat&logo=huggingface) |
+| 🧬 | **[NUDO](https://github.com/smouj/nudo)** | Programming language for humans and agents — lexer and parser first | ![](https://img.shields.io/badge/status-alpha-d29922?style=flat) | ![](https://img.shields.io/badge/Rust-000?style=flat&logo=rust) |
+| 💓 | **[Latido](https://github.com/smouj/latido)** | Local-first reader for your feeds — the pulse of the internet, on your machine | ![](https://img.shields.io/badge/status-active-2ea043?style=flat) | ![](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript) ![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) ![](https://img.shields.io/badge/Tauri-24C8DB?style=flat) |
+| 🛡️ | **[captcha-shield](https://github.com/smouj/captcha-shield)** | Anti-bot system — 14 behavioral signals, 7 challenge types, QR verification | ![](https://img.shields.io/badge/status-stable-1f6feb?style=flat) | ![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) ![](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript) |
+| 🔧 | **[AICodeStudio](https://github.com/smouj/AICodeStudio)** | AI-assisted IDE — OpenClaw + Hermes, Monaco Editor, PWA | ![](https://img.shields.io/badge/status-stable-1f6feb?style=flat) | ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) |
+| 🧪 | **[MythosForge](https://github.com/smouj/MythosForge)** | Recurrent-depth transformer research — LTI inference, MLA, MoE | ![](https://img.shields.io/badge/status-research-8957e5?style=flat) | ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch) |
+| 🌐 | **[agent-browser](https://github.com/smouj/agent-browser)** | Browser automation for AI agents — Playwright, REST API, dashboard | ![](https://img.shields.io/badge/status-stable-1f6feb?style=flat) | ![](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs) ![](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript) ![](https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright) |
+| 🎮 | **[Romulous](https://github.com/smouj/romulous)** | Game Boy Color ROM unraveler — extract every last byte | ![](https://img.shields.io/badge/status-stable-1f6feb?style=flat) | ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) |
+| 🖥️ | **[SysGlance](https://github.com/smouj/sysglance)** | Windows desktop overlay — system health, customization, live metrics | ![](https://img.shields.io/badge/status-active-2ea043?style=flat) | ![](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript) |
+| ⌨️ | **[LCDGlance](https://github.com/smouj/lcdglance)** | Logitech G510 LCD + RGB monitor with VPS stats and scouter | ![](https://img.shields.io/badge/status-active-2ea043?style=flat) | ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) |
+| 🎥 | **[AreaRec](https://github.com/smouj/arearec)** | Minimal local-first Windows region screen recorder, powered by FFmpeg | ![](https://img.shields.io/badge/status-active-2ea043?style=flat) | ![](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp) |
+| 📟 | **[OpenClaw Widget](https://github.com/smouj/openclaw-desktop-widget)** | Always-on desktop panel for OpenClaw agents, Codex, process monitoring | ![](https://img.shields.io/badge/status-active-2ea043?style=flat) | ![](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp) |
+
+---
+
+## 🧩 More Projects
+
+| Project | Description | Status |
+|:---|:---|:---:|
+| **[agentdnai](https://github.com/smouj/agentdnai)** | Identity, authorization and audit control plane for AI agents | ![](https://img.shields.io/badge/status-stable-1f6feb?style=flat) |
+| **[openclaw-desk](https://github.com/smouj/openclaw-desk)** | ClawDesk 🦞 — web panel to manage OpenClaw agents | ![](https://img.shields.io/badge/status-stable-1f6feb?style=flat) |
+| **[skill-genesis](https://github.com/smouj/skill-genesis)** | Autonomous OpenClaw skill generator | ![](https://img.shields.io/badge/status-stable-1f6feb?style=flat) |
+| **[essentials-skill-openclaw](https://github.com/smouj/essentials-skill-openclaw)** | Security-first pack of essential OpenClaw skills | ![](https://img.shields.io/badge/status-stable-1f6feb?style=flat) |
+| **[prompt-organizer](https://github.com/smouj/prompt-organizer)** | Visual organiser for prompts, audits and backlog | ![](https://img.shields.io/badge/status-stable-1f6feb?style=flat) |
+| **[kimari-microcompress](https://github.com/smouj/kimari-microcompress)** | Reversible lossless compression for AI models, with partial access | ![](https://img.shields.io/badge/status-stable-1f6feb?style=flat) |
+| **[kimari-ai-cli](https://github.com/smouj/kimari-ai-cli)** | Command-line interface for the Kimari local inference gateway | ![](https://img.shields.io/badge/status-stable-1f6feb?style=flat) |
+| **[tokentax](https://github.com/smouj/tokentax)** | Compare 400+ AI models from every provider by price | ![](https://img.shields.io/badge/status-stable-1f6feb?style=flat) |
+| **[FerroNest](https://github.com/smouj/FerroNest)** | Strategic ant colony management game — you design, they decide | ![](https://img.shields.io/badge/status-stable-1f6feb?style=flat) |
+| **[ASCIIcritters](https://github.com/smouj/asciicritters)** | 3D virtual pet creator — ASCII art rendered in Three.js | ![](https://img.shields.io/badge/status-stable-1f6feb?style=flat) |
+| **[classicvoice](https://github.com/smouj/classicvoice)** | Offline desktop front-end for classic Spanish TTS (eSpeak) | ![](https://img.shields.io/badge/status-stable-1f6feb?style=flat) |
+| **[mundial-tv](https://github.com/smouj/mundial-tv)** | Desktop player for live TV channels from around the world | ![](https://img.shields.io/badge/status-stable-1f6feb?style=flat) |
+| **[gasolineras-espana](https://github.com/smouj/gasolineras-espana)** | Live fuel prices for every station in Spain | ![](https://img.shields.io/badge/status-stable-1f6feb?style=flat) |
+| **[hipoteca-compare](https://github.com/smouj/hipoteca-compare)** | Mortgage comparison for Spain with an AI assistant | ![](https://img.shields.io/badge/status-stable-1f6feb?style=flat) |
+| **[tazo-art-studio](https://github.com/smouj/tazo-art-studio)** | Drag & drop tazo designer for Trading Tazos Game | ![](https://img.shields.io/badge/status-paused-6e7681?style=flat) |
+| **[trading-tazos-game-cli](https://github.com/smouj/trading-tazos-game-cli)** | CLI for the Trading Tazos Game collection | ![](https://img.shields.io/badge/status-paused-6e7681?style=flat) |
 
 ---
 
