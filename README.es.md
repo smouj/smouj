@@ -26,14 +26,14 @@ Casi todo parte de la misma restricción: tiene que funcionar offline, en hardwa
 
 <sub>Seis proyectos públicos. La ejecución local es el hilo común.</sub>
 
-| # | Sistema | Qué es | Stack |
-|:--|:--|:--|:--|
-| 01 | **[Kimari](https://github.com/smouj/kimari-local-ai)**<br><sub>Local inference</sub> | Runtime LLM local para GPUs de consumo. Modelos GGUF, aceleración CUDA, API compatible con OpenAI y evaluaciones reproducibles. | Python · CUDA · llama.cpp · GGUF |
-| 02 | **[agent-browser](https://github.com/smouj/agent-browser)**<br><sub>Agent tooling</sub> | Runtime de navegador y API REST que da a los agentes navegación, visión y primitivas de interacción. | TypeScript · Next.js · Playwright |
-| 03 | **[Latido](https://github.com/smouj/latido)**<br><sub>Information</sub> | Lector local-first que convierte Bluesky, HN, Reddit, Mastodon, RSS y GitHub en un único flujo tranquilo de temas emergentes. | TypeScript · React · Tauri · Rust |
-| 04 | **[NUDO](https://github.com/smouj/nudo)**<br><sub>Languages</sub> | Lenguaje de programación pensado para que humanos y agentes lean, escriban y verifiquen la misma fuente. Compilador bootstrap en Rust en progreso. | Rust · Compiler design |
-| 05 | **[Voryda Suite](https://github.com/smouj/voryda-rec)**<br><sub>Windows media</sub> | Cuatro utilidades nativas de Windows para capturar, grabar, descargar y editar medios. Una línea de producto, sin cloud.<br><sub>[Rec](https://github.com/smouj/voryda-rec) · [Snap](https://github.com/smouj/voryda-snap) · [Down](https://github.com/smouj/voryda-down) · [Cut](https://github.com/smouj/voryda-cut)</sub> | C# · .NET 8 · WinUI 3 · Windows |
-| 06 | **[Game Development](https://github.com/smouj/romulous)**<br><sub>Games & research</sub> | Juegos sistémicos, mecánicas retro y herramientas para experiencias basadas en ROM. Trabajo actual: Project Infest, un FPS cooperativo en desarrollo privado.<br><sub>[Romulous](https://github.com/smouj/romulous) · [FerroNest](https://github.com/smouj/FerroNest) · [DBZ LSW](https://github.com/smouj/dbzlsw-fangame)</sub> | Godot · GDScript · TypeScript · ROM research |
+| # | Sistema | Qué es |
+|:--|:--|:--|
+| 01 | **[Kimari](https://github.com/smouj/kimari-local-ai)**<br><sub>Local inference</sub> | Runtime LLM local para GPUs de consumo con CUDA y API compatible con OpenAI.<br><sub>Python · CUDA · GGUF</sub> |
+| 02 | **[agent-browser](https://github.com/smouj/agent-browser)**<br><sub>Agent tooling</sub> | Runtime de navegador y API REST para navegación, visión e interacción de agentes.<br><sub>TypeScript · Next.js</sub> |
+| 03 | **[Latido](https://github.com/smouj/latido)**<br><sub>Information</sub> | Lector local-first de Bluesky, HN, Reddit, Mastodon, RSS y GitHub.<br><sub>TypeScript · React · Tauri</sub> |
+| 04 | **[NUDO](https://github.com/smouj/nudo)**<br><sub>Languages</sub> | Lenguaje para que humanos y agentes lean, escriban y verifiquen la misma fuente.<br><sub>Rust</sub> |
+| 05 | **[Voryda Suite](https://github.com/smouj/voryda-rec)**<br><sub>Windows media</sub> | Cuatro utilidades nativas de Windows para capturar, grabar, descargar y editar.<br><sub>C# · WinUI 3 · [Rec](https://github.com/smouj/voryda-rec) · [Snap](https://github.com/smouj/voryda-snap) · [Down](https://github.com/smouj/voryda-down) · [Cut](https://github.com/smouj/voryda-cut)</sub> |
+| 06 | **[Games](https://github.com/smouj/romulous)**<br><sub>Games & research</sub> | Juegos sistémicos y herramientas para experiencias basadas en ROM. Project Infest en desarrollo.<br><sub>Godot · GDScript · [Romulous](https://github.com/smouj/romulous) · [FerroNest](https://github.com/smouj/FerroNest) · [DBZ LSW](https://github.com/smouj/dbzlsw-fangame)</sub> |
 
 ## / Práctica
 

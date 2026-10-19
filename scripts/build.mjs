@@ -171,13 +171,14 @@ function selectedTable(lang) {
   const c = copy[lang];
   const rows = projects.map((p, i) => {
     const num = String(i + 1).padStart(2, "0");
-    const extra = p.links && p.links.length
-      ? "<br><sub>" + p.links.map((l) => "[" + l.label + "](" + l.url + ")").join(" · ") + "</sub>"
-      : "";
-    return "| " + num + " | **[" + p.name + "](" + p.url + ")**<br><sub>" + p.focus + "</sub> | " + p.desc[lang] + extra + " | " + p.tags.join(" · ") + " |";
+    const meta = p.tags.slice();
+    if (p.links && p.links.length) {
+      meta.push(...p.links.map((l) => "[" + l.label + "](" + l.url + ")"));
+    }
+    return "| " + num + " | **[" + p.name + "](" + p.url + ")**<br><sub>" + p.focus + "</sub> | " + p.desc[lang] + "<br><sub>" + meta.join(" · ") + "</sub> |";
   }).join("\n");
-  return "| # | " + c.system + " | " + c.what + " | " + c.stack + " |\n" +
-    "|:--|:--|:--|:--|\n" + rows;
+  return "| # | " + c.system + " | " + c.what + " |\n" +
+    "|:--|:--|:--|\n" + rows;
 }
 
 function practiceTable(lang) {

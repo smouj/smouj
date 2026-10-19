@@ -4,13 +4,12 @@
     "name": "Kimari",
     "url": "https://github.com/smouj/kimari-local-ai",
     "desc": {
-      "en": "Local LLM runtime for consumer GPUs. GGUF models, CUDA acceleration, an OpenAI-compatible API and reproducible evaluations.",
-      "es": "Runtime LLM local para GPUs de consumo. Modelos GGUF, aceleración CUDA, API compatible con OpenAI y evaluaciones reproducibles."
+      "en": "Local LLM runtime for consumer GPUs with CUDA and an OpenAI-compatible API.",
+      "es": "Runtime LLM local para GPUs de consumo con CUDA y API compatible con OpenAI."
     },
     "tags": [
       "Python",
       "CUDA",
-      "llama.cpp",
       "GGUF"
     ],
     "links": [],
@@ -21,13 +20,12 @@
     "name": "agent-browser",
     "url": "https://github.com/smouj/agent-browser",
     "desc": {
-      "en": "A browser runtime and REST API that gives agents navigation, vision and interaction primitives.",
-      "es": "Runtime de navegador y API REST que da a los agentes navegación, visión y primitivas de interacción."
+      "en": "Browser runtime and REST API that gives agents navigation, vision and interaction.",
+      "es": "Runtime de navegador y API REST para navegación, visión e interacción de agentes."
     },
     "tags": [
       "TypeScript",
-      "Next.js",
-      "Playwright"
+      "Next.js"
     ],
     "links": [],
     "focus": "Agent tooling"
@@ -37,14 +35,13 @@
     "name": "Latido",
     "url": "https://github.com/smouj/latido",
     "desc": {
-      "en": "A local-first reader that turns Bluesky, HN, Reddit, Mastodon, RSS and GitHub into one quiet stream of emerging topics.",
-      "es": "Lector local-first que convierte Bluesky, HN, Reddit, Mastodon, RSS y GitHub en un único flujo tranquilo de temas emergentes."
+      "en": "Local-first reader for Bluesky, HN, Reddit, Mastodon, RSS and GitHub.",
+      "es": "Lector local-first de Bluesky, HN, Reddit, Mastodon, RSS y GitHub."
     },
     "tags": [
       "TypeScript",
       "React",
-      "Tauri",
-      "Rust"
+      "Tauri"
     ],
     "links": [],
     "focus": "Information"
@@ -54,12 +51,11 @@
     "name": "NUDO",
     "url": "https://github.com/smouj/nudo",
     "desc": {
-      "en": "A programming language built for humans and agents to read, write and verify the same source. Rust bootstrap compiler in progress.",
-      "es": "Lenguaje de programación pensado para que humanos y agentes lean, escriban y verifiquen la misma fuente. Compilador bootstrap en Rust en progreso."
+      "en": "A language for humans and agents to read, write and verify the same source.",
+      "es": "Lenguaje para que humanos y agentes lean, escriban y verifiquen la misma fuente."
     },
     "tags": [
-      "Rust",
-      "Compiler design"
+      "Rust"
     ],
     "links": [],
     "focus": "Languages"
@@ -69,14 +65,12 @@
     "name": "Voryda Suite",
     "url": "https://github.com/smouj/voryda-rec",
     "desc": {
-      "en": "Four native Windows utilities for capture, recording, downloading and editing media. One product line, no cloud.",
-      "es": "Cuatro utilidades nativas de Windows para capturar, grabar, descargar y editar medios. Una línea de producto, sin cloud."
+      "en": "Four native Windows utilities for capture, recording, downloading and editing.",
+      "es": "Cuatro utilidades nativas de Windows para capturar, grabar, descargar y editar."
     },
     "tags": [
       "C#",
-      ".NET 8",
-      "WinUI 3",
-      "Windows"
+      "WinUI 3"
     ],
     "links": [
       {
@@ -100,17 +94,15 @@
   },
   {
     "id": "games",
-    "name": "Game Development",
+    "name": "Games",
     "url": "https://github.com/smouj/romulous",
     "desc": {
-      "en": "Systemic games, retro mechanics and tooling for ROM-backed experiences. Current work: Project Infest, a cooperative FPS in private development.",
-      "es": "Juegos sistémicos, mecánicas retro y herramientas para experiencias basadas en ROM. Trabajo actual: Project Infest, un FPS cooperativo en desarrollo privado."
+      "en": "Systemic games and tooling for ROM-backed experiences. Project Infest in development.",
+      "es": "Juegos sistémicos y herramientas para experiencias basadas en ROM. Project Infest en desarrollo."
     },
     "tags": [
       "Godot",
-      "GDScript",
-      "TypeScript",
-      "ROM research"
+      "GDScript"
     ],
     "links": [
       {
