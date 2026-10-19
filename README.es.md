@@ -1,59 +1,82 @@
-<div align="center">
-  <img src="assets/header-es.svg" alt="SMOUJ — IA, software, juegos, local-first" width="100%">
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-es-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-es-light.svg">
+    <img src="assets/hero-es-light.svg" alt="SMOUJ — software independiente" width="100%">
+  </picture>
+</p>
 
 <p align="center">
   <a href="https://github.com/smouj">GitHub</a> · <a href="https://huggingface.co/Smouj013">Hugging Face</a> · <a href="https://bsky.app/profile/smouj013.bsky.social">Bluesky</a> · <a href="https://discord.gg/BVWXWY5eUT">Discord</a> · <a href="README.md">English</a>
 </p>
 
-## Sobre mí
+## / PERFIL
 
-Desarrollador construyendo **sistemas de IA local-first**, **software de escritorio**, **herramientas para desarrolladores** y **juegos**. Me importa el software que sigue siendo útil sin infraestructura cloud obligatoria — y publicar trabajo que se mide, no que se anuncia.
+Construyo herramientas para el ordenador que tienes delante: runtimes de IA local, utilidades de Windows, herramientas para desarrolladores y juegos pequeños.
 
-## Trabajo seleccionado
+Casi todo parte de la misma restricción: tiene que funcionar offline, en hardware que la gente ya tiene, sin un servidor en la ruta crítica.
 
-<a href="https://github.com/smouj/kimari-local-ai"><img src="assets/projects/kimari-es.svg" alt="Kimari — Runtime LLM local para GPUs de consumo — modelos GGUF, aceleración CUDA, API compatible con OpenAI y evaluaciones reproducibles." width="100%"></a>
+Ahora: **Kimari** (inferencia local), **Latido** (un lector de feeds más tranquilo) y **Voryda** (una suite multimedia para Windows). Además, investigando sistemas de juego en Godot.
 
-<a href="https://github.com/smouj/agent-browser"><img src="assets/projects/agent-browser-es.svg" alt="agent-browser — Runtime de navegador y API REST que da a los agentes de IA navegación, visión y primitivas de interacción." width="100%"></a>
+## / SELECCIÓN
 
-<a href="https://github.com/smouj/latido"><img src="assets/projects/latido-es.svg" alt="Latido — Lector local-first que convierte señales de Bluesky, HN, Reddit, Mastodon, RSS y GitHub en temas emergentes." width="100%"></a>
+### 01 / [Kimari](https://github.com/smouj/kimari-local-ai)
 
-<a href="https://github.com/smouj/nudo"><img src="assets/projects/nudo-es.svg" alt="NUDO — Un lenguaje de programación pensado para que humanos y agentes lean, escriban y verifiquen la misma fuente. Compilador bootstrap en Rust en progreso." width="100%"></a>
+Runtime LLM local para GPUs de consumo. Modelos GGUF, aceleración CUDA, API compatible con OpenAI y evaluaciones reproducibles.<br>
+<sub>↳ Python · CUDA · llama.cpp · GGUF</sub>
 
-<a href="https://github.com/smouj/voryda-rec"><img src="assets/projects/voryda-es.svg" alt="Voryda Suite — Utilidades nativas de Windows, local-first, para captura, grabación, descarga y edición de medios — construidas como una línea de producto coherente." width="100%"></a>
-<p align="center"><sub><a href="https://github.com/smouj/voryda-rec">Rec</a> · <a href="https://github.com/smouj/voryda-snap">Snap</a> · <a href="https://github.com/smouj/voryda-down">Down</a> · <a href="https://github.com/smouj/voryda-cut">Cut</a></sub></p>
+### 02 / [agent-browser](https://github.com/smouj/agent-browser)
 
-<a href="https://github.com/smouj/romulous"><img src="assets/projects/games-es.svg" alt="Game Development — Juegos sistémicos, mecánicas de inspiración retro y herramientas para experiencias basadas en ROM — de motores de combate a pipelines de pixel art." width="100%"></a>
-<p align="center"><sub><a href="https://github.com/smouj/romulous">Romulous</a> · <a href="https://github.com/smouj/FerroNest">FerroNest</a> · <a href="https://github.com/smouj/dbzlsw-fangame">DBZ LSW</a></sub></p>
-<p align="center"><sub>Project Infest — FPS cooperativo, en desarrollo privado.</sub></p>
+Runtime de navegador y API REST que da a los agentes navegación, visión y primitivas de interacción.<br>
+<sub>↳ TypeScript · Next.js · Playwright</sub>
 
-## Ingeniería
+### 03 / [Latido](https://github.com/smouj/latido)
 
-**Local-first por diseño**  
-El software debe seguir siendo útil sin infraestructura cloud obligatoria.
+Lector local-first que convierte Bluesky, HN, Reddit, Mastodon, RSS y GitHub en un único flujo tranquilo de temas emergentes.<br>
+<sub>↳ TypeScript · React · Tauri · Rust</sub>
 
-**Validado, no anunciado**  
-El trabajo experimental se separa con claridad del software listo para producción.
+### 04 / [NUDO](https://github.com/smouj/nudo)
 
-**Cambios pequeños y reversibles**  
-Auditar el estado real, acotar, probar, documentar y publicar.
+Lenguaje de programación pensado para que humanos y agentes lean, escriban y verifiquen la misma fuente. Compilador bootstrap en Rust en progreso.<br>
+<sub>↳ Rust · Compiler design</sub>
 
-## Stack principal
+### 05 / [Voryda Suite](https://github.com/smouj/voryda-rec)
 
-**Lenguajes** — Python · TypeScript · C# · Rust · GDScript
+Cuatro utilidades nativas de Windows para capturar, grabar, descargar y editar medios. Una línea de producto, sin cloud.<br>
+<sub>↳ C# · .NET 8 · WinUI 3 · Windows · [Rec](https://github.com/smouj/voryda-rec) · [Snap](https://github.com/smouj/voryda-snap) · [Down](https://github.com/smouj/voryda-down) · [Cut](https://github.com/smouj/voryda-cut)</sub>
 
-**IA y sistemas** — llama.cpp · CUDA · GGUF · Ollama · PyTorch
+### 06 / [Game Development](https://github.com/smouj/romulous)
 
-**Aplicaciones** — React · Tauri · WinUI 3 · Godot
+Juegos sistémicos, mecánicas retro y herramientas para experiencias basadas en ROM. Trabajo actual: Project Infest, un FPS cooperativo en desarrollo privado.<br>
+<sub>↳ Godot · GDScript · TypeScript · ROM research · [Romulous](https://github.com/smouj/romulous) · [FerroNest](https://github.com/smouj/FerroNest) · [DBZ LSW](https://github.com/smouj/dbzlsw-fangame)</sub>
 
+## / HERRAMIENTAS
+
+**Lenguajes** — Python · TypeScript · C# · Rust · GDScript  
+**Runtime** — llama.cpp · CUDA · GGUF · Ollama  
+**Interfaz** — React · Tauri · WinUI 3 · Godot  
 **Infraestructura** — Linux · Docker · SQLite · PostgreSQL
 
-## Más
+## / PRÁCTICA
 
-Más de 50 repositorios públicos de IA, software de escritorio, automatización, desarrollo de juegos e investigación experimental.
+**Medir antes de reescribir**  
+Perfila lo real primero. Después cambia la pieza más pequeña que explique el problema.
 
-[Repositorios](https://github.com/smouj?tab=repositories) · [Hugging Face](https://huggingface.co/Smouj013) · [Bluesky](https://bsky.app/profile/smouj013.bsky.social)
+**Offline es una característica**  
+Si una herramienta necesita un servidor para ser útil, es otro producto.
+
+**Una demo es una demo**  
+Lo experimental se etiqueta. Las releases se prueban, se versionan y se pueden revertir.
+
+## / ENLACES
+
+**Código** — [github.com/smouj](https://github.com/smouj)  
+**Modelos** — [huggingface.co/Smouj013](https://huggingface.co/Smouj013)  
+**Notas** — [@smouj013](https://bsky.app/profile/smouj013.bsky.social)  
+**Comunidad** — [Discord](https://discord.gg/BVWXWY5eUT)
+
+También en <a href="https://www.threads.com/@smouj.013">Threads</a> · <a href="https://www.instagram.com/smouj.013/">Instagram</a> · <a href="https://www.reddit.com/user/SnooMarzipans9093">Reddit</a>. [Apoyar el trabajo](https://www.paypal.com/ncp/payment/XUY7RB9X2JE2G).
 
 ---
 
-<p align="center"><sub><a href="https://github.com/smouj">GitHub</a> · <a href="https://huggingface.co/Smouj013">Hugging Face</a> · <a href="https://bsky.app/profile/smouj013.bsky.social">Bluesky</a> · <a href="https://www.threads.com/@smouj.013">Threads</a> · <a href="https://www.instagram.com/smouj.013/">Instagram</a> · <a href="https://www.reddit.com/user/SnooMarzipans9093">Reddit</a> · <a href="https://discord.gg/BVWXWY5eUT">Discord</a> · <a href="https://www.paypal.com/ncp/payment/XUY7RB9X2JE2G">Apoyar</a></sub></p>
+<p align="center"><sub>SMOUJ / 013 — software independiente</sub></p>

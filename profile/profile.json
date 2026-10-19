@@ -1,46 +1,67 @@
 {
   "name": "SMOUJ",
+  "handle": "013",
+  "kicker": {
+    "en": "INDEPENDENT SOFTWARE",
+    "es": "SOFTWARE INDEPENDIENTE"
+  },
+  "index": {
+    "en": "SYSTEMS INDEX — 2026",
+    "es": "ÍNDICE DE SISTEMAS — 2026"
+  },
   "tagline": {
-    "en": "AI · Software · Games · Local-first",
-    "es": "IA · Software · Juegos · Local-first"
+    "en": "AI · DESKTOP · GAMES · LOCAL-FIRST",
+    "es": "IA · ESCRITORIO · JUEGOS · LOCAL-FIRST"
   },
-  "about": {
-    "en": "Developer building **local-first AI systems**, **desktop software**, **developer tools** and **games**. I care about software that stays useful without mandatory cloud infrastructure — and about shipping work that is measured rather than advertised.",
-    "es": "Desarrollador construyendo **sistemas de IA local-first**, **software de escritorio**, **herramientas para desarrolladores** y **juegos**. Me importa el software que sigue siendo útil sin infraestructura cloud obligatoria — y publicar trabajo que se mide, no que se anuncia."
+  "stamp": {
+    "en": "LOCAL-FIRST / SMALL TOOLS",
+    "es": "LOCAL-FIRST / HERRAMIENTAS PEQUEÑAS"
   },
-  "principles": [
+  "intro": {
+    "en": [
+      "I build tools for the computer on the desk: local AI runtimes, Windows utilities, developer tools and small games.",
+      "Most of my work starts from the same constraint — it has to work offline, on hardware people already own, without a server in the critical path.",
+      "Currently: **Kimari** (local inference), **Latido** (a quieter feed reader) and **Voryda** (a Windows media suite). Also researching game systems in Godot."
+    ],
+    "es": [
+      "Construyo herramientas para el ordenador que tienes delante: runtimes de IA local, utilidades de Windows, herramientas para desarrolladores y juegos pequeños.",
+      "Casi todo parte de la misma restricción: tiene que funcionar offline, en hardware que la gente ya tiene, sin un servidor en la ruta crítica.",
+      "Ahora: **Kimari** (inferencia local), **Latido** (un lector de feeds más tranquilo) y **Voryda** (una suite multimedia para Windows). Además, investigando sistemas de juego en Godot."
+    ]
+  },
+  "practice": [
     {
       "title": {
-        "en": "Local-first by design",
-        "es": "Local-first por diseño"
+        "en": "Measure before rewriting",
+        "es": "Medir antes de reescribir"
       },
       "body": {
-        "en": "Software should remain useful without mandatory cloud infrastructure.",
-        "es": "El software debe seguir siendo útil sin infraestructura cloud obligatoria."
+        "en": "Profile the real thing first. Then change the smallest piece that explains the problem.",
+        "es": "Perfila lo real primero. Después cambia la pieza más pequeña que explique el problema."
       }
     },
     {
       "title": {
-        "en": "Validated over advertised",
-        "es": "Validado, no anunciado"
+        "en": "Offline is a feature",
+        "es": "Offline es una característica"
       },
       "body": {
-        "en": "Experimental work is clearly separated from production-ready software.",
-        "es": "El trabajo experimental se separa con claridad del software listo para producción."
+        "en": "If a tool needs a server to be useful, it is a different product.",
+        "es": "Si una herramienta necesita un servidor para ser útil, es otro producto."
       }
     },
     {
       "title": {
-        "en": "Small, reversible changes",
-        "es": "Cambios pequeños y reversibles"
+        "en": "Demos are demos",
+        "es": "Una demo es una demo"
       },
       "body": {
-        "en": "Audit the real state, scope tightly, test, document, release.",
-        "es": "Auditar el estado real, acotar, probar, documentar y publicar."
+        "en": "Experimental work is labeled. Releases are tested, versioned and reversible.",
+        "es": "Lo experimental se etiqueta. Las releases se prueban, se versionan y se pueden revertir."
       }
     }
   ],
-  "stack": [
+  "toolchain": [
     {
       "label": {
         "en": "Languages",
@@ -56,21 +77,20 @@
     },
     {
       "label": {
-        "en": "AI & systems",
-        "es": "IA y sistemas"
+        "en": "Runtime",
+        "es": "Runtime"
       },
       "items": [
         "llama.cpp",
         "CUDA",
         "GGUF",
-        "Ollama",
-        "PyTorch"
+        "Ollama"
       ]
     },
     {
       "label": {
-        "en": "Applications",
-        "es": "Aplicaciones"
+        "en": "Interface",
+        "es": "Interfaz"
       },
       "items": [
         "React",
@@ -91,9 +111,5 @@
         "PostgreSQL"
       ]
     }
-  ],
-  "more": {
-    "en": "50+ public repositories across AI, desktop software, automation, game development and experimental research.",
-    "es": "Más de 50 repositorios públicos de IA, software de escritorio, automatización, desarrollo de juegos e investigación experimental."
-  }
+  ]
 }

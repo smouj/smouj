@@ -17,19 +17,41 @@
       "url": "https://discord.gg/BVWXWY5eUT"
     }
   ],
-  "footer": [
+  "elsewhere": [
     {
-      "label": "GitHub",
+      "label": {
+        "en": "Code",
+        "es": "Código"
+      },
+      "value": "github.com/smouj",
       "url": "https://github.com/smouj"
     },
     {
-      "label": "Hugging Face",
+      "label": {
+        "en": "Models",
+        "es": "Modelos"
+      },
+      "value": "huggingface.co/Smouj013",
       "url": "https://huggingface.co/Smouj013"
     },
     {
-      "label": "Bluesky",
+      "label": {
+        "en": "Notes",
+        "es": "Notas"
+      },
+      "value": "@smouj013",
       "url": "https://bsky.app/profile/smouj013.bsky.social"
     },
+    {
+      "label": {
+        "en": "Community",
+        "es": "Comunidad"
+      },
+      "value": "Discord",
+      "url": "https://discord.gg/BVWXWY5eUT"
+    }
+  ],
+  "social": [
     {
       "label": "Threads",
       "url": "https://www.threads.com/@smouj.013"
@@ -41,16 +63,12 @@
     {
       "label": "Reddit",
       "url": "https://www.reddit.com/user/SnooMarzipans9093"
-    },
-    {
-      "label": "Discord",
-      "url": "https://discord.gg/BVWXWY5eUT"
     }
   ],
   "support": {
     "label": {
-      "en": "Support",
-      "es": "Apoyar"
+      "en": "Support the work",
+      "es": "Apoyar el trabajo"
     },
     "url": "https://www.paypal.com/ncp/payment/XUY7RB9X2JE2G"
   }
