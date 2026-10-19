@@ -18,7 +18,7 @@ Casi todo parte de la misma restricción: tiene que funcionar offline, en hardwa
 
 Ahora: **Kimari** (inferencia local), **Latido** (un lector de feeds más tranquilo) y **Voryda** (una suite multimedia para Windows). Además, investigando sistemas de juego en Godot.
 
-## / SELECCIÓN
+## / SISTEMAS
 
 ### 01 / [Kimari](https://github.com/smouj/kimari-local-ai)
 
@@ -75,7 +75,7 @@ Lo experimental se etiqueta. Las releases se prueban, se versionan y se pueden r
 **Notas** — [@smouj013](https://bsky.app/profile/smouj013.bsky.social)  
 **Comunidad** — [Discord](https://discord.gg/BVWXWY5eUT)
 
-También en <a href="https://www.threads.com/@smouj.013">Threads</a> · <a href="https://www.instagram.com/smouj.013/">Instagram</a> · <a href="https://www.reddit.com/user/SnooMarzipans9093">Reddit</a>. [Apoyar el trabajo](https://www.paypal.com/ncp/payment/XUY7RB9X2JE2G).
+También en <a href="https://www.threads.com/@smouj.013">Threads</a>, <a href="https://www.instagram.com/smouj.013/">Instagram</a> y <a href="https://www.reddit.com/user/SnooMarzipans9093">Reddit</a>. [Apoyar el trabajo](https://www.paypal.com/ncp/payment/XUY7RB9X2JE2G).
 
 ---
 

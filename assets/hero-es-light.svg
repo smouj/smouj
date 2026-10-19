@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-label="SMOUJ — independent software">
   <rect width="1200" height="340" fill="#F2EFE8"/>
   <rect x="0.5" y="0.5" width="1199" height="339" fill="none" stroke="#D8D2C8"/>
-  <text x="64" y="54" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', 'Roboto Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="3.2" fill="#6B6560">SOFTWARE INDEPENDIENTE</text>
-  <text x="1136" y="54" text-anchor="end" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', 'Roboto Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="3.2" fill="#6B6560">ÍNDICE DE SISTEMAS — 2026</text>
+  <text x="64" y="54" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', 'Roboto Mono', Menlo, Consolas, monospace" font-size="13" letter-spacing="2.8" fill="#6B6560">SOFTWARE INDEPENDIENTE</text>
+  <text x="1136" y="54" text-anchor="end" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', 'Roboto Mono', Menlo, Consolas, monospace" font-size="13" letter-spacing="2.8" fill="#6B6560">ÍNDICE DE SISTEMAS — 2026</text>
   <rect x="64" y="84" width="36" height="36" fill="none" stroke="#111111" stroke-width="1.2"/>
   <path d="M72 112 L92 92" stroke="#D93A1F" stroke-width="3"/>
   <circle cx="92" cy="112" r="3" fill="#D93A1F"/>
   <text x="116" y="238" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="144" font-weight="800" letter-spacing="-7" fill="#111111">SMOUJ</text>
   <path d="M674 238 L702 238 L728 96 L700 96 Z" fill="#D93A1F"/>
-  <text x="118" y="282" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', 'Roboto Mono', Menlo, Consolas, monospace" font-size="13" letter-spacing="3.6" fill="#6B6560">IA · ESCRITORIO · JUEGOS · LOCAL-FIRST</text>
+  <text x="118" y="282" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', 'Roboto Mono', Menlo, Consolas, monospace" font-size="15.5" letter-spacing="3.2" fill="#6B6560">IA · ESCRITORIO · JUEGOS · LOCAL-FIRST</text>
   <line x1="856" y1="84" x2="856" y2="266" stroke="#D8D2C8"/>
-  <text x="1136" y="252" text-anchor="end" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="150" font-weight="700" letter-spacing="4" fill="none" stroke="#D93A1F" stroke-width="1.5">013</text>
+  <text x="1136" y="252" text-anchor="end" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="150" font-weight="700" letter-spacing="4" fill="none" stroke="#D93A1F" stroke-width="1.8">013</text>
   <line x1="64" y1="306" x2="1136" y2="306" stroke="#D8D2C8"/>
-  <text x="64" y="328" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', 'Roboto Mono', Menlo, Consolas, monospace" font-size="9.5" letter-spacing="2.2" fill="#6B6560">LOCAL-FIRST / HERRAMIENTAS PEQUEÑAS</text>
-  <text x="1136" y="328" text-anchor="end" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', 'Roboto Mono', Menlo, Consolas, monospace" font-size="9.5" letter-spacing="2.2" fill="#6B6560">GITHUB.COM/SMOUJ</text>
+  <text x="64" y="328" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', 'Roboto Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="2" fill="#6B6560">LOCAL-FIRST / HERRAMIENTAS PEQUEÑAS</text>
+  <text x="1136" y="328" text-anchor="end" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', 'Roboto Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="2" fill="#6B6560">GITHUB.COM/SMOUJ</text>
 </svg>

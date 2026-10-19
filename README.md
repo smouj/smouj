@@ -18,7 +18,7 @@ Most of my work starts from the same constraint — it has to work offline, on h
 
 Currently: **Kimari** (local inference), **Latido** (a quieter feed reader) and **Voryda** (a Windows media suite). Also researching game systems in Godot.
 
-## / SELECTED
+## / SELECTED SYSTEMS
 
 ### 01 / [Kimari](https://github.com/smouj/kimari-local-ai)
 
@@ -75,7 +75,7 @@ Experimental work is labeled. Releases are tested, versioned and reversible.
 **Notes** — [@smouj013](https://bsky.app/profile/smouj013.bsky.social)  
 **Community** — [Discord](https://discord.gg/BVWXWY5eUT)
 
-Also on <a href="https://www.threads.com/@smouj.013">Threads</a> · <a href="https://www.instagram.com/smouj.013/">Instagram</a> · <a href="https://www.reddit.com/user/SnooMarzipans9093">Reddit</a>. [Support the work](https://www.paypal.com/ncp/payment/XUY7RB9X2JE2G).
+Also on <a href="https://www.threads.com/@smouj.013">Threads</a>, <a href="https://www.instagram.com/smouj.013/">Instagram</a> and <a href="https://www.reddit.com/user/SnooMarzipans9093">Reddit</a>. [Support the work](https://www.paypal.com/ncp/payment/XUY7RB9X2JE2G).
 
 ---
 

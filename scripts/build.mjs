@@ -36,26 +36,26 @@ function heroSvg(lang, theme) {
   return '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-label="SMOUJ — independent software">\n' +
 '  <rect width="1200" height="340" fill="' + p.bg + '"/>\n' +
 '  <rect x="0.5" y="0.5" width="1199" height="339" fill="none" stroke="' + p.line + '"/>\n' +
-'  <text x="64" y="54" font-family="' + MONO + '" font-size="11" letter-spacing="3.2" fill="' + p.muted + '">' + esc(profile.kicker[lang].toUpperCase()) + '</text>\n' +
-'  <text x="1136" y="54" text-anchor="end" font-family="' + MONO + '" font-size="11" letter-spacing="3.2" fill="' + p.muted + '">' + esc(profile.index[lang].toUpperCase()) + '</text>\n' +
+'  <text x="64" y="54" font-family="' + MONO + '" font-size="13" letter-spacing="2.8" fill="' + p.muted + '">' + esc(profile.kicker[lang].toUpperCase()) + '</text>\n' +
+'  <text x="1136" y="54" text-anchor="end" font-family="' + MONO + '" font-size="13" letter-spacing="2.8" fill="' + p.muted + '">' + esc(profile.index[lang].toUpperCase()) + '</text>\n' +
 '  <rect x="64" y="84" width="36" height="36" fill="none" stroke="' + p.ink + '" stroke-width="1.2"/>\n' +
 '  <path d="M72 112 L92 92" stroke="' + p.accent + '" stroke-width="3"/>\n' +
 '  <circle cx="92" cy="112" r="3" fill="' + p.accent + '"/>\n' +
 '  <text x="116" y="238" font-family="' + SANS + '" font-size="144" font-weight="800" letter-spacing="-7" fill="' + p.ink + '">' + esc(profile.name) + '</text>\n' +
 '  <path d="M674 238 L702 238 L728 96 L700 96 Z" fill="' + p.accent + '"/>\n' +
-'  <text x="118" y="282" font-family="' + MONO + '" font-size="13" letter-spacing="3.6" fill="' + p.muted + '">' + esc(profile.tagline[lang].toUpperCase()) + '</text>\n' +
+'  <text x="118" y="282" font-family="' + MONO + '" font-size="15.5" letter-spacing="3.2" fill="' + p.muted + '">' + esc(profile.tagline[lang].toUpperCase()) + '</text>\n' +
 '  <line x1="856" y1="84" x2="856" y2="266" stroke="' + p.line + '"/>\n' +
-'  <text x="1136" y="252" text-anchor="end" font-family="' + SANS + '" font-size="150" font-weight="700" letter-spacing="4" fill="none" stroke="' + p.accent + '" stroke-width="1.5">' + esc(profile.handle) + '</text>\n' +
+'  <text x="1136" y="252" text-anchor="end" font-family="' + SANS + '" font-size="150" font-weight="700" letter-spacing="4" fill="none" stroke="' + p.accent + '" stroke-width="1.8">' + esc(profile.handle) + '</text>\n' +
 '  <line x1="64" y1="306" x2="1136" y2="306" stroke="' + p.line + '"/>\n' +
-'  <text x="64" y="328" font-family="' + MONO + '" font-size="9.5" letter-spacing="2.2" fill="' + p.muted + '">' + esc(profile.stamp[lang].toUpperCase()) + '</text>\n' +
-'  <text x="1136" y="328" text-anchor="end" font-family="' + MONO + '" font-size="9.5" letter-spacing="2.2" fill="' + p.muted + '">GITHUB.COM/SMOUJ</text>\n' +
+'  <text x="64" y="328" font-family="' + MONO + '" font-size="11" letter-spacing="2" fill="' + p.muted + '">' + esc(profile.stamp[lang].toUpperCase()) + '</text>\n' +
+'  <text x="1136" y="328" text-anchor="end" font-family="' + MONO + '" font-size="11" letter-spacing="2" fill="' + p.muted + '">GITHUB.COM/SMOUJ</text>\n' +
 '</svg>\n';
 }
 
 const copy = {
   en: {
     profile: "PROFILE",
-    selected: "SELECTED",
+    selected: "SELECTED SYSTEMS",
     toolchain: "TOOLCHAIN",
     practice: "PRACTICE",
     elsewhere: "ELSEWHERE",
@@ -69,7 +69,7 @@ const copy = {
   },
   es: {
     profile: "PERFIL",
-    selected: "SELECCIÓN",
+    selected: "SISTEMAS",
     toolchain: "HERRAMIENTAS",
     practice: "PRÁCTICA",
     elsewhere: "ENLACES",
@@ -85,6 +85,12 @@ const copy = {
 
 function linkList(list) {
   return list.map((l) => '<a href="' + esc(l.url) + '">' + esc(l.label) + '</a>').join(" · ");
+}
+
+function joinHuman(list, andWord) {
+  const parts = list.map((l) => '<a href="' + esc(l.url) + '">' + esc(l.label) + '</a>');
+  if (parts.length < 2) return parts.join("");
+  return parts.slice(0, -1).join(", ") + " " + andWord + " " + parts[parts.length - 1];
 }
 
 function readme(lang) {
@@ -118,7 +124,7 @@ function readme(lang) {
     "**" + l.label[lang] + "** — [" + l.value + "](" + l.url + ")"
   ).join("  \n");
 
-  const social = linkList(links.social);
+  const social = joinHuman(links.social, c.and);
 
   return '<p align="center">\n' +
 '  <picture>\n' +
