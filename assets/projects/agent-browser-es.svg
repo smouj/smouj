@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 176" role="img" aria-label="agent-browser">
+  <title>agent-browser</title>
+  <rect x="0.5" y="0.5" width="999" height="175" rx="14" fill="#0D1117" stroke="#21262D"/>
+  <rect x="1" y="18" width="3" height="140" rx="1.5" fill="#3FB950"/>
+  <text x="42" y="58" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#F0F6FC">agent-browser</text>
+  <text x="960" y="58" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="2" fill="#3D444D">02</text>
+  <text x="42" y="92" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#A1AAB4"><tspan x="42" dy="0">Runtime de navegador y API REST que da a los agentes de IA navegación, visión y</tspan><tspan x="42" dy="21">primitivas de interacción.</tspan></text>
+  <text x="42" y="148" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1.5" fill="#8B949E">TypeScript  ·  Next.js  ·  Playwright</text>
+</svg>

@@ -1,0 +1,135 @@
+[
+  {
+    "id": "kimari",
+    "name": "Kimari",
+    "accent": "#58A6FF",
+    "url": "https://github.com/smouj/kimari-local-ai",
+    "desc": {
+      "en": "Local LLM runtime for consumer GPUs — GGUF models, CUDA acceleration, an OpenAI-compatible API and reproducible evaluations.",
+      "es": "Runtime LLM local para GPUs de consumo — modelos GGUF, aceleración CUDA, API compatible con OpenAI y evaluaciones reproducibles."
+    },
+    "tags": [
+      "Python",
+      "CUDA",
+      "llama.cpp",
+      "GGUF"
+    ],
+    "links": []
+  },
+  {
+    "id": "agent-browser",
+    "name": "agent-browser",
+    "accent": "#3FB950",
+    "url": "https://github.com/smouj/agent-browser",
+    "desc": {
+      "en": "Browser runtime and REST API that gives AI agents navigation, vision and interaction primitives.",
+      "es": "Runtime de navegador y API REST que da a los agentes de IA navegación, visión y primitivas de interacción."
+    },
+    "tags": [
+      "TypeScript",
+      "Next.js",
+      "Playwright"
+    ],
+    "links": []
+  },
+  {
+    "id": "latido",
+    "name": "Latido",
+    "accent": "#F778BA",
+    "url": "https://github.com/smouj/latido",
+    "desc": {
+      "en": "Local-first reader that turns signals from Bluesky, HN, Reddit, Mastodon, RSS and GitHub into emerging topics.",
+      "es": "Lector local-first que convierte señales de Bluesky, HN, Reddit, Mastodon, RSS y GitHub en temas emergentes."
+    },
+    "tags": [
+      "TypeScript",
+      "React",
+      "Tauri",
+      "Rust"
+    ],
+    "links": []
+  },
+  {
+    "id": "nudo",
+    "name": "NUDO",
+    "accent": "#BC8CFF",
+    "url": "https://github.com/smouj/nudo",
+    "desc": {
+      "en": "A programming language designed for humans and agents to read, write and verify the same source. Rust bootstrap compiler in progress.",
+      "es": "Un lenguaje de programación pensado para que humanos y agentes lean, escriban y verifiquen la misma fuente. Compilador bootstrap en Rust en progreso."
+    },
+    "tags": [
+      "Rust",
+      "Compiler design"
+    ],
+    "links": []
+  },
+  {
+    "id": "voryda",
+    "name": "Voryda Suite",
+    "accent": "#39C5CF",
+    "url": "https://github.com/smouj/voryda-rec",
+    "desc": {
+      "en": "Native, local-first Windows utilities for capture, recording, media downloading and editing — built as one coherent product line.",
+      "es": "Utilidades nativas de Windows, local-first, para captura, grabación, descarga y edición de medios — construidas como una línea de producto coherente."
+    },
+    "tags": [
+      "C#",
+      ".NET 8",
+      "WinUI 3",
+      "Windows"
+    ],
+    "links": [
+      {
+        "label": "Rec",
+        "url": "https://github.com/smouj/voryda-rec"
+      },
+      {
+        "label": "Snap",
+        "url": "https://github.com/smouj/voryda-snap"
+      },
+      {
+        "label": "Down",
+        "url": "https://github.com/smouj/voryda-down"
+      },
+      {
+        "label": "Cut",
+        "url": "https://github.com/smouj/voryda-cut"
+      }
+    ]
+  },
+  {
+    "id": "games",
+    "name": "Game Development",
+    "accent": "#F0883E",
+    "url": "https://github.com/smouj/romulous",
+    "desc": {
+      "en": "Systemic games, retro-inspired mechanics and tooling for ROM-backed experiences — from combat engines to pixel-art pipelines.",
+      "es": "Juegos sistémicos, mecánicas de inspiración retro y herramientas para experiencias basadas en ROM — de motores de combate a pipelines de pixel art."
+    },
+    "tags": [
+      "Godot",
+      "GDScript",
+      "TypeScript",
+      "ROM research"
+    ],
+    "links": [
+      {
+        "label": "Romulous",
+        "url": "https://github.com/smouj/romulous"
+      },
+      {
+        "label": "FerroNest",
+        "url": "https://github.com/smouj/FerroNest"
+      },
+      {
+        "label": "DBZ LSW",
+        "url": "https://github.com/smouj/dbzlsw-fangame"
+      }
+    ],
+    "note": {
+      "en": "Project Infest — cooperative FPS, in private development.",
+      "es": "Project Infest — FPS cooperativo, en desarrollo privado."
+    }
+  }
+]

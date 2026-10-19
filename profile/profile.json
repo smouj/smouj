@@ -1,0 +1,99 @@
+{
+  "name": "SMOUJ",
+  "tagline": {
+    "en": "AI · Software · Games · Local-first",
+    "es": "IA · Software · Juegos · Local-first"
+  },
+  "about": {
+    "en": "Developer building **local-first AI systems**, **desktop software**, **developer tools** and **games**. I care about software that stays useful without mandatory cloud infrastructure — and about shipping work that is measured rather than advertised.",
+    "es": "Desarrollador construyendo **sistemas de IA local-first**, **software de escritorio**, **herramientas para desarrolladores** y **juegos**. Me importa el software que sigue siendo útil sin infraestructura cloud obligatoria — y publicar trabajo que se mide, no que se anuncia."
+  },
+  "principles": [
+    {
+      "title": {
+        "en": "Local-first by design",
+        "es": "Local-first por diseño"
+      },
+      "body": {
+        "en": "Software should remain useful without mandatory cloud infrastructure.",
+        "es": "El software debe seguir siendo útil sin infraestructura cloud obligatoria."
+      }
+    },
+    {
+      "title": {
+        "en": "Validated over advertised",
+        "es": "Validado, no anunciado"
+      },
+      "body": {
+        "en": "Experimental work is clearly separated from production-ready software.",
+        "es": "El trabajo experimental se separa con claridad del software listo para producción."
+      }
+    },
+    {
+      "title": {
+        "en": "Small, reversible changes",
+        "es": "Cambios pequeños y reversibles"
+      },
+      "body": {
+        "en": "Audit the real state, scope tightly, test, document, release.",
+        "es": "Auditar el estado real, acotar, probar, documentar y publicar."
+      }
+    }
+  ],
+  "stack": [
+    {
+      "label": {
+        "en": "Languages",
+        "es": "Lenguajes"
+      },
+      "items": [
+        "Python",
+        "TypeScript",
+        "C#",
+        "Rust",
+        "GDScript"
+      ]
+    },
+    {
+      "label": {
+        "en": "AI & systems",
+        "es": "IA y sistemas"
+      },
+      "items": [
+        "llama.cpp",
+        "CUDA",
+        "GGUF",
+        "Ollama",
+        "PyTorch"
+      ]
+    },
+    {
+      "label": {
+        "en": "Applications",
+        "es": "Aplicaciones"
+      },
+      "items": [
+        "React",
+        "Tauri",
+        "WinUI 3",
+        "Godot"
+      ]
+    },
+    {
+      "label": {
+        "en": "Infrastructure",
+        "es": "Infraestructura"
+      },
+      "items": [
+        "Linux",
+        "Docker",
+        "SQLite",
+        "PostgreSQL"
+      ]
+    }
+  ],
+  "more": {
+    "en": "50+ public repositories across AI, desktop software, automation, game development and experimental research.",
+    "es": "Más de 50 repositorios públicos de IA, software de escritorio, automatización, desarrollo de juegos e investigación experimental."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "header": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/smouj"
+    },
+    {
+      "label": "Hugging Face",
+      "url": "https://huggingface.co/Smouj013"
+    },
+    {
+      "label": "Bluesky",
+      "url": "https://bsky.app/profile/smouj013.bsky.social"
+    },
+    {
+      "label": "Discord",
+      "url": "https://discord.gg/BVWXWY5eUT"
+    }
+  ],
+  "footer": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/smouj"
+    },
+    {
+      "label": "Hugging Face",
+      "url": "https://huggingface.co/Smouj013"
+    },
+    {
+      "label": "Bluesky",
+      "url": "https://bsky.app/profile/smouj013.bsky.social"
+    },
+    {
+      "label": "Threads",
+      "url": "https://www.threads.com/@smouj.013"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/smouj.013/"
+    },
+    {
+      "label": "Reddit",
+      "url": "https://www.reddit.com/user/SnooMarzipans9093"
+    },
+    {
+      "label": "Discord",
+      "url": "https://discord.gg/BVWXWY5eUT"
+    }
+  ],
+  "support": {
+    "label": {
+      "en": "Support",
+      "es": "Apoyar"
+    },
+    "url": "https://www.paypal.com/ncp/payment/XUY7RB9X2JE2G"
+  }
+}
