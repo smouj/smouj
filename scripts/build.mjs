@@ -83,11 +83,20 @@ const copy = {
   en: {
     profile: "Profile",
     selected: "Selected systems",
+    deckSelected: "Six public projects. Local execution is the common thread.",
     toolchain: "Toolchain",
     practice: "Practice",
     elsewhere: "Elsewhere",
+    currently: "Currently",
+    system: "System",
+    what: "What it is",
+    stack: "Stack",
+    principle: "Principle",
+    inPractice: "In practice",
     also: "Also on",
     support: "Support the work",
+    channel: "Channel",
+    where: "Where",
     language: "Español",
     other: "README.es.md",
     headerAlt: "SMOUJ — independent software",
@@ -97,11 +106,20 @@ const copy = {
   es: {
     profile: "Perfil",
     selected: "Sistemas",
+    deckSelected: "Seis proyectos públicos. La ejecución local es el hilo común.",
     toolchain: "Herramientas",
     practice: "Práctica",
     elsewhere: "Enlaces",
+    currently: "Ahora",
+    system: "Sistema",
+    what: "Qué es",
+    stack: "Stack",
+    principle: "Principio",
+    inPractice: "En la práctica",
     also: "También en",
     support: "Apoyar el trabajo",
+    channel: "Canal",
+    where: "Dónde",
     language: "English",
     other: "README.md",
     headerAlt: "SMOUJ — software independiente",
@@ -109,6 +127,82 @@ const copy = {
     and: "y"
   }
 };
+
+const badgeSpec = {
+  Python: ["3776AB", "python", "white"],
+  TypeScript: ["3178C6", "typescript", "white"],
+  "C#": ["512BD4", "dotnet", "white"],
+  Rust: ["B7410E", "rust", "white"],
+  GDScript: ["478CBF", "godotengine", "white"],
+  "llama.cpp": ["1F242B", null, null],
+  CUDA: ["76B900", "nvidia", "white"],
+  GGUF: ["4B5563", null, null],
+  Ollama: ["111827", "ollama", "white"],
+  React: ["20232A", "react", "61DAFB"],
+  Tauri: ["24C8DB", "tauri", "white"],
+  "WinUI 3": ["0078D4", "windows", "white"],
+  Godot: ["478CBF", "godotengine", "white"],
+  Linux: ["FCC624", "linux", "black"],
+  Docker: ["2496ED", "docker", "white"],
+  SQLite: ["003B57", "sqlite", "white"],
+  PostgreSQL: ["4169E1", "postgresql", "white"]
+};
+
+function badge(label) {
+  const spec = badgeSpec[label] || ["1F242B", null, null];
+  let url = "https://img.shields.io/badge/" + encodeURIComponent(label) + "-" + spec[0] + "?style=flat-square";
+  if (spec[1]) url += "&logo=" + spec[1] + "&logoColor=" + spec[2];
+  return "![" + label + "](" + url + ")";
+}
+
+function socialBadges(lang) {
+  const c = copy[lang];
+  const items = [
+    ["GitHub", "https://github.com/smouj", "https://img.shields.io/badge/GitHub-smouj-181717?style=flat-square&logo=github&logoColor=white"],
+    ["Hugging Face", "https://huggingface.co/Smouj013", "https://img.shields.io/badge/Hugging%20Face-Smouj013-FFD21E?style=flat-square&logo=huggingface&logoColor=black"],
+    ["Bluesky", "https://bsky.app/profile/smouj013.bsky.social", "https://img.shields.io/badge/Bluesky-%40smouj013-0085FF?style=flat-square&logo=bluesky&logoColor=white"],
+    ["Discord", "https://discord.gg/BVWXWY5eUT", "https://img.shields.io/badge/Discord-Smouj013-5865F2?style=flat-square&logo=discord&logoColor=white"],
+    [c.language, c.other, "https://img.shields.io/badge/" + encodeURIComponent(c.language) + "-README-6E7681?style=flat-square"]
+  ];
+  return items.map(([alt, href, src]) => '<a href="' + href + '"><img src="' + src + '" alt="' + alt + '"></a>').join("&nbsp;\n  ");
+}
+
+function selectedTable(lang) {
+  const c = copy[lang];
+  const rows = projects.map((p, i) => {
+    const num = String(i + 1).padStart(2, "0");
+    const extra = p.links && p.links.length
+      ? "<br><sub>" + p.links.map((l) => "[" + l.label + "](" + l.url + ")").join(" · ") + "</sub>"
+      : "";
+    return "| " + num + " | **[" + p.name + "](" + p.url + ")**<br><sub>" + p.focus + "</sub> | " + p.desc[lang] + extra + " | " + p.tags.join(" · ") + " |";
+  }).join("\n");
+  return "| # | " + c.system + " | " + c.what + " | " + c.stack + " |\n" +
+    "|:--|:--|:--|:--|\n" + rows;
+}
+
+function practiceTable(lang) {
+  const c = copy[lang];
+  const rows = profile.practice.map((p) =>
+    "| **" + p.title[lang] + "** | " + p.body[lang] + " |"
+  ).join("\n");
+  return "| " + c.principle + " | " + c.inPractice + " |\n" +
+    "|:--|:--|\n" + rows;
+}
+
+function toolchainBadges(lang) {
+  return profile.toolchain.map((t) =>
+    "**" + t.label[lang] + "**  \n" + t.items.map(badge).join(" ")
+  ).join("\n\n");
+}
+
+function elsewhereTable(lang) {
+  const c = copy[lang];
+  const rows = links.elsewhere.map((l) =>
+    "| **" + l.label[lang] + "** | [" + l.value + "](" + l.url + ") |"
+  ).join("\n");
+  return "| " + c.channel + " | " + c.where + " |\n" +
+    "|:--|:--|\n" + rows;
+}
 
 function joinHuman(list, andWord) {
   const parts = list.map((l) => '<a href="' + esc(l.url) + '">' + esc(l.label) + '</a>');
@@ -118,58 +212,32 @@ function joinHuman(list, andWord) {
 
 function readme(lang) {
   const c = copy[lang];
-
-  const headerLinks = links.header.map((l) => '<a href="' + esc(l.url) + '">' + esc(l.label) + '</a>').join(" · ");
-
   const intro = profile.intro[lang].join("\n\n");
-
-  const selected = projects.map((p, i) => {
-    const num = String(i + 1).padStart(2, "0");
-    const meta = [];
-    meta.push(p.tags.join(" · "));
-    if (p.links && p.links.length) {
-      meta.push(p.links.map((l) => "[" + l.label + "](" + l.url + ")").join(" · "));
-    }
-    return "### " + num + " — [" + p.name + "](" + p.url + ")\n\n" +
-      p.desc[lang] + "<br>\n" +
-      "<sub>↳ " + meta.join(" · ") + "</sub>";
-  }).join("\n\n");
-
-  const practice = profile.practice.map((p) =>
-    "**" + p.title[lang] + "**  \n" + p.body[lang]
-  ).join("\n\n");
-
-  const toolchain = profile.toolchain.map((t) =>
-    "**" + t.label[lang] + "** — " + t.items.join(" · ")
-  ).join("  \n");
-
-  const elsewhere = links.elsewhere.map((l) =>
-    "**" + l.label[lang] + "** — [" + l.value + "](" + l.url + ")"
-  ).join("  \n");
-
   const social = joinHuman(links.social, c.and);
 
   return '<p align="center">\n' +
 '  <picture>\n' +
-'    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-' + lang + '-dark.svg?v=3">\n' +
-'    <source media="(prefers-color-scheme: light)" srcset="assets/hero-' + lang + '-light.svg?v=3">\n' +
-'    <img src="assets/hero-' + lang + '-light.svg?v=3" alt="' + esc(c.headerAlt) + '" width="100%">\n' +
+'    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-' + lang + '-dark.svg?v=4">\n' +
+'    <source media="(prefers-color-scheme: light)" srcset="assets/hero-' + lang + '-light.svg?v=4">\n' +
+'    <img src="assets/hero-' + lang + '-light.svg?v=4" alt="' + esc(c.headerAlt) + '" width="100%">\n' +
 '  </picture>\n' +
 '</p>\n\n' +
 '<p align="center">\n' +
-'  ' + headerLinks + ' · <a href="' + c.other + '">' + c.language + '</a>\n' +
+'  ' + socialBadges(lang) + '\n' +
 '</p>\n\n' +
 '## / ' + c.profile + '\n\n' +
 intro + '\n\n' +
+'> **' + c.currently + '** — ' + profile.currently[lang] + '\n\n' +
 '## / ' + c.selected + '\n\n' +
-selected + '\n\n' +
-'## / ' + c.toolchain + '\n\n' +
-toolchain + '\n\n' +
+'<sub>' + c.deckSelected + '</sub>\n\n' +
+selectedTable(lang) + '\n\n' +
 '## / ' + c.practice + '\n\n' +
-practice + '\n\n' +
+practiceTable(lang) + '\n\n' +
+'## / ' + c.toolchain + '\n\n' +
+toolchainBadges(lang) + '\n\n' +
 '## / ' + c.elsewhere + '\n\n' +
-elsewhere + '\n\n' +
-c.also + ' ' + social + '. [' + c.support + '](' + esc(links.support.url) + ').\n\n' +
+elsewhereTable(lang) + '\n\n' +
+'<sub>' + c.also + ' ' + social + '. [' + c.support + '](' + esc(links.support.url) + ')</sub>\n\n' +
 '---\n\n' +
 '<p align="center"><sub>' + esc(c.footer) + '</sub></p>\n';
 }

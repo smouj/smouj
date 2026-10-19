@@ -20,13 +20,11 @@
   "intro": {
     "en": [
       "I build tools for the computer on the desk: local AI runtimes, Windows utilities, developer tools and small games.",
-      "Most of my work starts from the same constraint — it has to work offline, on hardware people already own, without a server in the critical path.",
-      "Currently: **Kimari** (local inference), **Latido** (a quieter feed reader) and **Voryda** (a Windows media suite). Also researching game systems in Godot."
+      "Most of my work starts from the same constraint — it has to work offline, on hardware people already own, without a server in the critical path."
     ],
     "es": [
       "Construyo herramientas para el ordenador que tienes delante: runtimes de IA local, utilidades de Windows, herramientas para desarrolladores y juegos pequeños.",
-      "Casi todo parte de la misma restricción: tiene que funcionar offline, en hardware que la gente ya tiene, sin un servidor en la ruta crítica.",
-      "Ahora: **Kimari** (inferencia local), **Latido** (un lector de feeds más tranquilo) y **Voryda** (una suite multimedia para Windows). Además, investigando sistemas de juego en Godot."
+      "Casi todo parte de la misma restricción: tiene que funcionar offline, en hardware que la gente ya tiene, sin un servidor en la ruta crítica."
     ]
   },
   "practice": [
@@ -111,5 +109,9 @@
         "PostgreSQL"
       ]
     }
-  ]
+  ],
+  "currently": {
+    "en": "Building **Kimari**, **Latido** and **Voryda**; researching game systems in Godot.",
+    "es": "Construyendo **Kimari**, **Latido** y **Voryda**; investigando sistemas de juego en Godot."
+  }
 }

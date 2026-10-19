@@ -13,7 +13,8 @@
       "llama.cpp",
       "GGUF"
     ],
-    "links": []
+    "links": [],
+    "focus": "Local inference"
   },
   {
     "id": "agent-browser",
@@ -28,7 +29,8 @@
       "Next.js",
       "Playwright"
     ],
-    "links": []
+    "links": [],
+    "focus": "Agent tooling"
   },
   {
     "id": "latido",
@@ -44,7 +46,8 @@
       "Tauri",
       "Rust"
     ],
-    "links": []
+    "links": [],
+    "focus": "Information"
   },
   {
     "id": "nudo",
@@ -58,7 +61,8 @@
       "Rust",
       "Compiler design"
     ],
-    "links": []
+    "links": [],
+    "focus": "Languages"
   },
   {
     "id": "voryda",
@@ -91,7 +95,8 @@
         "label": "Cut",
         "url": "https://github.com/smouj/voryda-cut"
       }
-    ]
+    ],
+    "focus": "Windows media"
   },
   {
     "id": "games",
@@ -120,6 +125,7 @@
         "label": "DBZ LSW",
         "url": "https://github.com/smouj/dbzlsw-fangame"
       }
-    ]
+    ],
+    "focus": "Games & research"
   }
 ]
