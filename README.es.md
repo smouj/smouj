@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-es-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/hero-es-light.svg">
-    <img src="assets/hero-es-light.svg" alt="SMOUJ — software independiente" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-es-dark.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-es-light.svg?v=3">
+    <img src="assets/hero-es-light.svg?v=3" alt="SMOUJ — software independiente" width="100%">
   </picture>
 </p>
 

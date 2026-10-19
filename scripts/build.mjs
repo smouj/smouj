@@ -151,9 +151,9 @@ function readme(lang) {
 
   return '<p align="center">\n' +
 '  <picture>\n' +
-'    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-' + lang + '-dark.svg">\n' +
-'    <source media="(prefers-color-scheme: light)" srcset="assets/hero-' + lang + '-light.svg">\n' +
-'    <img src="assets/hero-' + lang + '-light.svg" alt="' + esc(c.headerAlt) + '" width="100%">\n' +
+'    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-' + lang + '-dark.svg?v=3">\n' +
+'    <source media="(prefers-color-scheme: light)" srcset="assets/hero-' + lang + '-light.svg?v=3">\n' +
+'    <img src="assets/hero-' + lang + '-light.svg?v=3" alt="' + esc(c.headerAlt) + '" width="100%">\n' +
 '  </picture>\n' +
 '</p>\n\n' +
 '<p align="center">\n' +
