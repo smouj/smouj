@@ -2,8 +2,8 @@
   <title>Game Development</title>
   <rect x="0.5" y="0.5" width="999" height="175" rx="14" fill="#0D1117" stroke="#21262D"/>
   <rect x="1" y="18" width="3" height="140" rx="1.5" fill="#F0883E"/>
-  <text x="42" y="58" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#F0F6FC">Game Development</text>
+  <text x="42" y="58" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="600" fill="#F0F6FC">Game Development</text>
   <text x="960" y="58" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="2" fill="#3D444D">06</text>
-  <text x="42" y="92" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#A1AAB4"><tspan x="42" dy="0">Systemic games, retro-inspired mechanics and tooling for ROM-backed experiences —</tspan><tspan x="42" dy="21">from combat engines to pixel-art pipelines.</tspan></text>
-  <text x="42" y="148" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1.5" fill="#8B949E">Godot  ·  GDScript  ·  TypeScript  ·  ROM research</text>
+  <text x="42" y="92" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#A1AAB4"><tspan x="42" dy="0">Systemic games, retro-inspired mechanics and tooling for ROM-backed experiences —</tspan><tspan x="42" dy="21">from combat engines to pixel-art pipelines.</tspan></text>
+  <text x="42" y="148" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" letter-spacing="1.5" fill="#8B949E">Godot  ·  GDScript  ·  TypeScript  ·  ROM research</text>
 </svg>

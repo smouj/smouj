@@ -98,10 +98,10 @@ function cardSvg(project, lang, index) {
 '  <title>' + esc(project.name) + '</title>\n' +
 '  <rect x="0.5" y="0.5" width="999" height="175" rx="14" fill="#0D1117" stroke="#21262D"/>\n' +
 '  <rect x="1" y="18" width="3" height="140" rx="1.5" fill="' + project.accent + '"/>\n' +
-'  <text x="42" y="58" font-family="' + SANS + '" font-size="24" font-weight="600" fill="#F0F6FC">' + esc(project.name) + '</text>\n' +
+'  <text x="42" y="58" font-family="' + SANS + '" font-size="25" font-weight="600" fill="#F0F6FC">' + esc(project.name) + '</text>\n' +
 '  <text x="960" y="58" text-anchor="end" font-family="' + MONO + '" font-size="11" letter-spacing="2" fill="#3D444D">' + num + '</text>\n' +
-'  <text x="42" y="92" font-family="' + SANS + '" font-size="16" fill="#A1AAB4">' + desc + '</text>\n' +
-'  <text x="42" y="148" font-family="' + MONO + '" font-size="12" letter-spacing="1.5" fill="#8B949E">' + tags + '</text>\n' +
+'  <text x="42" y="92" font-family="' + SANS + '" font-size="17" fill="#A1AAB4">' + desc + '</text>\n' +
+'  <text x="42" y="148" font-family="' + MONO + '" font-size="12.5" letter-spacing="1.5" fill="#8B949E">' + tags + '</text>\n' +
 '</svg>\n';
 }
 
