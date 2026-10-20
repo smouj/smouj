@@ -504,7 +504,7 @@
           "name": "XLSX Viewer",
           "repo": "xlsx-viewer",
           "url": "https://github.com/smouj/xlsx-viewer",
-          "icon": "xlsx.svg",
+          "icon": "xlsx.png",
           "desc": {
             "en": "Local Excel viewer for Windows: no upload, no account, no macros.",
             "es": "Visor local de Excel para Windows: sin subir archivos, sin cuenta y sin macros."
@@ -585,7 +585,7 @@
           "name": "Prompt Organizer",
           "repo": "prompt-organizer",
           "url": "https://github.com/smouj/prompt-organizer",
-          "icon": "prompt-organizer.svg",
+          "icon": "prompt-organizer.png",
           "desc": {
             "en": "Visual tool to organise prompts, audits, bugs and backlog in one place.",
             "es": "Herramienta visual para organizar prompts, auditorías, bugs y backlog."
