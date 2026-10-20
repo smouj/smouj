@@ -1,4 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="OD">
-  <rect x="1" y="1" width="62" height="62" rx="16" fill="#1F7A3F" fill-opacity="0.12" stroke="#1F7A3F" stroke-opacity="0.30"/>
-  <text x="32" y="33" text-anchor="middle" dominant-baseline="central" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="-0.5" fill="#1F7A3F">OD</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="ClawDesk logo">
+  <rect width="64" height="64" rx="14" fill="#0b0f1d"/>
+  <path d="M18 30c0-8 6-14 14-14s14 6 14 14v10c0 6-4 10-10 10H28c-6 0-10-4-10-10V30z" fill="#34f2ff" opacity="0.18"/>
+  <path d="M24 30c0-5 4-9 8-9s8 4 8 9" stroke="#34f2ff" stroke-width="2" fill="none"/>
+  <path d="M24 38c0-5 4-9 8-9s8 4 8 9" stroke="#ff4fd8" stroke-width="2" fill="none"/>
+  <circle cx="24" cy="32" r="2" fill="#6bff7a"/>
+  <circle cx="40" cy="32" r="2" fill="#6bff7a"/>
 </svg>

@@ -1,4 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="SG">
-  <rect x="1" y="1" width="62" height="62" rx="16" fill="#1F7A3F" fill-opacity="0.12" stroke="#1F7A3F" stroke-opacity="0.30"/>
-  <text x="32" y="33" text-anchor="middle" dominant-baseline="central" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="-0.5" fill="#1F7A3F">SG</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <defs>
+    <linearGradient id="fg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFD700"/>
+      <stop offset="50%" stop-color="#8B00FF"/>
+      <stop offset="100%" stop-color="#4B0082"/>
+    </linearGradient>
+  </defs>
+  <rect width="32" height="32" rx="6" fill="#0A0A0A"/>
+  <path d="M16 2 C13 6, 10 11, 12 20 C13 24, 10 27, 7 31 C9 29, 13 26, 14 22 C15 26, 13 29, 11 32 C14 29, 15 25, 15 20 C16 25, 16 29, 14 32 C16 28, 17 24, 16 20 C17 24, 17 28, 16 32 C18 28, 19 23, 17 19 C20 13, 18 7, 16 2Z"
+        fill="url(#fg)"/>
 </svg>

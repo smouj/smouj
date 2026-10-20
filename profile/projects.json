@@ -16,7 +16,7 @@
           "name": "Kimari",
           "repo": "kimari-local-ai",
           "url": "https://github.com/smouj/kimari-local-ai",
-          "icon": "kimari.svg",
+          "icon": "kimari.png",
           "desc": {
             "en": "Local LLM runtime for consumer GPUs with CUDA and an OpenAI-compatible API.",
             "es": "Runtime LLM local para GPUs de consumo con CUDA y API compatible con OpenAI."
@@ -35,7 +35,7 @@
           "name": "AICodeStudio",
           "repo": "AICodeStudio",
           "url": "https://github.com/smouj/AICodeStudio",
-          "icon": "aicode.svg",
+          "icon": "aicode.png",
           "desc": {
             "en": "AI-assisted IDE with local model routing and an OpenClaw bridge.",
             "es": "IDE asistido por IA con enrutado a modelos locales y puente con OpenClaw."
@@ -52,7 +52,7 @@
           "name": "agent-browser",
           "repo": "agent-browser",
           "url": "https://github.com/smouj/agent-browser",
-          "icon": "agent-browser.svg",
+          "icon": "agent-browser.png",
           "desc": {
             "en": "Browser runtime and REST API that gives agents navigation, vision and interaction.",
             "es": "Runtime de navegador y API REST para navegación, visión e interacción de agentes."
@@ -118,7 +118,7 @@
           "name": "OpenClaw Widget",
           "repo": "openclaw-desktop-widget",
           "url": "https://github.com/smouj/openclaw-desktop-widget",
-          "icon": "openclaw-widget.svg",
+          "icon": "openclaw-widget.png",
           "desc": {
             "en": "Frameless, translucent widget with system health and the OpenClaw control panel.",
             "es": "Widget sin bordes y translúcido con la salud del sistema y el panel de OpenClaw."
@@ -170,7 +170,7 @@
           "name": "ClassicVoice",
           "repo": "classicvoice",
           "url": "https://github.com/smouj/classicvoice",
-          "icon": "classicvoice.svg",
+          "icon": "classicvoice.png",
           "desc": {
             "en": "Offline multilingual text-to-speech for Windows built on eSpeak NG voices.",
             "es": "Síntesis de voz multilingüe offline para Windows sobre voces de eSpeak NG."
@@ -187,7 +187,7 @@
           "name": "Olden Era Overlay",
           "repo": "olden-era-draft-overlay",
           "url": "https://github.com/smouj/olden-era-draft-overlay",
-          "icon": "olden-era.svg",
+          "icon": "olden-era.png",
           "desc": {
             "en": "Contextual local assistant for Heroes of Might and Magic: Olden Era.",
             "es": "Asistente contextual local para Heroes of Might and Magic: Olden Era."
@@ -521,7 +521,7 @@
           "name": "Mundial TV",
           "repo": "mundial-tv",
           "url": "https://github.com/smouj/mundial-tv",
-          "icon": "mundial-tv.svg",
+          "icon": "mundial-tv.png",
           "desc": {
             "en": "Desktop player for live television channels from around the world.",
             "es": "Reproductor de escritorio de televisión en directo de todo el mundo."
@@ -632,7 +632,7 @@
           "name": "PROJECT INFEST",
           "repo": "project-infest",
           "url": "https://github.com/smouj/project-infest",
-          "icon": "project-infest.svg",
+          "icon": "project-infest.png",
           "desc": {
             "en": "Co-op extermination FPS with household chores under pressure. Godot, GDScript.",
             "es": "FPS cooperativo de exterminio con tareas domésticas bajo presión. Godot y GDScript."
@@ -651,7 +651,7 @@
           "name": "Romulous",
           "repo": "romulous",
           "url": "https://github.com/smouj/romulous",
-          "icon": "romulous.svg",
+          "icon": "romulous.png",
           "desc": {
             "en": "Game Boy Color ROM unraveler: extract every byte and understand it.",
             "es": "Desmontador de ROMs de Game Boy Color: extrae cada byte y lo explica."
@@ -787,7 +787,7 @@
           "name": "Trading Tazos Game",
           "repo": "TTG-Engine",
           "url": "https://github.com/smouj/TTG-Engine",
-          "icon": "ttg.svg",
+          "icon": "ttg.png",
           "desc": {
             "en": "Full-stack game platform: 3D client, authoritative server, PvP, chat and docs.",
             "es": "Plataforma de juego completa: cliente 3D, servidor autoritativo, PvP, chat y documentación."
