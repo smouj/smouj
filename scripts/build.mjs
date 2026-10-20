@@ -26,69 +26,14 @@ const write = (path, data) => {
   writeFileSync(join(root, path), data, "utf8");
 };
 
-const palettes = {
-  light: {
-    bg1: "#FBF7EF", bg2: "#F2EADF", ink: "#171A1E", muted: "#6F6A62",
-    line: "#E2D8C8", accent: "#B5762E"
-  },
-  dark: {
-    bg1: "#0F1419", bg2: "#172029", ink: "#F4EFE6", muted: "#96A1AB",
-    line: "#2A323B", accent: "#E8B26A"
-  }
-};
-
-function heroSvg(lang, theme) {
-  const p = palettes[theme];
-  const wave = "M744 180 C790 120 842 120 888 180 S984 240 1030 180 S1090 140 1120 172";
-  return '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-label="SMOUJ — independent software">\n' +
-'  <defs>\n' +
-'    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">\n' +
-'      <stop offset="0" stop-color="' + p.bg1 + '"/>\n' +
-'      <stop offset="1" stop-color="' + p.bg2 + '"/>\n' +
-'    </linearGradient>\n' +
-'    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">\n' +
-'      <stop offset="0" stop-color="' + p.accent + '" stop-opacity="0"/>\n' +
-'      <stop offset="0.35" stop-color="' + p.accent + '" stop-opacity="0.75"/>\n' +
-'      <stop offset="1" stop-color="' + p.accent + '"/>\n' +
-'    </linearGradient>\n' +
-'  </defs>\n' +
-'  <rect x="0.5" y="0.5" width="1199" height="339" rx="24" fill="url(#bg)" stroke="' + p.line + '"/>\n' +
-'  <g opacity="0.35" stroke="' + p.line + '" stroke-width="1">\n' +
-'    <line x1="760" y1="108" x2="760" y2="252"/>\n' +
-'    <line x1="838" y1="108" x2="838" y2="252"/>\n' +
-'    <line x1="916" y1="108" x2="916" y2="252"/>\n' +
-'    <line x1="994" y1="108" x2="994" y2="252"/>\n' +
-'    <line x1="1072" y1="108" x2="1072" y2="252"/>\n' +
-'  </g>\n' +
-'  <path d="' + wave + '" fill="none" stroke="' + p.accent + '" stroke-width="1.4" opacity="0.18" transform="translate(0,-30)"/>\n' +
-'  <path d="' + wave + '" fill="none" stroke="' + p.accent + '" stroke-width="1.4" opacity="0.32" transform="translate(0,30)"/>\n' +
-'  <path d="' + wave + '" fill="none" stroke="url(#wave)" stroke-width="1.8"/>\n' +
-'  <circle cx="1120" cy="172" r="4" fill="' + p.accent + '"/>\n' +
-'  <circle cx="1120" cy="172" r="10" fill="none" stroke="' + p.accent + '" stroke-width="1" opacity="0.35"/>\n' +
-'  <rect x="64" y="56" width="30" height="30" rx="8" fill="none" stroke="' + p.ink + '" stroke-opacity="0.4"/>\n' +
-'  <path d="M72 79 L86 63" stroke="' + p.accent + '" stroke-width="2.4"/>\n' +
-'  <circle cx="86" cy="79" r="2.2" fill="' + p.accent + '"/>\n' +
-'  <text x="108" y="77" font-family="' + MONO + '" font-size="12.5" letter-spacing="2.6" fill="' + p.muted + '">' + esc(profile.kicker[lang].toUpperCase()) + '</text>\n' +
-'  <text x="1136" y="77" text-anchor="end" font-family="' + MONO + '" font-size="12.5" letter-spacing="2.6" fill="' + p.muted + '">013 / ' + esc(profile.index[lang].toUpperCase()) + '</text>\n' +
-'  <text x="64" y="208" font-family="' + SANS + '" font-size="96" font-weight="700" letter-spacing="-2" fill="' + p.ink + '">' + esc(profile.name) + '</text>\n' +
-'  <text x="424" y="206" font-family="' + MONO + '" font-size="21" letter-spacing="1.5" fill="' + p.accent + '">/ 013</text>\n' +
-'  <text x="66" y="252" font-family="' + SANS + '" font-size="19.5" fill="' + p.muted + '">' + esc(profile.tagline[lang]) + '</text>\n' +
-'  <line x1="64" y1="292" x2="1136" y2="292" stroke="' + p.line + '"/>\n' +
-'  <text x="64" y="316" font-family="' + MONO + '" font-size="11.5" letter-spacing="2" fill="' + p.muted + '">' + esc(profile.stamp[lang].toUpperCase()) + '</text>\n' +
-'  <text x="1136" y="316" text-anchor="end" font-family="' + MONO + '" font-size="11.5" letter-spacing="2" fill="' + p.muted + '">GITHUB.COM/SMOUJ</text>\n' +
-'</svg>\n';
-}
-
 const copy = {
   en: {
     profile: "Profile",
     selected: "Selected systems",
-    deckSelected: "Seven groups, thirty-seven projects. Local execution is the common thread.",
+    deckSelected: "Grouped by what they are for. Local execution is the common thread.",
     toolchain: "Toolchain",
     practice: "Practice",
     elsewhere: "Elsewhere",
-    currently: "Currently",
-    system: "System",
     app: "App",
     stars: "Stars",
     locked: "🔒 private while it is in development",
@@ -109,12 +54,10 @@ const copy = {
   es: {
     profile: "Perfil",
     selected: "Sistemas",
-    deckSelected: "Siete grupos, treinta y siete proyectos. La ejecución local es el hilo común.",
+    deckSelected: "Agrupadas por para qué sirven. La ejecución local es el hilo común.",
     toolchain: "Herramientas",
     practice: "Práctica",
     elsewhere: "Enlaces",
-    currently: "Ahora",
-    system: "Sistema",
     app: "App",
     stars: "Estrellas",
     locked: "🔒 privado mientras está en desarrollo",
@@ -178,10 +121,12 @@ function socialBadges(lang) {
 }
 
 function starBadge(p) {
-  if (p.private || !p.stars || p.stars <= 0) return "<sub>—</sub>";
+  if (p.private) return "<sub>—</sub>";
+  const color = p.stars > 0 ? "B5762E" : "8B949E";
   const src = "https://img.shields.io/github/stars/smouj/" + p.repo +
-    "?style=flat-square&label=%E2%98%85&color=6E7681";
-  return '<a href="https://github.com/smouj/' + p.repo + '/stargazers"><img src="' + src + '" alt="' + p.stars + ' stars"></a>';
+    "?style=flat-square&label=%E2%98%85&color=" + color;
+  const alt = p.stars === 1 ? "1 star" : p.stars + " stars";
+  return '<a href="https://github.com/smouj/' + p.repo + '/stargazers"><img src="' + src + '" alt="' + alt + '"></a>';
 }
 
 function groupTable(group, lang) {
@@ -194,7 +139,7 @@ function groupTable(group, lang) {
     const name = p.private
       ? "<strong>" + p.name + "</strong> 🔒"
       : "**[" + p.name + "](" + p.url + ")**";
-    return "| <img src=\"assets/icons/" + p.icon + "\" width=\"22\" height=\"22\" alt=\"\"> " +
+    return "| <img src=\"assets/icons/" + p.icon + "\" width=\"26\" height=\"26\" alt=\"\"> " +
       "| " + name + "<br><sub>" + p.focus + "</sub> " +
       "| " + p.desc[lang] + "<br><sub>" + meta.join(" ") + "</sub> " +
       "| " + starBadge(p) + " |";
@@ -205,7 +150,7 @@ function groupTable(group, lang) {
 
 function selectedSection(lang) {
   return projects.groups.map((g) =>
-    "### / " + g.title[lang] + "\n\n" +
+    "### " + g.title[lang] + "\n\n" +
     "<sub>" + g.deck[lang] + "</sub>\n\n" +
     groupTable(g, lang)
   ).join("\n\n");
@@ -248,25 +193,25 @@ function readme(lang) {
 
   return '<p align="center">\n' +
 '  <picture>\n' +
-'    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-' + lang + '-dark.svg?v=4">\n' +
-'    <source media="(prefers-color-scheme: light)" srcset="assets/hero-' + lang + '-light.svg?v=4">\n' +
-'    <img src="assets/hero-' + lang + '-light.svg?v=4" alt="' + esc(c.headerAlt) + '" width="100%">\n' +
+'    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">\n' +
+'    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">\n' +
+'    <img src="assets/banner-light.png" alt="' + esc(c.headerAlt) + '" width="100%">\n' +
 '  </picture>\n' +
 '</p>\n\n' +
 '<p align="center">\n' +
 '  ' + socialBadges(lang) + '\n' +
 '</p>\n\n' +
-'## / ' + c.profile + '\n\n' +
+'## ' + c.profile + '\n\n' +
 intro + '\n\n' +
-'> **' + c.currently + '** — ' + profile.currently[lang] + '\n\n' +
-'## / ' + c.selected + '\n\n' +
-'<sub>' + c.deckSelected + ' ' + c.locked + '</sub>\n\n' +
+'' +
+'## ' + c.selected + '\n\n' +
+'<sub>' + c.deckSelected + '</sub>\n\n<sub>' + c.locked + '</sub>\n\n' +
 selectedSection(lang) + '\n\n' +
-'## / ' + c.practice + '\n\n' +
+'## ' + c.practice + '\n\n' +
 practiceTable(lang) + '\n\n' +
-'## / ' + c.toolchain + '\n\n' +
+'## ' + c.toolchain + '\n\n' +
 toolchainBadges(lang) + '\n\n' +
-'## / ' + c.elsewhere + '\n\n' +
+'## ' + c.elsewhere + '\n\n' +
 elsewhereTable(lang) + '\n\n' +
 '<sub>' + c.also + ' ' + social + '. [' + c.support + '](' + esc(links.support.url) + ')</sub>\n\n' +
 '---\n\n' +
@@ -274,10 +219,7 @@ elsewhereTable(lang) + '\n\n' +
 }
 
 for (const lang of ["en", "es"]) {
-  for (const theme of ["light", "dark"]) {
-    write("assets/hero-" + lang + "-" + theme + ".svg", heroSvg(lang, theme));
-  }
   write(lang === "en" ? "README.md" : "README.es.md", readme(lang));
 }
 
-console.log("Built README.md, README.es.md and 4 hero assets.");
+console.log("Built README.md and README.es.md.");

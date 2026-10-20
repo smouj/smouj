@@ -199,45 +199,89 @@
           "stars": 0,
           "links": [],
           "private": true
-        },
+        }
+      ]
+    },
+    {
+      "id": "voryda",
+      "title": {
+        "en": "Voryda Suite",
+        "es": "Voryda Suite"
+      },
+      "deck": {
+        "en": "Four native Windows utilities, one brand and one shared capture engine.",
+        "es": "Cuatro utilidades nativas de Windows, una marca y un mismo motor de captura."
+      },
+      "items": [
         {
           "id": "voryda-rec",
-          "name": "Voryda Suite",
+          "name": "Voryda Rec",
           "repo": "voryda-rec",
           "url": "https://github.com/smouj/voryda-rec",
           "icon": "voryda-rec.png",
           "desc": {
-            "en": "Four native Windows utilities for capture, recording, downloading and editing.",
-            "es": "Cuatro utilidades nativas de Windows para capturar, grabar, descargar y editar."
+            "en": "Region screen recorder built on native capture, no subscription.",
+            "es": "Grabador de región de pantalla con captura nativa, sin suscripción."
           },
           "tags": [
             "C#",
-            "WinUI 3"
+            "WPF"
           ],
-          "focus": "Media suite",
+          "focus": "Screen recording",
           "stars": 0,
-          "links": [
-            {
-              "en": "Rec",
-              "es": "Rec",
-              "url": "https://github.com/smouj/voryda-rec"
-            },
-            {
-              "en": "Snap",
-              "es": "Snap",
-              "url": "https://github.com/smouj/voryda-snap"
-            },
-            {
-              "en": "Down",
-              "es": "Down",
-              "url": "https://github.com/smouj/voryda-down"
-            },
-            {
-              "en": "Cut",
-              "es": "Cut",
-              "url": "https://github.com/smouj/voryda-cut"
-            }
-          ]
+          "links": []
+        },
+        {
+          "id": "voryda-snap",
+          "name": "Voryda Snap",
+          "repo": "voryda-snap",
+          "url": "https://github.com/smouj/voryda-snap",
+          "icon": "voryda-snap.png",
+          "desc": {
+            "en": "Region and full-screen screenshots with instant annotation.",
+            "es": "Capturas de región y pantalla completa con anotación inmediata."
+          },
+          "tags": [
+            "C#",
+            "WPF"
+          ],
+          "focus": "Screenshots",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "voryda-down",
+          "name": "Voryda Down",
+          "repo": "voryda-down",
+          "url": "https://github.com/smouj/voryda-down",
+          "icon": "voryda-down.png",
+          "desc": {
+            "en": "Media downloader built around yt-dlp and FFmpeg.",
+            "es": "Descargador de medios construido sobre yt-dlp y FFmpeg."
+          },
+          "tags": [
+            "C#"
+          ],
+          "focus": "Media download",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "voryda-cut",
+          "name": "Voryda Cut",
+          "repo": "voryda-cut",
+          "url": "https://github.com/smouj/voryda-cut",
+          "icon": "voryda-cut.png",
+          "desc": {
+            "en": "Video editor for social content: cut, pace and export.",
+            "es": "Editor de vídeo para contenido social: corta, marca el ritmo y exporta."
+          },
+          "tags": [
+            "C#"
+          ],
+          "focus": "Video editing",
+          "stars": 0,
+          "links": []
         }
       ]
     },

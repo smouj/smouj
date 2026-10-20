@@ -6,25 +6,21 @@
     "es": "SOFTWARE INDEPENDIENTE"
   },
   "index": {
-    "en": "SYSTEMS INDEX — 2026",
-    "es": "ÍNDICE DE SISTEMAS — 2026"
+    "en": "SYSTEMS INDEX",
+    "es": "ÍNDICE DE SISTEMAS"
   },
   "tagline": {
-    "en": "Local AI, desktop tools and small games. Built to run offline.",
-    "es": "IA local, herramientas de escritorio y juegos. Todo offline."
-  },
-  "stamp": {
-    "en": "LOCAL-FIRST / SMALL TOOLS",
-    "es": "LOCAL-FIRST / HERRAMIENTAS PEQUEÑAS"
+    "en": "Software for the computer on the desk. Built to run offline.",
+    "es": "Software para el ordenador que tienes delante. Pensado para funcionar sin conexión."
   },
   "intro": {
     "en": [
-      "I build tools for the computer on the desk: local AI runtimes, Windows utilities, developer tools and small games.",
-      "Most of my work starts from the same constraint — it has to work offline, on hardware people already own, without a server in the critical path."
+      "I build software for the computer on the desk: local AI runtimes, Windows utilities, developer tools and small games.",
+      "The constraint is always the same. It has to work offline, on hardware people already own, and it has to be inspectable rather than magic."
     ],
     "es": [
-      "Construyo herramientas para el ordenador que tienes delante: runtimes de IA local, utilidades de Windows, herramientas para desarrolladores y juegos pequeños.",
-      "Casi todo parte de la misma restricción: tiene que funcionar offline, en hardware que la gente ya tiene, sin un servidor en la ruta crítica."
+      "Construyo software para el ordenador que tienes delante: runtimes de IA local, utilidades de Windows, herramientas para desarrolladores y juegos pequeños.",
+      "La restricción es siempre la misma. Tiene que funcionar sin conexión, en hardware que la gente ya tiene, y tiene que poder inspeccionarse en vez de ser magia."
     ]
   },
   "practice": [
@@ -109,9 +105,5 @@
         "PostgreSQL"
       ]
     }
-  ],
-  "currently": {
-    "en": "Shipping **Holgura**, the **Adobado Kit** and **Latido**; researching game systems in Godot.",
-    "es": "Publicando **Holgura**, el **Adobado Kit** y **Latido**; investigando sistemas de juego en Godot."
-  }
+  ]
 }
