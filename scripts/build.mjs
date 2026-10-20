@@ -91,6 +91,7 @@ const copy = {
     system: "System",
     app: "App",
     stars: "Stars",
+    locked: "🔒 private while it is in development",
     what: "What it is",
     stack: "Stack",
     principle: "Principle",
@@ -116,6 +117,7 @@ const copy = {
     system: "Sistema",
     app: "App",
     stars: "Estrellas",
+    locked: "🔒 privado mientras está en desarrollo",
     what: "Qué es",
     stack: "Stack",
     principle: "Principio",
@@ -176,7 +178,7 @@ function socialBadges(lang) {
 }
 
 function starBadge(p) {
-  if (!p.stars || p.stars <= 0) return "<sub>—</sub>";
+  if (p.private || !p.stars || p.stars <= 0) return "<sub>—</sub>";
   const src = "https://img.shields.io/github/stars/smouj/" + p.repo +
     "?style=flat-square&label=%E2%98%85&color=6E7681";
   return '<a href="https://github.com/smouj/' + p.repo + '/stargazers"><img src="' + src + '" alt="' + p.stars + ' stars"></a>';
@@ -189,8 +191,11 @@ function groupTable(group, lang) {
     if (p.links && p.links.length) {
       meta.push(...p.links.map((l) => "[" + l[lang] + "](" + l.url + ")"));
     }
+    const name = p.private
+      ? "<strong>" + p.name + "</strong> 🔒"
+      : "**[" + p.name + "](" + p.url + ")**";
     return "| <img src=\"assets/icons/" + p.icon + "\" width=\"22\" height=\"22\" alt=\"\"> " +
-      "| **[" + p.name + "](" + p.url + ")**<br><sub>" + p.focus + "</sub> " +
+      "| " + name + "<br><sub>" + p.focus + "</sub> " +
       "| " + p.desc[lang] + "<br><sub>" + meta.join(" ") + "</sub> " +
       "| " + starBadge(p) + " |";
   }).join("\n");
@@ -255,7 +260,7 @@ function readme(lang) {
 intro + '\n\n' +
 '> **' + c.currently + '** — ' + profile.currently[lang] + '\n\n' +
 '## / ' + c.selected + '\n\n' +
-'<sub>' + c.deckSelected + '</sub>\n\n' +
+'<sub>' + c.deckSelected + ' ' + c.locked + '</sub>\n\n' +
 selectedSection(lang) + '\n\n' +
 '## / ' + c.practice + '\n\n' +
 practiceTable(lang) + '\n\n' +

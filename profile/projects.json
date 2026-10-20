@@ -93,7 +93,8 @@
           ],
           "focus": "Storage hygiene",
           "stars": 0,
-          "links": []
+          "links": [],
+          "private": true
         },
         {
           "id": "sysglance",
@@ -161,7 +162,8 @@
           ],
           "focus": "Hardware panel",
           "stars": 0,
-          "links": []
+          "links": [],
+          "private": true
         },
         {
           "id": "classicvoice",
@@ -195,7 +197,8 @@
           ],
           "focus": "Game companion",
           "stars": 0,
-          "links": []
+          "links": [],
+          "private": true
         },
         {
           "id": "voryda-rec",
@@ -449,7 +452,8 @@
           ],
           "focus": "Device tooling",
           "stars": 0,
-          "links": []
+          "links": [],
+          "private": true
         },
         {
           "id": "xlsx",
@@ -595,7 +599,8 @@
           ],
           "focus": "Game in development",
           "stars": 0,
-          "links": []
+          "links": [],
+          "private": true
         },
         {
           "id": "romulous",
@@ -646,7 +651,8 @@
           ],
           "focus": "Location game",
           "stars": 0,
-          "links": []
+          "links": [],
+          "private": true
         },
         {
           "id": "royal-pixel",
@@ -663,7 +669,8 @@
           ],
           "focus": "Persistent world",
           "stars": 0,
-          "links": []
+          "links": [],
+          "private": true
         },
         {
           "id": "shatter",
@@ -680,7 +687,8 @@
           ],
           "focus": "Roguelike",
           "stars": 0,
-          "links": []
+          "links": [],
+          "private": true
         },
         {
           "id": "dbzlsw",
@@ -727,7 +735,8 @@
           ],
           "focus": "Modding SDK",
           "stars": 0,
-          "links": []
+          "links": [],
+          "private": true
         },
         {
           "id": "ttg",
@@ -775,7 +784,8 @@
               "es": "Docs",
               "url": "https://github.com/smouj/TTG-Docs"
             }
-          ]
+          ],
+          "private": true
         }
       ]
     }
