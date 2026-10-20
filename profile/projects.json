@@ -93,8 +93,7 @@
           ],
           "focus": "Storage hygiene",
           "stars": 0,
-          "links": [],
-          "private": true
+          "links": []
         },
         {
           "id": "sysglance",
@@ -148,24 +147,6 @@
           "links": []
         },
         {
-          "id": "games-lcd",
-          "name": "Games LCD",
-          "repo": "games-lcd",
-          "url": "https://github.com/smouj/games-lcd",
-          "icon": "games-lcd.svg",
-          "desc": {
-            "en": "Game-focused panel for the G510 LCD: Heroes of Might and Magic state at a glance.",
-            "es": "Panel centrado en juegos para el LCD G510: estado de Heroes of Might and Magic de un vistazo."
-          },
-          "tags": [
-            "Python"
-          ],
-          "focus": "Hardware panel",
-          "stars": 0,
-          "links": [],
-          "private": true
-        },
-        {
           "id": "classicvoice",
           "name": "ClassicVoice",
           "repo": "classicvoice",
@@ -181,24 +162,6 @@
           "focus": "Speech",
           "stars": 0,
           "links": []
-        },
-        {
-          "id": "olden-era",
-          "name": "Olden Era Overlay",
-          "repo": "olden-era-draft-overlay",
-          "url": "https://github.com/smouj/olden-era-draft-overlay",
-          "icon": "olden-era.png",
-          "desc": {
-            "en": "Contextual local assistant for Heroes of Might and Magic: Olden Era.",
-            "es": "Asistente contextual local para Heroes of Might and Magic: Olden Era."
-          },
-          "tags": [
-            "C#"
-          ],
-          "focus": "Game companion",
-          "stars": 0,
-          "links": [],
-          "private": true
         }
       ]
     },
@@ -482,24 +445,6 @@
           "links": []
         },
         {
-          "id": "devicelab",
-          "name": "DeviceLab",
-          "repo": "devicelab",
-          "url": "https://github.com/smouj/devicelab",
-          "icon": "devicelab.svg",
-          "desc": {
-            "en": "Local-first dashboard for emulators and physical Android devices.",
-            "es": "Dashboard local-first para emuladores y dispositivos Android."
-          },
-          "tags": [
-            "Python"
-          ],
-          "focus": "Device tooling",
-          "stars": 0,
-          "links": [],
-          "private": true
-        },
-        {
           "id": "xlsx",
           "name": "XLSX Viewer",
           "repo": "xlsx-viewer",
@@ -628,25 +573,6 @@
       },
       "items": [
         {
-          "id": "project-infest",
-          "name": "PROJECT INFEST",
-          "repo": "project-infest",
-          "url": "https://github.com/smouj/project-infest",
-          "icon": "project-infest.png",
-          "desc": {
-            "en": "Co-op extermination FPS with household chores under pressure. Godot, GDScript.",
-            "es": "FPS cooperativo de exterminio con tareas domésticas bajo presión. Godot y GDScript."
-          },
-          "tags": [
-            "Godot",
-            "GDScript"
-          ],
-          "focus": "Game in development",
-          "stars": 0,
-          "links": [],
-          "private": true
-        },
-        {
           "id": "romulous",
           "name": "Romulous",
           "repo": "romulous",
@@ -681,60 +607,6 @@
           "links": []
         },
         {
-          "id": "tagworld",
-          "name": "TAGWORLD",
-          "repo": "tagworld",
-          "url": "https://github.com/smouj/tagworld",
-          "icon": "tagworld.svg",
-          "desc": {
-            "en": "Virtual graffiti game laid over a real-world map.",
-            "es": "Juego de grafiti virtual sobre un mapa del mundo real."
-          },
-          "tags": [
-            "TypeScript"
-          ],
-          "focus": "Location game",
-          "stars": 0,
-          "links": [],
-          "private": true
-        },
-        {
-          "id": "royal-pixel",
-          "name": "Royal Pixel Game",
-          "repo": "royal-pixel-game",
-          "url": "https://github.com/smouj/royal-pixel-game",
-          "icon": "royal-pixel.svg",
-          "desc": {
-            "en": "Persistent, community-built pixel world.",
-            "es": "Mundo de píxeles persistente y construido por la comunidad."
-          },
-          "tags": [
-            "TypeScript"
-          ],
-          "focus": "Persistent world",
-          "stars": 0,
-          "links": [],
-          "private": true
-        },
-        {
-          "id": "shatter",
-          "name": "Shatter Protocol",
-          "repo": "shatter-protocol",
-          "url": "https://github.com/smouj/shatter-protocol",
-          "icon": "shatter.svg",
-          "desc": {
-            "en": "Tactical roguelike RPG breakout.",
-            "es": "Breakout roguelike táctico con progresión RPG."
-          },
-          "tags": [
-            "Python"
-          ],
-          "focus": "Roguelike",
-          "stars": 0,
-          "links": [],
-          "private": true
-        },
-        {
           "id": "dbzlsw",
           "name": "DBZ LSW Fangame",
           "repo": "dbzlsw-fangame",
@@ -750,86 +622,6 @@
           "focus": "ROM game",
           "stars": 0,
           "links": []
-        }
-      ]
-    },
-    {
-      "id": "kits",
-      "title": {
-        "en": "Kits and SDKs",
-        "es": "Kits y SDKs"
-      },
-      "deck": {
-        "en": "Reusable cores extracted from the games, packaged for other people to build on.",
-        "es": "Núcleos reutilizables extraídos de los juegos, empaquetados para que otros construyan encima."
-      },
-      "items": [
-        {
-          "id": "dbz-sdk",
-          "name": "DBZ LSW Modding SDK",
-          "repo": "dbz-lsw-modding-sdk",
-          "url": "https://github.com/smouj/dbz-lsw-modding-sdk",
-          "icon": "dbz-sdk.svg",
-          "desc": {
-            "en": "ROM-first modding SDK: parse, edit and recompile without losing a single byte.",
-            "es": "SDK de modding ROM-first: parsea, edita y recompila sin perder un solo byte."
-          },
-          "tags": [
-            "TypeScript"
-          ],
-          "focus": "Modding SDK",
-          "stars": 0,
-          "links": [],
-          "private": true
-        },
-        {
-          "id": "ttg",
-          "name": "Trading Tazos Game",
-          "repo": "TTG-Engine",
-          "url": "https://github.com/smouj/TTG-Engine",
-          "icon": "ttg.png",
-          "desc": {
-            "en": "Full-stack game platform: 3D client, authoritative server, PvP, chat and docs.",
-            "es": "Plataforma de juego completa: cliente 3D, servidor autoritativo, PvP, chat y documentación."
-          },
-          "tags": [
-            "TypeScript"
-          ],
-          "focus": "Game platform",
-          "stars": 0,
-          "links": [
-            {
-              "en": "Engine",
-              "es": "Engine",
-              "url": "https://github.com/smouj/TTG-Engine"
-            },
-            {
-              "en": "Backend",
-              "es": "Backend",
-              "url": "https://github.com/smouj/TTG-Backend"
-            },
-            {
-              "en": "PvP",
-              "es": "PvP",
-              "url": "https://github.com/smouj/TTG-PvP"
-            },
-            {
-              "en": "Chat",
-              "es": "Chat",
-              "url": "https://github.com/smouj/TTG-Chat"
-            },
-            {
-              "en": "Web",
-              "es": "Web",
-              "url": "https://github.com/smouj/TTG-Webpage"
-            },
-            {
-              "en": "Docs",
-              "es": "Docs",
-              "url": "https://github.com/smouj/TTG-Docs"
-            }
-          ],
-          "private": true
         }
       ]
     }

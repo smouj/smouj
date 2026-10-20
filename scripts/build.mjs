@@ -36,7 +36,6 @@ const copy = {
     elsewhere: "Elsewhere",
     app: "App",
     stars: "Stars",
-    locked: "🔒 private while it is in development",
     what: "What it is",
     stack: "Stack",
     principle: "Principle",
@@ -60,7 +59,6 @@ const copy = {
     elsewhere: "Enlaces",
     app: "App",
     stars: "Estrellas",
-    locked: "🔒 privado mientras está en desarrollo",
     what: "Qué es",
     stack: "Stack",
     principle: "Principio",
@@ -121,7 +119,6 @@ function socialBadges(lang) {
 }
 
 function starBadge(p) {
-  if (p.private) return "<sub>—</sub>";
   const color = p.stars > 0 ? "B5762E" : "8B949E";
   const src = "https://img.shields.io/github/stars/smouj/" + p.repo +
     "?style=flat-square&label=%E2%98%85&color=" + color;
@@ -136,9 +133,7 @@ function groupTable(group, lang) {
     if (p.links && p.links.length) {
       meta.push(...p.links.map((l) => "[" + l[lang] + "](" + l.url + ")"));
     }
-    const name = p.private
-      ? "<strong>" + p.name + "</strong> 🔒"
-      : "**[" + p.name + "](" + p.url + ")**";
+    const name = "**[" + p.name + "](" + p.url + ")**";
     return "| <img src=\"assets/icons/" + p.icon + "\" width=\"26\" height=\"26\" alt=\"\"> " +
       "| " + name + "<br><sub>" + p.focus + "</sub> " +
       "| " + p.desc[lang] + "<br><sub>" + meta.join(" ") + "</sub> " +
@@ -205,7 +200,7 @@ function readme(lang) {
 intro + '\n\n' +
 '' +
 '## ' + c.selected + '\n\n' +
-'<sub>' + c.deckSelected + '</sub>\n\n<sub>' + c.locked + '</sub>\n\n' +
+'<sub>' + c.deckSelected + '</sub>\n\n' +
 selectedSection(lang) + '\n\n' +
 '## ' + c.practice + '\n\n' +
 practiceTable(lang) + '\n\n' +
