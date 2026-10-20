@@ -301,7 +301,7 @@
           "name": "Adobado Kit",
           "repo": "Adobado_Kit",
           "url": "https://github.com/smouj/Adobado_Kit",
-          "icon": "adobado-kit.svg",
+          "icon": "adobado-kit.png",
           "desc": {
             "en": "Umbrella project: local creative tools derived from open-source editors, sharing one philosophy.",
             "es": "Proyecto paraguas: herramientas creativas locales derivadas de editores open source, con una sola filosofía."
@@ -318,7 +318,7 @@
           "name": "DesignAdobado",
           "repo": "DesignAdobado",
           "url": "https://github.com/smouj/DesignAdobado",
-          "icon": "adobado-design.svg",
+          "icon": "adobado-design.png",
           "desc": {
             "en": "Local layout and composition, derived from DesignCraft.",
             "es": "Diseño y composición local, derivado de DesignCraft."
@@ -335,7 +335,7 @@
           "name": "PhotoAdobado",
           "repo": "PhotoAdobado",
           "url": "https://github.com/smouj/PhotoAdobado",
-          "icon": "adobado-photo.svg",
+          "icon": "adobado-photo.png",
           "desc": {
             "en": "Local image editor, derived from PhotoCraft.",
             "es": "Editor de imagen local, derivado de PhotoCraft."
@@ -352,7 +352,7 @@
           "name": "ArtAdobado",
           "repo": "ArtAdobado",
           "url": "https://github.com/smouj/ArtAdobado",
-          "icon": "adobado-art.svg",
+          "icon": "adobado-art.png",
           "desc": {
             "en": "Local vector art, derived from VectorCraft.",
             "es": "Arte vectorial local, derivado de VectorCraft."
@@ -369,7 +369,7 @@
           "name": "LightAdobado",
           "repo": "LightAdobado",
           "url": "https://github.com/smouj/LightAdobado",
-          "icon": "adobado-light.svg",
+          "icon": "adobado-light.png",
           "desc": {
             "en": "Local developing and colour work, derived from LightCraft.",
             "es": "Revelado y color local, derivado de LightCraft."
@@ -386,7 +386,7 @@
           "name": "EffectAdobado",
           "repo": "EffectAdobado",
           "url": "https://github.com/smouj/EffectAdobado",
-          "icon": "adobado-effect.svg",
+          "icon": "adobado-effect.png",
           "desc": {
             "en": "Local visual effects, derived from EffectCraft.",
             "es": "Efectos visuales locales, derivado de EffectCraft."
@@ -403,7 +403,7 @@
           "name": "FilmAdobado",
           "repo": "FilmAdobado",
           "url": "https://github.com/smouj/FilmAdobado",
-          "icon": "adobado-film.svg",
+          "icon": "adobado-film.png",
           "desc": {
             "en": "Local video editing, derived from FilmCraft.",
             "es": "Edición de vídeo local, derivado de FilmCraft."
@@ -420,7 +420,7 @@
           "name": "SoundAdobado",
           "repo": "SoundAdobado",
           "url": "https://github.com/smouj/SoundAdobado",
-          "icon": "adobado-sound.svg",
+          "icon": "adobado-sound.png",
           "desc": {
             "en": "Local audio editing, derived from SoundCraft.",
             "es": "Edición de audio local, derivado de SoundCraft."
@@ -437,7 +437,7 @@
           "name": "PdfAdobado",
           "repo": "PdfAdobado",
           "url": "https://github.com/smouj/PdfAdobado",
-          "icon": "adobado-pdf.svg",
+          "icon": "adobado-pdf.png",
           "desc": {
             "en": "Local PDF work, derived from PdfCraft.",
             "es": "Trabajo con PDF en local, derivado de PdfCraft."
