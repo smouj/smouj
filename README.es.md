@@ -21,7 +21,7 @@ Construyo software para el ordenador que tienes delante: runtimes de IA local, u
 
 La restricción es siempre la misma. Tiene que funcionar sin conexión, en hardware que la gente ya tiene, y tiene que poder inspeccionarse en vez de ser magia.
 
-## Sistemas
+## Aplicaciones
 
 <sub>Agrupadas por para qué sirven. La ejecución local es el hilo común.</sub>
 

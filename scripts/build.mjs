@@ -29,7 +29,7 @@ const write = (path, data) => {
 const copy = {
   en: {
     profile: "Profile",
-    selected: "Selected systems",
+    selected: "Applications",
     deckSelected: "Grouped by what they are for. Local execution is the common thread.",
     toolchain: "Toolchain",
     practice: "Practice",
@@ -53,7 +53,7 @@ const copy = {
   },
   es: {
     profile: "Perfil",
-    selected: "Sistemas",
+    selected: "Aplicaciones",
     deckSelected: "Agrupadas por para qué sirven. La ejecución local es el hilo común.",
     toolchain: "Herramientas",
     practice: "Práctica",

@@ -21,7 +21,7 @@ I build software for the computer on the desk: local AI runtimes, Windows utilit
 
 The constraint is always the same. It has to work offline, on hardware people already own, and it has to be inspectable rather than magic.
 
-## Selected systems
+## Applications
 
 <sub>Grouped by what they are for. Local execution is the common thread.</sub>
 
