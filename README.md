@@ -20,11 +20,11 @@ I build tools for the computer on the desk: local AI runtimes, Windows utilities
 
 Most of my work starts from the same constraint — it has to work offline, on hardware people already own, without a server in the critical path.
 
-> **Currently** — Building **Kimari**, **Latido** and **Voryda**; researching game systems in Godot.
+> **Currently** — Building **Adobado Kit**, **Kimari**, **Latido** and **Voryda**; researching game systems in Godot.
 
 ## / Selected systems
 
-<sub>Six public projects. Local execution is the common thread.</sub>
+<sub>Seven public projects. Local execution is the common thread.</sub>
 
 | # | System | What it is |
 |:--|:--|:--|
@@ -33,7 +33,8 @@ Most of my work starts from the same constraint — it has to work offline, on h
 | 03 | **[Latido](https://github.com/smouj/latido)**<br><sub>Information</sub> | Local-first reader for Bluesky, HN, Reddit, Mastodon, RSS and GitHub.<br><sub>TypeScript · React · Tauri</sub> |
 | 04 | **[NUDO](https://github.com/smouj/nudo)**<br><sub>Languages</sub> | A language for humans and agents to read, write and verify the same source.<br><sub>Rust</sub> |
 | 05 | **[Voryda Suite](https://github.com/smouj/voryda-rec)**<br><sub>Windows media</sub> | Four native Windows utilities for capture, recording, downloading and editing.<br><sub>C# · WinUI 3 · [Rec](https://github.com/smouj/voryda-rec) · [Snap](https://github.com/smouj/voryda-snap) · [Down](https://github.com/smouj/voryda-down) · [Cut](https://github.com/smouj/voryda-cut)</sub> |
-| 06 | **[Games](https://github.com/smouj/romulous)**<br><sub>Games & research</sub> | Systemic games and tooling for ROM-backed experiences. Project Infest in development.<br><sub>Godot · GDScript · [Romulous](https://github.com/smouj/romulous) · [FerroNest](https://github.com/smouj/FerroNest) · [DBZ LSW](https://github.com/smouj/dbzlsw-fangame)</sub> |
+| 06 | <img src="https://raw.githubusercontent.com/smouj/Adobado_Kit/main/assets/logo.svg?v=0.3.2" width="24" alt="Adobado Kit"> **[Adobado Kit](https://github.com/smouj/Adobado_Kit)**<br><sub>Creative tools</sub> | Eight local creative desktop apps with one shared launcher. Build and manual test status are documented per app.<br><sub>Rust · Windows · [Photo](https://github.com/smouj/PhotoAdobado) · [Film](https://github.com/smouj/FilmAdobado) · [Sound](https://github.com/smouj/SoundAdobado)</sub> |
+| 07 | **[Games](https://github.com/smouj/romulous)**<br><sub>Games & research</sub> | Systemic games and tooling for ROM-backed experiences. Project Infest in development.<br><sub>Godot · GDScript · [Romulous](https://github.com/smouj/romulous) · [FerroNest](https://github.com/smouj/FerroNest) · [DBZ LSW](https://github.com/smouj/dbzlsw-fangame)</sub> |
 
 ## / Practice
 

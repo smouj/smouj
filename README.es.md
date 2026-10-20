@@ -20,11 +20,11 @@ Construyo herramientas para el ordenador que tienes delante: runtimes de IA loca
 
 Casi todo parte de la misma restricción: tiene que funcionar offline, en hardware que la gente ya tiene, sin un servidor en la ruta crítica.
 
-> **Ahora** — Construyendo **Kimari**, **Latido** y **Voryda**; investigando sistemas de juego en Godot.
+> **Ahora** — Construyendo **Adobado Kit**, **Kimari**, **Latido** y **Voryda**; investigando sistemas de juego en Godot.
 
 ## / Sistemas
 
-<sub>Seis proyectos públicos. La ejecución local es el hilo común.</sub>
+<sub>Siete proyectos públicos. La ejecución local es el hilo común.</sub>
 
 | # | Sistema | Qué es |
 |:--|:--|:--|
@@ -33,7 +33,8 @@ Casi todo parte de la misma restricción: tiene que funcionar offline, en hardwa
 | 03 | **[Latido](https://github.com/smouj/latido)**<br><sub>Information</sub> | Lector local-first de Bluesky, HN, Reddit, Mastodon, RSS y GitHub.<br><sub>TypeScript · React · Tauri</sub> |
 | 04 | **[NUDO](https://github.com/smouj/nudo)**<br><sub>Languages</sub> | Lenguaje para que humanos y agentes lean, escriban y verifiquen la misma fuente.<br><sub>Rust</sub> |
 | 05 | **[Voryda Suite](https://github.com/smouj/voryda-rec)**<br><sub>Windows media</sub> | Cuatro utilidades nativas de Windows para capturar, grabar, descargar y editar.<br><sub>C# · WinUI 3 · [Rec](https://github.com/smouj/voryda-rec) · [Snap](https://github.com/smouj/voryda-snap) · [Down](https://github.com/smouj/voryda-down) · [Cut](https://github.com/smouj/voryda-cut)</sub> |
-| 06 | **[Games](https://github.com/smouj/romulous)**<br><sub>Games & research</sub> | Juegos sistémicos y herramientas para experiencias basadas en ROM. Project Infest en desarrollo.<br><sub>Godot · GDScript · [Romulous](https://github.com/smouj/romulous) · [FerroNest](https://github.com/smouj/FerroNest) · [DBZ LSW](https://github.com/smouj/dbzlsw-fangame)</sub> |
+| 06 | <img src="https://raw.githubusercontent.com/smouj/Adobado_Kit/main/assets/logo.svg?v=0.3.2" width="24" alt="Adobado Kit"> **[Adobado Kit](https://github.com/smouj/Adobado_Kit)**<br><sub>Herramientas creativas</sub> | Ocho aplicaciones creativas locales con un launcher compartido. El estado de compilación y prueba se documenta por app.<br><sub>Rust · Windows · [Photo](https://github.com/smouj/PhotoAdobado) · [Film](https://github.com/smouj/FilmAdobado) · [Sound](https://github.com/smouj/SoundAdobado)</sub> |
+| 07 | **[Games](https://github.com/smouj/romulous)**<br><sub>Games & research</sub> | Juegos sistémicos y herramientas para experiencias basadas en ROM. Project Infest en desarrollo.<br><sub>Godot · GDScript · [Romulous](https://github.com/smouj/romulous) · [FerroNest](https://github.com/smouj/FerroNest) · [DBZ LSW](https://github.com/smouj/dbzlsw-fangame)</sub> |
 
 ## / Práctica
 
