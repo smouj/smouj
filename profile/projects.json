@@ -1,123 +1,783 @@
-[
-  {
-    "id": "kimari",
-    "name": "Kimari",
-    "url": "https://github.com/smouj/kimari-local-ai",
-    "desc": {
-      "en": "Local LLM runtime for consumer GPUs with CUDA and an OpenAI-compatible API.",
-      "es": "Runtime LLM local para GPUs de consumo con CUDA y API compatible con OpenAI."
-    },
-    "tags": [
-      "Python",
-      "CUDA",
-      "GGUF"
-    ],
-    "links": [],
-    "focus": "Local inference"
-  },
-  {
-    "id": "agent-browser",
-    "name": "agent-browser",
-    "url": "https://github.com/smouj/agent-browser",
-    "desc": {
-      "en": "Browser runtime and REST API that gives agents navigation, vision and interaction.",
-      "es": "Runtime de navegador y API REST para navegación, visión e interacción de agentes."
-    },
-    "tags": [
-      "TypeScript",
-      "Next.js"
-    ],
-    "links": [],
-    "focus": "Agent tooling"
-  },
-  {
-    "id": "latido",
-    "name": "Latido",
-    "url": "https://github.com/smouj/latido",
-    "desc": {
-      "en": "Local-first reader for Bluesky, HN, Reddit, Mastodon, RSS and GitHub.",
-      "es": "Lector local-first de Bluesky, HN, Reddit, Mastodon, RSS y GitHub."
-    },
-    "tags": [
-      "TypeScript",
-      "React",
-      "Tauri"
-    ],
-    "links": [],
-    "focus": "Information"
-  },
-  {
-    "id": "nudo",
-    "name": "NUDO",
-    "url": "https://github.com/smouj/nudo",
-    "desc": {
-      "en": "A language for humans and agents to read, write and verify the same source.",
-      "es": "Lenguaje para que humanos y agentes lean, escriban y verifiquen la misma fuente."
-    },
-    "tags": [
-      "Rust"
-    ],
-    "links": [],
-    "focus": "Languages"
-  },
-  {
-    "id": "voryda",
-    "name": "Voryda Suite",
-    "url": "https://github.com/smouj/voryda-rec",
-    "desc": {
-      "en": "Four native Windows utilities for capture, recording, downloading and editing.",
-      "es": "Cuatro utilidades nativas de Windows para capturar, grabar, descargar y editar."
-    },
-    "tags": [
-      "C#",
-      "WinUI 3"
-    ],
-    "links": [
-      {
-        "label": "Rec",
-        "url": "https://github.com/smouj/voryda-rec"
+{
+  "groups": [
+    {
+      "id": "ai",
+      "title": {
+        "en": "Local AI",
+        "es": "IA local"
       },
-      {
-        "label": "Snap",
-        "url": "https://github.com/smouj/voryda-snap"
+      "deck": {
+        "en": "Inference and agent plumbing that runs on the machine, not in a datacentre.",
+        "es": "Inferencia y herramientas de agentes que corren en la máquina, no en un centro de datos."
       },
-      {
-        "label": "Down",
-        "url": "https://github.com/smouj/voryda-down"
-      },
-      {
-        "label": "Cut",
-        "url": "https://github.com/smouj/voryda-cut"
-      }
-    ],
-    "focus": "Windows media"
-  },
-  {
-    "id": "games",
-    "name": "Games",
-    "url": "https://github.com/smouj/romulous",
-    "desc": {
-      "en": "Systemic games and tooling for ROM-backed experiences. Project Infest in development.",
-      "es": "Juegos sistémicos y herramientas para experiencias basadas en ROM. Project Infest en desarrollo."
+      "items": [
+        {
+          "id": "kimari",
+          "name": "Kimari",
+          "repo": "kimari-local-ai",
+          "url": "https://github.com/smouj/kimari-local-ai",
+          "icon": "kimari.svg",
+          "desc": {
+            "en": "Local LLM runtime for consumer GPUs with CUDA and an OpenAI-compatible API.",
+            "es": "Runtime LLM local para GPUs de consumo con CUDA y API compatible con OpenAI."
+          },
+          "tags": [
+            "Python",
+            "CUDA",
+            "GGUF"
+          ],
+          "focus": "Local inference",
+          "stars": 9,
+          "links": []
+        },
+        {
+          "id": "aicode",
+          "name": "AICodeStudio",
+          "repo": "AICodeStudio",
+          "url": "https://github.com/smouj/AICodeStudio",
+          "icon": "aicode.svg",
+          "desc": {
+            "en": "AI-assisted IDE with local model routing and an OpenClaw bridge.",
+            "es": "IDE asistido por IA con enrutado a modelos locales y puente con OpenClaw."
+          },
+          "tags": [
+            "Python"
+          ],
+          "focus": "Developer IDE",
+          "stars": 4,
+          "links": []
+        },
+        {
+          "id": "agent-browser",
+          "name": "agent-browser",
+          "repo": "agent-browser",
+          "url": "https://github.com/smouj/agent-browser",
+          "icon": "agent-browser.svg",
+          "desc": {
+            "en": "Browser runtime and REST API that gives agents navigation, vision and interaction.",
+            "es": "Runtime de navegador y API REST para navegación, visión e interacción de agentes."
+          },
+          "tags": [
+            "TypeScript"
+          ],
+          "focus": "Agent tooling",
+          "stars": 6,
+          "links": []
+        }
+      ]
     },
-    "tags": [
-      "Godot",
-      "GDScript"
-    ],
-    "links": [
-      {
-        "label": "Romulous",
-        "url": "https://github.com/smouj/romulous"
+    {
+      "id": "desktop",
+      "title": {
+        "en": "Windows desktop",
+        "es": "Escritorio Windows"
       },
-      {
-        "label": "FerroNest",
-        "url": "https://github.com/smouj/FerroNest"
+      "deck": {
+        "en": "Native utilities for the machine on the desk: monitoring, cleaning, capture and hardware panels.",
+        "es": "Utilidades nativas para el equipo: monitorización, limpieza, captura y paneles de hardware."
       },
-      {
-        "label": "DBZ LSW",
-        "url": "https://github.com/smouj/dbzlsw-fangame"
-      }
-    ],
-    "focus": "Games & research"
-  }
-]
+      "items": [
+        {
+          "id": "holgura",
+          "name": "Holgura",
+          "repo": "holgura",
+          "url": "https://github.com/smouj/holgura",
+          "icon": "holgura.svg",
+          "desc": {
+            "en": "Windows and WSL cleaner that shows every file before deleting it. Dry run, safety gate, zero telemetry.",
+            "es": "Limpiador de Windows y WSL que enseña cada archivo antes de borrarlo. Simulacro, puerta de seguridad y cero telemetría."
+          },
+          "tags": [
+            "C#",
+            "WinUI 3"
+          ],
+          "focus": "Storage hygiene",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "sysglance",
+          "name": "SysGlance",
+          "repo": "sysglance",
+          "url": "https://github.com/smouj/sysglance",
+          "icon": "sysglance.png",
+          "desc": {
+            "en": "Semi-transparent desktop overlay for real-time CPU, GPU, disk and network monitoring.",
+            "es": "Overlay semitransparente de escritorio con CPU, GPU, disco y red en tiempo real."
+          },
+          "tags": [
+            "JavaScript"
+          ],
+          "focus": "System monitoring",
+          "stars": 1,
+          "links": []
+        },
+        {
+          "id": "openclaw-widget",
+          "name": "OpenClaw Widget",
+          "repo": "openclaw-desktop-widget",
+          "url": "https://github.com/smouj/openclaw-desktop-widget",
+          "icon": "openclaw-widget.svg",
+          "desc": {
+            "en": "Frameless, translucent widget with system health and the OpenClaw control panel.",
+            "es": "Widget sin bordes y translúcido con la salud del sistema y el panel de OpenClaw."
+          },
+          "tags": [
+            "C#"
+          ],
+          "focus": "Desktop widget",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "lcdglance",
+          "name": "LCDGlance",
+          "repo": "lcdglance",
+          "url": "https://github.com/smouj/lcdglance",
+          "icon": "lcdglance.svg",
+          "desc": {
+            "en": "Monitoring pages and animated mascots for the Logitech G510 LCD, from native code.",
+            "es": "Páginas de monitorización y mascotas animadas para el LCD del Logitech G510."
+          },
+          "tags": [
+            "Python"
+          ],
+          "focus": "Hardware panel",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "games-lcd",
+          "name": "Games LCD",
+          "repo": "games-lcd",
+          "url": "https://github.com/smouj/games-lcd",
+          "icon": "games-lcd.svg",
+          "desc": {
+            "en": "Game-focused panel for the G510 LCD: Heroes of Might and Magic state at a glance.",
+            "es": "Panel centrado en juegos para el LCD G510: estado de Heroes of Might and Magic de un vistazo."
+          },
+          "tags": [
+            "Python"
+          ],
+          "focus": "Hardware panel",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "classicvoice",
+          "name": "ClassicVoice",
+          "repo": "classicvoice",
+          "url": "https://github.com/smouj/classicvoice",
+          "icon": "classicvoice.svg",
+          "desc": {
+            "en": "Offline multilingual text-to-speech for Windows built on eSpeak NG voices.",
+            "es": "Síntesis de voz multilingüe offline para Windows sobre voces de eSpeak NG."
+          },
+          "tags": [
+            "Python"
+          ],
+          "focus": "Speech",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "olden-era",
+          "name": "Olden Era Overlay",
+          "repo": "olden-era-draft-overlay",
+          "url": "https://github.com/smouj/olden-era-draft-overlay",
+          "icon": "olden-era.svg",
+          "desc": {
+            "en": "Contextual local assistant for Heroes of Might and Magic: Olden Era.",
+            "es": "Asistente contextual local para Heroes of Might and Magic: Olden Era."
+          },
+          "tags": [
+            "C#"
+          ],
+          "focus": "Game companion",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "voryda-rec",
+          "name": "Voryda Suite",
+          "repo": "voryda-rec",
+          "url": "https://github.com/smouj/voryda-rec",
+          "icon": "voryda-rec.png",
+          "desc": {
+            "en": "Four native Windows utilities for capture, recording, downloading and editing.",
+            "es": "Cuatro utilidades nativas de Windows para capturar, grabar, descargar y editar."
+          },
+          "tags": [
+            "C#",
+            "WinUI 3"
+          ],
+          "focus": "Media suite",
+          "stars": 0,
+          "links": [
+            {
+              "en": "Rec",
+              "es": "Rec",
+              "url": "https://github.com/smouj/voryda-rec"
+            },
+            {
+              "en": "Snap",
+              "es": "Snap",
+              "url": "https://github.com/smouj/voryda-snap"
+            },
+            {
+              "en": "Down",
+              "es": "Down",
+              "url": "https://github.com/smouj/voryda-down"
+            },
+            {
+              "en": "Cut",
+              "es": "Cut",
+              "url": "https://github.com/smouj/voryda-cut"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adobado",
+      "title": {
+        "en": "Adobado Kit",
+        "es": "Adobado Kit"
+      },
+      "deck": {
+        "en": "An open-source creative suite built from focused local editors. Rust core, no subscription, no upload.",
+        "es": "Suite creativa open source hecha de editores locales y enfocados. Núcleo en Rust, sin suscripción y sin subir nada."
+      },
+      "items": [
+        {
+          "id": "adobado-kit",
+          "name": "Adobado Kit",
+          "repo": "Adobado_Kit",
+          "url": "https://github.com/smouj/Adobado_Kit",
+          "icon": "adobado-kit.svg",
+          "desc": {
+            "en": "Umbrella project: local creative tools derived from open-source editors, sharing one philosophy.",
+            "es": "Proyecto paraguas: herramientas creativas locales derivadas de editores open source, con una sola filosofía."
+          },
+          "tags": [
+            "Rust"
+          ],
+          "focus": "Creative suite",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "adobado-design",
+          "name": "DesignAdobado",
+          "repo": "DesignAdobado",
+          "url": "https://github.com/smouj/DesignAdobado",
+          "icon": "adobado-design.png",
+          "desc": {
+            "en": "Local layout and composition, derived from DesignCraft.",
+            "es": "Diseño y composición local, derivado de DesignCraft."
+          },
+          "tags": [
+            "Rust"
+          ],
+          "focus": "Design",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "adobado-photo",
+          "name": "PhotoAdobado",
+          "repo": "PhotoAdobado",
+          "url": "https://github.com/smouj/PhotoAdobado",
+          "icon": "adobado-photo.png",
+          "desc": {
+            "en": "Local image editor, derived from PhotoCraft.",
+            "es": "Editor de imagen local, derivado de PhotoCraft."
+          },
+          "tags": [
+            "Rust"
+          ],
+          "focus": "Photo",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "adobado-art",
+          "name": "ArtAdobado",
+          "repo": "ArtAdobado",
+          "url": "https://github.com/smouj/ArtAdobado",
+          "icon": "adobado-art.png",
+          "desc": {
+            "en": "Local vector art, derived from VectorCraft.",
+            "es": "Arte vectorial local, derivado de VectorCraft."
+          },
+          "tags": [
+            "Rust"
+          ],
+          "focus": "Vector",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "adobado-light",
+          "name": "LightAdobado",
+          "repo": "LightAdobado",
+          "url": "https://github.com/smouj/LightAdobado",
+          "icon": "adobado-light.png",
+          "desc": {
+            "en": "Local developing and colour work, derived from LightCraft.",
+            "es": "Revelado y color local, derivado de LightCraft."
+          },
+          "tags": [
+            "Rust"
+          ],
+          "focus": "Photo workflow",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "adobado-effect",
+          "name": "EffectAdobado",
+          "repo": "EffectAdobado",
+          "url": "https://github.com/smouj/EffectAdobado",
+          "icon": "adobado-effect.png",
+          "desc": {
+            "en": "Local visual effects, derived from EffectCraft.",
+            "es": "Efectos visuales locales, derivado de EffectCraft."
+          },
+          "tags": [
+            "Rust"
+          ],
+          "focus": "Motion",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "adobado-film",
+          "name": "FilmAdobado",
+          "repo": "FilmAdobado",
+          "url": "https://github.com/smouj/FilmAdobado",
+          "icon": "adobado-film.png",
+          "desc": {
+            "en": "Local video editing, derived from FilmCraft.",
+            "es": "Edición de vídeo local, derivado de FilmCraft."
+          },
+          "tags": [
+            "Rust"
+          ],
+          "focus": "Video",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "adobado-sound",
+          "name": "SoundAdobado",
+          "repo": "SoundAdobado",
+          "url": "https://github.com/smouj/SoundAdobado",
+          "icon": "adobado-sound.png",
+          "desc": {
+            "en": "Local audio editing, derived from SoundCraft.",
+            "es": "Edición de audio local, derivado de SoundCraft."
+          },
+          "tags": [
+            "Rust"
+          ],
+          "focus": "Audio",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "adobado-pdf",
+          "name": "PdfAdobado",
+          "repo": "PdfAdobado",
+          "url": "https://github.com/smouj/PdfAdobado",
+          "icon": "adobado-pdf.png",
+          "desc": {
+            "en": "Local PDF work, derived from PdfCraft.",
+            "es": "Trabajo con PDF en local, derivado de PdfCraft."
+          },
+          "tags": [
+            "Rust"
+          ],
+          "focus": "Documents",
+          "stars": 0,
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "info",
+      "title": {
+        "en": "Reading and data",
+        "es": "Lectura y datos"
+      },
+      "deck": {
+        "en": "Tools that read the world without shipping it to someone else.",
+        "es": "Herramientas que leen el mundo sin enviarlo a terceros."
+      },
+      "items": [
+        {
+          "id": "latido",
+          "name": "Latido",
+          "repo": "latido",
+          "url": "https://github.com/smouj/latido",
+          "icon": "latido.svg",
+          "desc": {
+            "en": "Local-first reader for Bluesky, HN, Reddit, Mastodon, RSS and GitHub.",
+            "es": "Lector local-first de Bluesky, HN, Reddit, Mastodon, RSS y GitHub."
+          },
+          "tags": [
+            "TypeScript",
+            "React",
+            "Tauri"
+          ],
+          "focus": "Information",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "devicelab",
+          "name": "DeviceLab",
+          "repo": "devicelab",
+          "url": "https://github.com/smouj/devicelab",
+          "icon": "devicelab.svg",
+          "desc": {
+            "en": "Local-first dashboard for emulators and physical Android devices.",
+            "es": "Dashboard local-first para emuladores y dispositivos Android."
+          },
+          "tags": [
+            "Python"
+          ],
+          "focus": "Device tooling",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "xlsx",
+          "name": "XLSX Viewer",
+          "repo": "xlsx-viewer",
+          "url": "https://github.com/smouj/xlsx-viewer",
+          "icon": "xlsx.svg",
+          "desc": {
+            "en": "Local Excel viewer for Windows: no upload, no account, no macros.",
+            "es": "Visor local de Excel para Windows: sin subir archivos, sin cuenta y sin macros."
+          },
+          "tags": [
+            "HTML"
+          ],
+          "focus": "Documents",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "mundial-tv",
+          "name": "Mundial TV",
+          "repo": "mundial-tv",
+          "url": "https://github.com/smouj/mundial-tv",
+          "icon": "mundial-tv.svg",
+          "desc": {
+            "en": "Desktop player for live television channels from around the world.",
+            "es": "Reproductor de escritorio de televisión en directo de todo el mundo."
+          },
+          "tags": [
+            "JavaScript"
+          ],
+          "focus": "Media",
+          "stars": 1,
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "dev",
+      "title": {
+        "en": "Developer tools",
+        "es": "Herramientas de desarrollo"
+      },
+      "deck": {
+        "en": "Everything here assumes an agent will read the source as often as a human does.",
+        "es": "Todo aquí asume que un agente leerá el código tan a menudo como una persona."
+      },
+      "items": [
+        {
+          "id": "nudo",
+          "name": "NUDO",
+          "repo": "nudo",
+          "url": "https://github.com/smouj/nudo",
+          "icon": "nudo.png",
+          "desc": {
+            "en": "A language for humans and agents to read, write and verify the same source.",
+            "es": "Lenguaje para que humanos y agentes lean, escriban y verifiquen la misma fuente."
+          },
+          "tags": [
+            "Rust"
+          ],
+          "focus": "Languages",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "skill-genesis",
+          "name": "Skill Genesis",
+          "repo": "skill-genesis",
+          "url": "https://github.com/smouj/skill-genesis",
+          "icon": "skill-genesis.svg",
+          "desc": {
+            "en": "Autonomous generator of OpenClaw skills from a described capability.",
+            "es": "Generador autónomo de skills de OpenClaw a partir de una capacidad descrita."
+          },
+          "tags": [
+            "Python"
+          ],
+          "focus": "Agent tooling",
+          "stars": 1,
+          "links": []
+        },
+        {
+          "id": "prompt-organizer",
+          "name": "Prompt Organizer",
+          "repo": "prompt-organizer",
+          "url": "https://github.com/smouj/prompt-organizer",
+          "icon": "prompt-organizer.svg",
+          "desc": {
+            "en": "Visual tool to organise prompts, audits, bugs and backlog in one place.",
+            "es": "Herramienta visual para organizar prompts, auditorías, bugs y backlog."
+          },
+          "tags": [
+            "Python"
+          ],
+          "focus": "Workflow",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "openclaw-desk",
+          "name": "ClawDesk",
+          "repo": "openclaw-desk",
+          "url": "https://github.com/smouj/openclaw-desk",
+          "icon": "openclaw-desk.svg",
+          "desc": {
+            "en": "Local web panel to manage agents, sessions and gateway state.",
+            "es": "Panel web local para gestionar agentes, sesiones y el estado del gateway."
+          },
+          "tags": [
+            "JavaScript"
+          ],
+          "focus": "Operations",
+          "stars": 1,
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": {
+        "en": "Games and research",
+        "es": "Juegos e investigación"
+      },
+      "deck": {
+        "en": "Small games, ROM tooling and engines built to be taken apart.",
+        "es": "Juegos pequeños, herramientas de ROM y motores hechos para desmontarlos."
+      },
+      "items": [
+        {
+          "id": "project-infest",
+          "name": "PROJECT INFEST",
+          "repo": "project-infest",
+          "url": "https://github.com/smouj/project-infest",
+          "icon": "project-infest.svg",
+          "desc": {
+            "en": "Co-op extermination FPS with household chores under pressure. Godot, GDScript.",
+            "es": "FPS cooperativo de exterminio con tareas domésticas bajo presión. Godot y GDScript."
+          },
+          "tags": [
+            "Godot",
+            "GDScript"
+          ],
+          "focus": "Game in development",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "romulous",
+          "name": "Romulous",
+          "repo": "romulous",
+          "url": "https://github.com/smouj/romulous",
+          "icon": "romulous.svg",
+          "desc": {
+            "en": "Game Boy Color ROM unraveler: extract every byte and understand it.",
+            "es": "Desmontador de ROMs de Game Boy Color: extrae cada byte y lo explica."
+          },
+          "tags": [
+            "Python"
+          ],
+          "focus": "ROM research",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "ferronest",
+          "name": "FerroNest",
+          "repo": "FerroNest",
+          "url": "https://github.com/smouj/FerroNest",
+          "icon": "ferronest.svg",
+          "desc": {
+            "en": "Strategic ant colony management where you design the rules, not the orders.",
+            "es": "Gestión estratégica de una colonia de hormigas: diseñas reglas, no órdenes."
+          },
+          "tags": [
+            "Python"
+          ],
+          "focus": "Simulation",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "tagworld",
+          "name": "TAGWORLD",
+          "repo": "tagworld",
+          "url": "https://github.com/smouj/tagworld",
+          "icon": "tagworld.svg",
+          "desc": {
+            "en": "Virtual graffiti game laid over a real-world map.",
+            "es": "Juego de grafiti virtual sobre un mapa del mundo real."
+          },
+          "tags": [
+            "TypeScript"
+          ],
+          "focus": "Location game",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "royal-pixel",
+          "name": "Royal Pixel Game",
+          "repo": "royal-pixel-game",
+          "url": "https://github.com/smouj/royal-pixel-game",
+          "icon": "royal-pixel.svg",
+          "desc": {
+            "en": "Persistent, community-built pixel world.",
+            "es": "Mundo de píxeles persistente y construido por la comunidad."
+          },
+          "tags": [
+            "TypeScript"
+          ],
+          "focus": "Persistent world",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "shatter",
+          "name": "Shatter Protocol",
+          "repo": "shatter-protocol",
+          "url": "https://github.com/smouj/shatter-protocol",
+          "icon": "shatter.svg",
+          "desc": {
+            "en": "Tactical roguelike RPG breakout.",
+            "es": "Breakout roguelike táctico con progresión RPG."
+          },
+          "tags": [
+            "Python"
+          ],
+          "focus": "Roguelike",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "dbzlsw",
+          "name": "DBZ LSW Fangame",
+          "repo": "dbzlsw-fangame",
+          "url": "https://github.com/smouj/dbzlsw-fangame",
+          "icon": "dbzlsw.svg",
+          "desc": {
+            "en": "Fan game and research built on Dragon Ball Z: Legendary Super Warriors.",
+            "es": "Fan game e investigación sobre Dragon Ball Z: Legendary Super Warriors."
+          },
+          "tags": [
+            "Godot"
+          ],
+          "focus": "ROM game",
+          "stars": 0,
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "kits",
+      "title": {
+        "en": "Kits and SDKs",
+        "es": "Kits y SDKs"
+      },
+      "deck": {
+        "en": "Reusable cores extracted from the games, packaged for other people to build on.",
+        "es": "Núcleos reutilizables extraídos de los juegos, empaquetados para que otros construyan encima."
+      },
+      "items": [
+        {
+          "id": "dbz-sdk",
+          "name": "DBZ LSW Modding SDK",
+          "repo": "dbz-lsw-modding-sdk",
+          "url": "https://github.com/smouj/dbz-lsw-modding-sdk",
+          "icon": "dbz-sdk.svg",
+          "desc": {
+            "en": "ROM-first modding SDK: parse, edit and recompile without losing a single byte.",
+            "es": "SDK de modding ROM-first: parsea, edita y recompila sin perder un solo byte."
+          },
+          "tags": [
+            "TypeScript"
+          ],
+          "focus": "Modding SDK",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "ttg",
+          "name": "Trading Tazos Game",
+          "repo": "TTG-Engine",
+          "url": "https://github.com/smouj/TTG-Engine",
+          "icon": "ttg.svg",
+          "desc": {
+            "en": "Full-stack game platform: 3D client, authoritative server, PvP, chat and docs.",
+            "es": "Plataforma de juego completa: cliente 3D, servidor autoritativo, PvP, chat y documentación."
+          },
+          "tags": [
+            "TypeScript"
+          ],
+          "focus": "Game platform",
+          "stars": 0,
+          "links": [
+            {
+              "en": "Engine",
+              "es": "Engine",
+              "url": "https://github.com/smouj/TTG-Engine"
+            },
+            {
+              "en": "Backend",
+              "es": "Backend",
+              "url": "https://github.com/smouj/TTG-Backend"
+            },
+            {
+              "en": "PvP",
+              "es": "PvP",
+              "url": "https://github.com/smouj/TTG-PvP"
+            },
+            {
+              "en": "Chat",
+              "es": "Chat",
+              "url": "https://github.com/smouj/TTG-Chat"
+            },
+            {
+              "en": "Web",
+              "es": "Web",
+              "url": "https://github.com/smouj/TTG-Webpage"
+            },
+            {
+              "en": "Docs",
+              "es": "Docs",
+              "url": "https://github.com/smouj/TTG-Docs"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

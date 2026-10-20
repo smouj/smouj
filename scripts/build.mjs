@@ -83,12 +83,14 @@ const copy = {
   en: {
     profile: "Profile",
     selected: "Selected systems",
-    deckSelected: "Six public projects. Local execution is the common thread.",
+    deckSelected: "Seven groups, thirty-seven projects. Local execution is the common thread.",
     toolchain: "Toolchain",
     practice: "Practice",
     elsewhere: "Elsewhere",
     currently: "Currently",
     system: "System",
+    app: "App",
+    stars: "Stars",
     what: "What it is",
     stack: "Stack",
     principle: "Principle",
@@ -106,12 +108,14 @@ const copy = {
   es: {
     profile: "Perfil",
     selected: "Sistemas",
-    deckSelected: "Seis proyectos públicos. La ejecución local es el hilo común.",
+    deckSelected: "Siete grupos, treinta y siete proyectos. La ejecución local es el hilo común.",
     toolchain: "Herramientas",
     practice: "Práctica",
     elsewhere: "Enlaces",
     currently: "Ahora",
     system: "Sistema",
+    app: "App",
+    stars: "Estrellas",
     what: "Qué es",
     stack: "Stack",
     principle: "Principio",
@@ -141,6 +145,9 @@ const badgeSpec = {
   React: ["20232A", "react", "61DAFB"],
   Tauri: ["24C8DB", "tauri", "white"],
   "WinUI 3": ["0078D4", "windows", "white"],
+  WPF: ["512BD4", "dotnet", "white"],
+  JavaScript: ["F7DF1E", "javascript", "black"],
+  HTML: ["E34F26", "html5", "white"],
   Godot: ["478CBF", "godotengine", "white"],
   Linux: ["FCC624", "linux", "black"],
   Docker: ["2496ED", "docker", "white"],
@@ -162,23 +169,41 @@ function socialBadges(lang) {
     ["Hugging Face", "https://huggingface.co/Smouj013", "https://img.shields.io/badge/Hugging%20Face-Smouj013-FFD21E?style=flat-square&logo=huggingface&logoColor=black"],
     ["Bluesky", "https://bsky.app/profile/smouj013.bsky.social", "https://img.shields.io/badge/Bluesky-%40smouj013-0085FF?style=flat-square&logo=bluesky&logoColor=white"],
     ["Discord", "https://discord.gg/BVWXWY5eUT", "https://img.shields.io/badge/Discord-Smouj013-5865F2?style=flat-square&logo=discord&logoColor=white"],
+    ["PayPal", links.support.url, "https://img.shields.io/badge/PayPal-Donate-00457C?style=flat-square&logo=paypal&logoColor=white"],
     [c.language, c.other, "https://img.shields.io/badge/" + encodeURIComponent(c.language) + "-README-6E7681?style=flat-square"]
   ];
   return items.map(([alt, href, src]) => '<a href="' + href + '"><img src="' + src + '" alt="' + alt + '"></a>').join("&nbsp;\n  ");
 }
 
-function selectedTable(lang) {
+function starBadge(p) {
+  if (!p.stars || p.stars <= 0) return "<sub>—</sub>";
+  const src = "https://img.shields.io/github/stars/smouj/" + p.repo +
+    "?style=flat-square&label=%E2%98%85&color=6E7681";
+  return '<a href="https://github.com/smouj/' + p.repo + '/stargazers"><img src="' + src + '" alt="' + p.stars + ' stars"></a>';
+}
+
+function groupTable(group, lang) {
   const c = copy[lang];
-  const rows = projects.map((p, i) => {
-    const num = String(i + 1).padStart(2, "0");
-    const meta = p.tags.slice();
+  const rows = group.items.map((p) => {
+    const meta = p.tags.map(badge);
     if (p.links && p.links.length) {
-      meta.push(...p.links.map((l) => "[" + l.label + "](" + l.url + ")"));
+      meta.push(...p.links.map((l) => "[" + l[lang] + "](" + l.url + ")"));
     }
-    return "| " + num + " | **[" + p.name + "](" + p.url + ")**<br><sub>" + p.focus + "</sub> | " + p.desc[lang] + "<br><sub>" + meta.join(" · ") + "</sub> |";
+    return "| <img src=\"assets/icons/" + p.icon + "\" width=\"22\" height=\"22\" alt=\"\"> " +
+      "| **[" + p.name + "](" + p.url + ")**<br><sub>" + p.focus + "</sub> " +
+      "| " + p.desc[lang] + "<br><sub>" + meta.join(" ") + "</sub> " +
+      "| " + starBadge(p) + " |";
   }).join("\n");
-  return "| # | " + c.system + " | " + c.what + " |\n" +
-    "|:--|:--|:--|\n" + rows;
+  return "| | " + c.app + " | " + c.what + " | " + c.stars + " |\n" +
+    "|:--:|:--|:--|:--:|\n" + rows;
+}
+
+function selectedSection(lang) {
+  return projects.groups.map((g) =>
+    "### / " + g.title[lang] + "\n\n" +
+    "<sub>" + g.deck[lang] + "</sub>\n\n" +
+    groupTable(g, lang)
+  ).join("\n\n");
 }
 
 function practiceTable(lang) {
@@ -231,7 +256,7 @@ intro + '\n\n' +
 '> **' + c.currently + '** — ' + profile.currently[lang] + '\n\n' +
 '## / ' + c.selected + '\n\n' +
 '<sub>' + c.deckSelected + '</sub>\n\n' +
-selectedTable(lang) + '\n\n' +
+selectedSection(lang) + '\n\n' +
 '## / ' + c.practice + '\n\n' +
 practiceTable(lang) + '\n\n' +
 '## / ' + c.toolchain + '\n\n' +

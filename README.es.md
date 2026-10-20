@@ -11,6 +11,7 @@
   <a href="https://huggingface.co/Smouj013"><img src="https://img.shields.io/badge/Hugging%20Face-Smouj013-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"></a>&nbsp;
   <a href="https://bsky.app/profile/smouj013.bsky.social"><img src="https://img.shields.io/badge/Bluesky-%40smouj013-0085FF?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky"></a>&nbsp;
   <a href="https://discord.gg/BVWXWY5eUT"><img src="https://img.shields.io/badge/Discord-Smouj013-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>&nbsp;
+  <a href="https://www.paypal.com/ncp/payment/XUY7RB9X2JE2G"><img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=flat-square&logo=paypal&logoColor=white" alt="PayPal"></a>&nbsp;
   <a href="README.md"><img src="https://img.shields.io/badge/English-README-6E7681?style=flat-square" alt="English"></a>
 </p>
 
@@ -20,21 +21,97 @@ Construyo herramientas para el ordenador que tienes delante: runtimes de IA loca
 
 Casi todo parte de la misma restricción: tiene que funcionar offline, en hardware que la gente ya tiene, sin un servidor en la ruta crítica.
 
-> **Ahora** — Construyendo **Adobado Kit**, **Kimari**, **Latido** y **Voryda**; investigando sistemas de juego en Godot.
+> **Ahora** — Publicando **Holgura**, el **Adobado Kit** y **Latido**; investigando sistemas de juego en Godot.
 
 ## / Sistemas
 
-<sub>Siete proyectos públicos. La ejecución local es el hilo común.</sub>
+<sub>Siete grupos, treinta y siete proyectos. La ejecución local es el hilo común.</sub>
 
-| # | Sistema | Qué es |
-|:--|:--|:--|
-| 01 | **[Kimari](https://github.com/smouj/kimari-local-ai)**<br><sub>Local inference</sub> | Runtime LLM local para GPUs de consumo con CUDA y API compatible con OpenAI.<br><sub>Python · CUDA · GGUF</sub> |
-| 02 | **[agent-browser](https://github.com/smouj/agent-browser)**<br><sub>Agent tooling</sub> | Runtime de navegador y API REST para navegación, visión e interacción de agentes.<br><sub>TypeScript · Next.js</sub> |
-| 03 | **[Latido](https://github.com/smouj/latido)**<br><sub>Information</sub> | Lector local-first de Bluesky, HN, Reddit, Mastodon, RSS y GitHub.<br><sub>TypeScript · React · Tauri</sub> |
-| 04 | **[NUDO](https://github.com/smouj/nudo)**<br><sub>Languages</sub> | Lenguaje para que humanos y agentes lean, escriban y verifiquen la misma fuente.<br><sub>Rust</sub> |
-| 05 | **[Voryda Suite](https://github.com/smouj/voryda-rec)**<br><sub>Windows media</sub> | Cuatro utilidades nativas de Windows para capturar, grabar, descargar y editar.<br><sub>C# · WinUI 3 · [Rec](https://github.com/smouj/voryda-rec) · [Snap](https://github.com/smouj/voryda-snap) · [Down](https://github.com/smouj/voryda-down) · [Cut](https://github.com/smouj/voryda-cut)</sub> |
-| 06 | <img src="https://raw.githubusercontent.com/smouj/Adobado_Kit/main/assets/logo.svg?v=0.3.2" width="24" alt="Adobado Kit"> **[Adobado Kit](https://github.com/smouj/Adobado_Kit)**<br><sub>Herramientas creativas</sub> | Elige entre ocho apps de escritorio para imagen, vídeo, audio, ilustración vectorial, efectos, color, diseño y PDF. Cada ficha indica la compilación de Windows y las pruebas manuales.<br><sub>Rust · Windows · [Photo](https://github.com/smouj/PhotoAdobado) · [Film](https://github.com/smouj/FilmAdobado) · [Sound](https://github.com/smouj/SoundAdobado)</sub> |
-| 07 | **[Games](https://github.com/smouj/romulous)**<br><sub>Games & research</sub> | Juegos sistémicos y herramientas para experiencias basadas en ROM. Project Infest en desarrollo.<br><sub>Godot · GDScript · [Romulous](https://github.com/smouj/romulous) · [FerroNest](https://github.com/smouj/FerroNest) · [DBZ LSW](https://github.com/smouj/dbzlsw-fangame)</sub> |
+### / IA local
+
+<sub>Inferencia y herramientas de agentes que corren en la máquina, no en un centro de datos.</sub>
+
+| | App | Qué es | Estrellas |
+|:--:|:--|:--|:--:|
+| <img src="assets/icons/kimari.svg" width="22" height="22" alt=""> | **[Kimari](https://github.com/smouj/kimari-local-ai)**<br><sub>Local inference</sub> | Runtime LLM local para GPUs de consumo con CUDA y API compatible con OpenAI.<br><sub>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![GGUF](https://img.shields.io/badge/GGUF-4B5563?style=flat-square)</sub> | <a href="https://github.com/smouj/kimari-local-ai/stargazers"><img src="https://img.shields.io/github/stars/smouj/kimari-local-ai?style=flat-square&label=%E2%98%85&color=6E7681" alt="9 stars"></a> |
+| <img src="assets/icons/aicode.svg" width="22" height="22" alt=""> | **[AICodeStudio](https://github.com/smouj/AICodeStudio)**<br><sub>Developer IDE</sub> | IDE asistido por IA con enrutado a modelos locales y puente con OpenClaw.<br><sub>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)</sub> | <a href="https://github.com/smouj/AICodeStudio/stargazers"><img src="https://img.shields.io/github/stars/smouj/AICodeStudio?style=flat-square&label=%E2%98%85&color=6E7681" alt="4 stars"></a> |
+| <img src="assets/icons/agent-browser.svg" width="22" height="22" alt=""> | **[agent-browser](https://github.com/smouj/agent-browser)**<br><sub>Agent tooling</sub> | Runtime de navegador y API REST para navegación, visión e interacción de agentes.<br><sub>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)</sub> | <a href="https://github.com/smouj/agent-browser/stargazers"><img src="https://img.shields.io/github/stars/smouj/agent-browser?style=flat-square&label=%E2%98%85&color=6E7681" alt="6 stars"></a> |
+
+### / Escritorio Windows
+
+<sub>Utilidades nativas para el equipo: monitorización, limpieza, captura y paneles de hardware.</sub>
+
+| | App | Qué es | Estrellas |
+|:--:|:--|:--|:--:|
+| <img src="assets/icons/holgura.svg" width="22" height="22" alt=""> | **[Holgura](https://github.com/smouj/holgura)**<br><sub>Storage hygiene</sub> | Limpiador de Windows y WSL que enseña cada archivo antes de borrarlo. Simulacro, puerta de seguridad y cero telemetría.<br><sub>![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![WinUI 3](https://img.shields.io/badge/WinUI%203-0078D4?style=flat-square&logo=windows&logoColor=white)</sub> | <sub>—</sub> |
+| <img src="assets/icons/sysglance.png" width="22" height="22" alt=""> | **[SysGlance](https://github.com/smouj/sysglance)**<br><sub>System monitoring</sub> | Overlay semitransparente de escritorio con CPU, GPU, disco y red en tiempo real.<br><sub>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)</sub> | <a href="https://github.com/smouj/sysglance/stargazers"><img src="https://img.shields.io/github/stars/smouj/sysglance?style=flat-square&label=%E2%98%85&color=6E7681" alt="1 stars"></a> |
+| <img src="assets/icons/openclaw-widget.svg" width="22" height="22" alt=""> | **[OpenClaw Widget](https://github.com/smouj/openclaw-desktop-widget)**<br><sub>Desktop widget</sub> | Widget sin bordes y translúcido con la salud del sistema y el panel de OpenClaw.<br><sub>![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)</sub> | <sub>—</sub> |
+| <img src="assets/icons/lcdglance.svg" width="22" height="22" alt=""> | **[LCDGlance](https://github.com/smouj/lcdglance)**<br><sub>Hardware panel</sub> | Páginas de monitorización y mascotas animadas para el LCD del Logitech G510.<br><sub>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)</sub> | <sub>—</sub> |
+| <img src="assets/icons/games-lcd.svg" width="22" height="22" alt=""> | **[Games LCD](https://github.com/smouj/games-lcd)**<br><sub>Hardware panel</sub> | Panel centrado en juegos para el LCD G510: estado de Heroes of Might and Magic de un vistazo.<br><sub>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)</sub> | <sub>—</sub> |
+| <img src="assets/icons/classicvoice.svg" width="22" height="22" alt=""> | **[ClassicVoice](https://github.com/smouj/classicvoice)**<br><sub>Speech</sub> | Síntesis de voz multilingüe offline para Windows sobre voces de eSpeak NG.<br><sub>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)</sub> | <sub>—</sub> |
+| <img src="assets/icons/olden-era.svg" width="22" height="22" alt=""> | **[Olden Era Overlay](https://github.com/smouj/olden-era-draft-overlay)**<br><sub>Game companion</sub> | Asistente contextual local para Heroes of Might and Magic: Olden Era.<br><sub>![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)</sub> | <sub>—</sub> |
+| <img src="assets/icons/voryda-rec.png" width="22" height="22" alt=""> | **[Voryda Suite](https://github.com/smouj/voryda-rec)**<br><sub>Media suite</sub> | Cuatro utilidades nativas de Windows para capturar, grabar, descargar y editar.<br><sub>![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![WinUI 3](https://img.shields.io/badge/WinUI%203-0078D4?style=flat-square&logo=windows&logoColor=white) [Rec](https://github.com/smouj/voryda-rec) [Snap](https://github.com/smouj/voryda-snap) [Down](https://github.com/smouj/voryda-down) [Cut](https://github.com/smouj/voryda-cut)</sub> | <sub>—</sub> |
+
+### / Adobado Kit
+
+<sub>Suite creativa open source hecha de editores locales y enfocados. Núcleo en Rust, sin suscripción y sin subir nada.</sub>
+
+| | App | Qué es | Estrellas |
+|:--:|:--|:--|:--:|
+| <img src="assets/icons/adobado-kit.svg" width="22" height="22" alt=""> | **[Adobado Kit](https://github.com/smouj/Adobado_Kit)**<br><sub>Creative suite</sub> | Proyecto paraguas: herramientas creativas locales derivadas de editores open source, con una sola filosofía.<br><sub>![Rust](https://img.shields.io/badge/Rust-B7410E?style=flat-square&logo=rust&logoColor=white)</sub> | <sub>—</sub> |
+| <img src="assets/icons/adobado-design.png" width="22" height="22" alt=""> | **[DesignAdobado](https://github.com/smouj/DesignAdobado)**<br><sub>Design</sub> | Diseño y composición local, derivado de DesignCraft.<br><sub>![Rust](https://img.shields.io/badge/Rust-B7410E?style=flat-square&logo=rust&logoColor=white)</sub> | <sub>—</sub> |
+| <img src="assets/icons/adobado-photo.png" width="22" height="22" alt=""> | **[PhotoAdobado](https://github.com/smouj/PhotoAdobado)**<br><sub>Photo</sub> | Editor de imagen local, derivado de PhotoCraft.<br><sub>![Rust](https://img.shields.io/badge/Rust-B7410E?style=flat-square&logo=rust&logoColor=white)</sub> | <sub>—</sub> |
+| <img src="assets/icons/adobado-art.png" width="22" height="22" alt=""> | **[ArtAdobado](https://github.com/smouj/ArtAdobado)**<br><sub>Vector</sub> | Arte vectorial local, derivado de VectorCraft.<br><sub>![Rust](https://img.shields.io/badge/Rust-B7410E?style=flat-square&logo=rust&logoColor=white)</sub> | <sub>—</sub> |
+| <img src="assets/icons/adobado-light.png" width="22" height="22" alt=""> | **[LightAdobado](https://github.com/smouj/LightAdobado)**<br><sub>Photo workflow</sub> | Revelado y color local, derivado de LightCraft.<br><sub>![Rust](https://img.shields.io/badge/Rust-B7410E?style=flat-square&logo=rust&logoColor=white)</sub> | <sub>—</sub> |
+| <img src="assets/icons/adobado-effect.png" width="22" height="22" alt=""> | **[EffectAdobado](https://github.com/smouj/EffectAdobado)**<br><sub>Motion</sub> | Efectos visuales locales, derivado de EffectCraft.<br><sub>![Rust](https://img.shields.io/badge/Rust-B7410E?style=flat-square&logo=rust&logoColor=white)</sub> | <sub>—</sub> |
+| <img src="assets/icons/adobado-film.png" width="22" height="22" alt=""> | **[FilmAdobado](https://github.com/smouj/FilmAdobado)**<br><sub>Video</sub> | Edición de vídeo local, derivado de FilmCraft.<br><sub>![Rust](https://img.shields.io/badge/Rust-B7410E?style=flat-square&logo=rust&logoColor=white)</sub> | <sub>—</sub> |
+| <img src="assets/icons/adobado-sound.png" width="22" height="22" alt=""> | **[SoundAdobado](https://github.com/smouj/SoundAdobado)**<br><sub>Audio</sub> | Edición de audio local, derivado de SoundCraft.<br><sub>![Rust](https://img.shields.io/badge/Rust-B7410E?style=flat-square&logo=rust&logoColor=white)</sub> | <sub>—</sub> |
+| <img src="assets/icons/adobado-pdf.png" width="22" height="22" alt=""> | **[PdfAdobado](https://github.com/smouj/PdfAdobado)**<br><sub>Documents</sub> | Trabajo con PDF en local, derivado de PdfCraft.<br><sub>![Rust](https://img.shields.io/badge/Rust-B7410E?style=flat-square&logo=rust&logoColor=white)</sub> | <sub>—</sub> |
+
+### / Lectura y datos
+
+<sub>Herramientas que leen el mundo sin enviarlo a terceros.</sub>
+
+| | App | Qué es | Estrellas |
+|:--:|:--|:--|:--:|
+| <img src="assets/icons/latido.svg" width="22" height="22" alt=""> | **[Latido](https://github.com/smouj/latido)**<br><sub>Information</sub> | Lector local-first de Bluesky, HN, Reddit, Mastodon, RSS y GitHub.<br><sub>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)</sub> | <sub>—</sub> |
+| <img src="assets/icons/devicelab.svg" width="22" height="22" alt=""> | **[DeviceLab](https://github.com/smouj/devicelab)**<br><sub>Device tooling</sub> | Dashboard local-first para emuladores y dispositivos Android.<br><sub>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)</sub> | <sub>—</sub> |
+| <img src="assets/icons/xlsx.svg" width="22" height="22" alt=""> | **[XLSX Viewer](https://github.com/smouj/xlsx-viewer)**<br><sub>Documents</sub> | Visor local de Excel para Windows: sin subir archivos, sin cuenta y sin macros.<br><sub>![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)</sub> | <sub>—</sub> |
+| <img src="assets/icons/mundial-tv.svg" width="22" height="22" alt=""> | **[Mundial TV](https://github.com/smouj/mundial-tv)**<br><sub>Media</sub> | Reproductor de escritorio de televisión en directo de todo el mundo.<br><sub>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)</sub> | <a href="https://github.com/smouj/mundial-tv/stargazers"><img src="https://img.shields.io/github/stars/smouj/mundial-tv?style=flat-square&label=%E2%98%85&color=6E7681" alt="1 stars"></a> |
+
+### / Herramientas de desarrollo
+
+<sub>Todo aquí asume que un agente leerá el código tan a menudo como una persona.</sub>
+
+| | App | Qué es | Estrellas |
+|:--:|:--|:--|:--:|
+| <img src="assets/icons/nudo.png" width="22" height="22" alt=""> | **[NUDO](https://github.com/smouj/nudo)**<br><sub>Languages</sub> | Lenguaje para que humanos y agentes lean, escriban y verifiquen la misma fuente.<br><sub>![Rust](https://img.shields.io/badge/Rust-B7410E?style=flat-square&logo=rust&logoColor=white)</sub> | <sub>—</sub> |
+| <img src="assets/icons/skill-genesis.svg" width="22" height="22" alt=""> | **[Skill Genesis](https://github.com/smouj/skill-genesis)**<br><sub>Agent tooling</sub> | Generador autónomo de skills de OpenClaw a partir de una capacidad descrita.<br><sub>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)</sub> | <a href="https://github.com/smouj/skill-genesis/stargazers"><img src="https://img.shields.io/github/stars/smouj/skill-genesis?style=flat-square&label=%E2%98%85&color=6E7681" alt="1 stars"></a> |
+| <img src="assets/icons/prompt-organizer.svg" width="22" height="22" alt=""> | **[Prompt Organizer](https://github.com/smouj/prompt-organizer)**<br><sub>Workflow</sub> | Herramienta visual para organizar prompts, auditorías, bugs y backlog.<br><sub>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)</sub> | <sub>—</sub> |
+| <img src="assets/icons/openclaw-desk.svg" width="22" height="22" alt=""> | **[ClawDesk](https://github.com/smouj/openclaw-desk)**<br><sub>Operations</sub> | Panel web local para gestionar agentes, sesiones y el estado del gateway.<br><sub>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)</sub> | <a href="https://github.com/smouj/openclaw-desk/stargazers"><img src="https://img.shields.io/github/stars/smouj/openclaw-desk?style=flat-square&label=%E2%98%85&color=6E7681" alt="1 stars"></a> |
+
+### / Juegos e investigación
+
+<sub>Juegos pequeños, herramientas de ROM y motores hechos para desmontarlos.</sub>
+
+| | App | Qué es | Estrellas |
+|:--:|:--|:--|:--:|
+| <img src="assets/icons/project-infest.svg" width="22" height="22" alt=""> | **[PROJECT INFEST](https://github.com/smouj/project-infest)**<br><sub>Game in development</sub> | FPS cooperativo de exterminio con tareas domésticas bajo presión. Godot y GDScript.<br><sub>![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white)</sub> | <sub>—</sub> |
+| <img src="assets/icons/romulous.svg" width="22" height="22" alt=""> | **[Romulous](https://github.com/smouj/romulous)**<br><sub>ROM research</sub> | Desmontador de ROMs de Game Boy Color: extrae cada byte y lo explica.<br><sub>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)</sub> | <sub>—</sub> |
+| <img src="assets/icons/ferronest.svg" width="22" height="22" alt=""> | **[FerroNest](https://github.com/smouj/FerroNest)**<br><sub>Simulation</sub> | Gestión estratégica de una colonia de hormigas: diseñas reglas, no órdenes.<br><sub>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)</sub> | <sub>—</sub> |
+| <img src="assets/icons/tagworld.svg" width="22" height="22" alt=""> | **[TAGWORLD](https://github.com/smouj/tagworld)**<br><sub>Location game</sub> | Juego de grafiti virtual sobre un mapa del mundo real.<br><sub>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)</sub> | <sub>—</sub> |
+| <img src="assets/icons/royal-pixel.svg" width="22" height="22" alt=""> | **[Royal Pixel Game](https://github.com/smouj/royal-pixel-game)**<br><sub>Persistent world</sub> | Mundo de píxeles persistente y construido por la comunidad.<br><sub>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)</sub> | <sub>—</sub> |
+| <img src="assets/icons/shatter.svg" width="22" height="22" alt=""> | **[Shatter Protocol](https://github.com/smouj/shatter-protocol)**<br><sub>Roguelike</sub> | Breakout roguelike táctico con progresión RPG.<br><sub>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)</sub> | <sub>—</sub> |
+| <img src="assets/icons/dbzlsw.svg" width="22" height="22" alt=""> | **[DBZ LSW Fangame](https://github.com/smouj/dbzlsw-fangame)**<br><sub>ROM game</sub> | Fan game e investigación sobre Dragon Ball Z: Legendary Super Warriors.<br><sub>![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)</sub> | <sub>—</sub> |
+
+### / Kits y SDKs
+
+<sub>Núcleos reutilizables extraídos de los juegos, empaquetados para que otros construyan encima.</sub>
+
+| | App | Qué es | Estrellas |
+|:--:|:--|:--|:--:|
+| <img src="assets/icons/dbz-sdk.svg" width="22" height="22" alt=""> | **[DBZ LSW Modding SDK](https://github.com/smouj/dbz-lsw-modding-sdk)**<br><sub>Modding SDK</sub> | SDK de modding ROM-first: parsea, edita y recompila sin perder un solo byte.<br><sub>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)</sub> | <sub>—</sub> |
+| <img src="assets/icons/ttg.svg" width="22" height="22" alt=""> | **[Trading Tazos Game](https://github.com/smouj/TTG-Engine)**<br><sub>Game platform</sub> | Plataforma de juego completa: cliente 3D, servidor autoritativo, PvP, chat y documentación.<br><sub>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) [Engine](https://github.com/smouj/TTG-Engine) [Backend](https://github.com/smouj/TTG-Backend) [PvP](https://github.com/smouj/TTG-PvP) [Chat](https://github.com/smouj/TTG-Chat) [Web](https://github.com/smouj/TTG-Webpage) [Docs](https://github.com/smouj/TTG-Docs)</sub> | <sub>—</sub> |
 
 ## / Práctica
 
