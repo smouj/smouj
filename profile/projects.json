@@ -172,8 +172,8 @@
         "es": "TV y wearables"
       },
       "deck": {
-        "en": "Local tools for Android TV and GloryFit-family smartwatches.",
-        "es": "Herramientas locales para Android TV y relojes de la familia GloryFit."
+        "en": "Tools for Android TV, live television and smartwatches.",
+        "es": "Herramientas para Android TV, televisión en directo y relojes inteligentes."
       },
       "items": [
         {
@@ -191,6 +191,23 @@
           ],
           "focus": "Android TV",
           "stars": 0,
+          "links": []
+        },
+        {
+          "id": "mundial-tv",
+          "name": "Mundial TV",
+          "repo": "mundial-tv",
+          "url": "https://github.com/smouj/mundial-tv",
+          "icon": "mundial-tv.png",
+          "desc": {
+            "en": "Desktop player for live television channels from around the world.",
+            "es": "Reproductor de escritorio de televisión en directo de todo el mundo."
+          },
+          "tags": [
+            "JavaScript"
+          ],
+          "focus": "Live TV",
+          "stars": 1,
           "links": []
         },
         {
@@ -220,8 +237,8 @@
         "es": "Voryda Suite"
       },
       "deck": {
-        "en": "Four native Windows utilities, one brand and one shared capture engine.",
-        "es": "Cuatro utilidades nativas de Windows, una marca y un mismo motor de captura."
+        "en": "Five focused Windows tools under one visual identity.",
+        "es": "Cinco herramientas de Windows bajo una misma identidad visual."
       },
       "items": [
         {
@@ -291,6 +308,24 @@
             "C#"
           ],
           "focus": "Video editing",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "voryda-sheet",
+          "name": "Voryda Sheet",
+          "repo": "xlsx-viewer",
+          "url": "https://github.com/smouj/xlsx-viewer",
+          "icon": "voryda-sheet.png",
+          "desc": {
+            "en": "Offline viewer for .xlsx, .xlsm, .xls and .csv files; no uploads, accounts or macro execution.",
+            "es": "Visor sin conexión para .xlsx, .xlsm, .xls y .csv; no sube archivos ni ejecuta macros."
+          },
+          "tags": [
+            "HTML",
+            "JavaScript"
+          ],
+          "focus": "Spreadsheet viewer",
           "stars": 0,
           "links": []
         }
@@ -490,40 +525,6 @@
           ],
           "focus": "Information",
           "stars": 0,
-          "links": []
-        },
-        {
-          "id": "xlsx",
-          "name": "XLSX Viewer",
-          "repo": "xlsx-viewer",
-          "url": "https://github.com/smouj/xlsx-viewer",
-          "icon": "xlsx.png",
-          "desc": {
-            "en": "Local Excel viewer for Windows: no upload, no account, no macros.",
-            "es": "Visor local de Excel para Windows: sin subir archivos, sin cuenta y sin macros."
-          },
-          "tags": [
-            "HTML"
-          ],
-          "focus": "Documents",
-          "stars": 0,
-          "links": []
-        },
-        {
-          "id": "mundial-tv",
-          "name": "Mundial TV",
-          "repo": "mundial-tv",
-          "url": "https://github.com/smouj/mundial-tv",
-          "icon": "mundial-tv.png",
-          "desc": {
-            "en": "Desktop player for live television channels from around the world.",
-            "es": "Reproductor de escritorio de televisión en directo de todo el mundo."
-          },
-          "tags": [
-            "JavaScript"
-          ],
-          "focus": "Media",
-          "stars": 1,
           "links": []
         }
       ]
