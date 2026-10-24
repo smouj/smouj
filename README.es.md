@@ -47,6 +47,15 @@ La restricción es siempre la misma. Tiene que funcionar sin conexión, en hardw
 | <img src="assets/icons/lcdglance.svg" width="26" height="26" alt=""> | **[LCDGlance](https://github.com/smouj/lcdglance)**<br><sub>Hardware panel</sub> | Páginas de monitorización y mascotas animadas para el LCD del Logitech G510.<br><sub>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)</sub> | <a href="https://github.com/smouj/lcdglance/stargazers"><img src="https://img.shields.io/github/stars/smouj/lcdglance?style=flat-square&label=%E2%98%85&color=8B949E" alt="0 stars"></a> |
 | <img src="assets/icons/classicvoice.png" width="26" height="26" alt=""> | **[ClassicVoice](https://github.com/smouj/classicvoice)**<br><sub>Speech</sub> | Síntesis de voz multilingüe offline para Windows sobre voces de eSpeak NG.<br><sub>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)</sub> | <a href="https://github.com/smouj/classicvoice/stargazers"><img src="https://img.shields.io/github/stars/smouj/classicvoice?style=flat-square&label=%E2%98%85&color=8B949E" alt="0 stars"></a> |
 
+### TV y wearables
+
+<sub>Herramientas locales para Android TV y relojes de la familia GloryFit.</sub>
+
+| | App | Qué es | Estrellas |
+|:--:|:--|:--|:--:|
+| <img src="assets/icons/tervia.png" width="26" height="26" alt="Icono de Tervia"> | **[Tervia](https://github.com/smouj/tervia)**<br><sub>Android TV</sub> | App para Windows en fase alfa para personalizar el inicio de Android TV y descubrir televisores en la red local.<br><sub>![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)</sub> | <a href="https://github.com/smouj/tervia/stargazers"><img src="https://img.shields.io/github/stars/smouj/tervia?style=flat-square&label=%E2%98%85&color=8B949E" alt="0 stars"></a> |
+| <img src="assets/icons/my-dev-watch.png" width="26" height="26" alt="Icono de My Dev Watch"> | **[My Dev Watch](https://github.com/smouj/my-dev-watch)**<br><sub>Smartwatch companion</sub> | Compañero local para Android, estudio de esferas y laboratorio BLE para relojes GloryFit; en fase alfa.<br><sub>![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)</sub> | <a href="https://github.com/smouj/my-dev-watch/stargazers"><img src="https://img.shields.io/github/stars/smouj/my-dev-watch?style=flat-square&label=%E2%98%85&color=8B949E" alt="0 stars"></a> |
+
 ### Voryda Suite
 
 <sub>Cuatro utilidades nativas de Windows bajo una misma identidad visual.</sub>
@@ -104,13 +113,13 @@ La restricción es siempre la misma. Tiene que funcionar sin conexión, en hardw
 ## Herramientas
 
 **Lenguajes**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-B7410E?style=flat-square&logo=rust&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-B7410E?style=flat-square&logo=rust&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 **Runtime**  
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-1F242B?style=flat-square) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![GGUF](https://img.shields.io/badge/GGUF-4B5563?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-111827?style=flat-square&logo=ollama&logoColor=white)
 
 **Interfaz**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white) ![WinUI 3](https://img.shields.io/badge/WinUI%203-0078D4?style=flat-square&logo=windows&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white) ![WinUI 3](https://img.shields.io/badge/WinUI%203-0078D4?style=flat-square&logo=windows&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
 
 **Infraestructura**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)

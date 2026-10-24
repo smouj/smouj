@@ -166,6 +166,54 @@
       ]
     },
     {
+      "id": "devices",
+      "title": {
+        "en": "TV and wearables",
+        "es": "TV y wearables"
+      },
+      "deck": {
+        "en": "Local tools for Android TV and GloryFit-family smartwatches.",
+        "es": "Herramientas locales para Android TV y relojes de la familia GloryFit."
+      },
+      "items": [
+        {
+          "id": "tervia",
+          "name": "Tervia",
+          "repo": "tervia",
+          "url": "https://github.com/smouj/tervia",
+          "icon": "tervia.png",
+          "desc": {
+            "en": "Alpha Windows app for customizing Android TV home screens and discovering TVs on the local network.",
+            "es": "App para Windows en fase alfa para personalizar el inicio de Android TV y descubrir televisores en la red local."
+          },
+          "tags": [
+            "C#"
+          ],
+          "focus": "Android TV",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "my-dev-watch",
+          "name": "My Dev Watch",
+          "repo": "my-dev-watch",
+          "url": "https://github.com/smouj/my-dev-watch",
+          "icon": "my-dev-watch.png",
+          "desc": {
+            "en": "Local-first Android companion, watch-face studio and BLE lab for GloryFit-family smartwatches; early alpha.",
+            "es": "Compañero local para Android, estudio de esferas y laboratorio BLE para relojes GloryFit; en fase alfa."
+          },
+          "tags": [
+            "Kotlin",
+            "Android"
+          ],
+          "focus": "Smartwatch companion",
+          "stars": 0,
+          "links": []
+        }
+      ]
+    },
+    {
       "id": "voryda",
       "title": {
         "en": "Voryda Suite",

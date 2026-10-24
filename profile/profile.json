@@ -66,7 +66,8 @@
         "TypeScript",
         "C#",
         "Rust",
-        "GDScript"
+        "GDScript",
+        "Kotlin"
       ]
     },
     {
@@ -90,7 +91,8 @@
         "React",
         "Tauri",
         "WinUI 3",
-        "Godot"
+        "Godot",
+        "Android"
       ]
     },
     {
