@@ -92,6 +92,7 @@ La restricción es siempre la misma. Tiene que funcionar sin conexión, en hardw
 | | App | Qué es | Estrellas |
 |:--:|:--|:--|:--:|
 | <img src="assets/icons/latido.svg" width="26" height="26" alt=""> | **[Latido](https://github.com/smouj/latido)**<br><sub>Information</sub> | Lector local-first de Bluesky, HN, Reddit, Mastodon, RSS y GitHub.<br><sub>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)</sub> | <a href="https://github.com/smouj/latido/stargazers"><img src="https://img.shields.io/github/stars/smouj/latido?style=flat-square&label=%E2%98%85&color=8B949E" alt="0 stars"></a> |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smouj/presence/main/assets/branding/logo-white.png"><img src="https://raw.githubusercontent.com/smouj/presence/main/assets/branding/logo-dark.png" width="26" height="26" alt="Icono de Presence"></picture> | **[Presence](https://github.com/smouj/presence)**<br><sub>Presencia social</sub> | Panel local-first para perfiles públicos, listas de configuración y métricas; no publica ni solicita credenciales de cuentas.<br><sub>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)</sub> | <a href="https://github.com/smouj/presence/stargazers"><img src="https://img.shields.io/github/stars/smouj/presence?style=flat-square&label=%E2%98%85&color=8B949E" alt="Estrellas de Presence en GitHub"></a> |
 
 ### Herramientas de desarrollo
 
@@ -100,6 +101,22 @@ La restricción es siempre la misma. Tiene que funcionar sin conexión, en hardw
 | | App | Qué es | Estrellas |
 |:--:|:--|:--|:--:|
 | <img src="assets/icons/nudo.png" width="26" height="26" alt=""> | **[NUDO](https://github.com/smouj/nudo)**<br><sub>Languages</sub> | Lenguaje para que humanos y agentes lean, escriban y verifiquen la misma fuente.<br><sub>![Rust](https://img.shields.io/badge/Rust-B7410E?style=flat-square&logo=rust&logoColor=white)</sub> | <a href="https://github.com/smouj/nudo/stargazers"><img src="https://img.shields.io/github/stars/smouj/nudo?style=flat-square&label=%E2%98%85&color=8B949E" alt="0 stars"></a> |
+
+### Juegos
+
+<sub>Juegos pequeños y proyectos fan.</sub>
+
+| | App | Qué es | Estrellas |
+|:--:|:--|:--|:--:|
+| <img src="assets/icons/dbzlsw.svg" width="26" height="26" alt="Icono de DBZ LSW Fangame"> | **[DBZ LSW Fangame](https://github.com/smouj/dbz-lsw-fangame)**<br><sub>Proyecto fan no oficial</sub> | Proyecto de escritorio inspirado en *Dragon Ball Z: Legendary Super Warriors*, con combate de cartas creado en React, TypeScript y PixiJS y una capa de escritorio Tauri.<br><sub>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![PixiJS](https://img.shields.io/badge/PixiJS-E91E63?style=flat-square&logo=pixijs&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)</sub> | <a href="https://github.com/smouj/dbz-lsw-fangame/stargazers"><img src="https://img.shields.io/github/stars/smouj/dbz-lsw-fangame?style=flat-square&label=%E2%98%85&color=8B949E" alt="Estrellas de DBZ LSW Fangame en GitHub"></a> |
+
+### Herramientas web
+
+<sub>Aplicaciones web pequeñas que resuelven una tarea sin instalación.</sub>
+
+| | App | Qué es | Estrellas |
+|:--:|:--|:--|:--:|
+| <img src="https://raw.githubusercontent.com/smouj/gta-vi-download-time/main/assets/vi-tropical-mark.png" width="26" height="26" alt="Icono de GTA VI Download Time"> | **[GTA VI Download Time](https://github.com/smouj/gta-vi-download-time)**<br><sub>Estimador de descargas</sub> | Calculadora web que estima el tiempo de descarga a partir de la velocidad medida y un tamaño de juego ajustable; no requiere instalación.<br><sub>![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)</sub> | <a href="https://github.com/smouj/gta-vi-download-time/stargazers"><img src="https://img.shields.io/github/stars/smouj/gta-vi-download-time?style=flat-square&label=%E2%98%85&color=8B949E" alt="Estrellas de GTA VI Download Time en GitHub"></a> |
 
 
 ## Práctica
