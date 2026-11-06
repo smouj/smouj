@@ -92,6 +92,7 @@ The constraint is always the same. It has to work offline, on hardware people al
 | | App | What it is | Stars |
 |:--:|:--|:--|:--:|
 | <img src="assets/icons/latido.svg" width="26" height="26" alt=""> | **[Latido](https://github.com/smouj/latido)**<br><sub>Information</sub> | Local-first reader for Bluesky, HN, Reddit, Mastodon, RSS and GitHub.<br><sub>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)</sub> | <a href="https://github.com/smouj/latido/stargazers"><img src="https://img.shields.io/github/stars/smouj/latido?style=flat-square&label=%E2%98%85&color=8B949E" alt="0 stars"></a> |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smouj/presence/main/assets/branding/logo-white.png"><img src="https://raw.githubusercontent.com/smouj/presence/main/assets/branding/logo-dark.png" width="26" height="26" alt="Presence icon"></picture> | **[Presence](https://github.com/smouj/presence)**<br><sub>Social presence</sub> | Local-first dashboard for public profiles, setup checklists and metrics; it never publishes or asks for account credentials.<br><sub>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)</sub> | <a href="https://github.com/smouj/presence/stargazers"><img src="https://img.shields.io/github/stars/smouj/presence?style=flat-square&label=%E2%98%85&color=8B949E" alt="GitHub stars for Presence"></a> |
 
 ### Developer tools
 
@@ -100,6 +101,22 @@ The constraint is always the same. It has to work offline, on hardware people al
 | | App | What it is | Stars |
 |:--:|:--|:--|:--:|
 | <img src="assets/icons/nudo.png" width="26" height="26" alt=""> | **[NUDO](https://github.com/smouj/nudo)**<br><sub>Languages</sub> | A language for humans and agents to read, write and verify the same source.<br><sub>![Rust](https://img.shields.io/badge/Rust-B7410E?style=flat-square&logo=rust&logoColor=white)</sub> | <a href="https://github.com/smouj/nudo/stargazers"><img src="https://img.shields.io/github/stars/smouj/nudo?style=flat-square&label=%E2%98%85&color=8B949E" alt="0 stars"></a> |
+
+### Games
+
+<sub>Small games and fan projects.</sub>
+
+| | App | What it is | Stars |
+|:--:|:--|:--|:--:|
+| <img src="assets/icons/dbzlsw.svg" width="26" height="26" alt="DBZ LSW Fangame icon"> | **[DBZ LSW Fangame](https://github.com/smouj/dbz-lsw-fangame)**<br><sub>Unofficial fan project</sub> | Desktop-first fan project inspired by *Dragon Ball Z: Legendary Super Warriors*, with card combat built in React, TypeScript and PixiJS and a Tauri shell.<br><sub>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![PixiJS](https://img.shields.io/badge/PixiJS-E91E63?style=flat-square&logo=pixijs&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)</sub> | <a href="https://github.com/smouj/dbz-lsw-fangame/stargazers"><img src="https://img.shields.io/github/stars/smouj/dbz-lsw-fangame?style=flat-square&label=%E2%98%85&color=8B949E" alt="GitHub stars for DBZ LSW Fangame"></a> |
+
+### Web tools
+
+<sub>Small browser apps that do one job without an installation.</sub>
+
+| | App | What it is | Stars |
+|:--:|:--|:--|:--:|
+| <img src="https://raw.githubusercontent.com/smouj/gta-vi-download-time/main/assets/vi-tropical-mark.png" width="26" height="26" alt="GTA VI Download Time icon"> | **[GTA VI Download Time](https://github.com/smouj/gta-vi-download-time)**<br><sub>Download estimator</sub> | Browser calculator that estimates download time from a measured connection speed and adjustable game size; no installation required.<br><sub>![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)</sub> | <a href="https://github.com/smouj/gta-vi-download-time/stargazers"><img src="https://img.shields.io/github/stars/smouj/gta-vi-download-time?style=flat-square&label=%E2%98%85&color=8B949E" alt="GitHub stars for GTA VI Download Time"></a> |
 
 
 ## Practice
