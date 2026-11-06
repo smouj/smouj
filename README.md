@@ -135,6 +135,9 @@ The constraint is always the same. It has to work offline, on hardware people al
 **Runtime**  
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-1F242B?style=flat-square) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![GGUF](https://img.shields.io/badge/GGUF-4B5563?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-111827?style=flat-square&logo=ollama&logoColor=white)
 
+**Models and agents**  
+[![DeepSeek V4.1 Flash](https://img.shields.io/badge/DeepSeek-V4.1%20Flash-4D6BFF?style=flat-square&logo=deepseek&logoColor=white)](https://api-docs.deepseek.com/news/news261017/) [![Codex GPT-6.1 Sol](https://img.shields.io/badge/Codex-GPT--6.1%20Sol-412991?style=flat-square&logo=openai&logoColor=white)](https://learn.chatgpt.com/docs/models) [![Codex GPT-6.1 Terra](https://img.shields.io/badge/Codex-GPT--6.1%20Terra-412991?style=flat-square&logo=openai&logoColor=white)](https://learn.chatgpt.com/docs/models) [![Codex GPT-6 Luna](https://img.shields.io/badge/Codex-GPT--6%20Luna-412991?style=flat-square&logo=openai&logoColor=white)](https://learn.chatgpt.com/docs/models)
+
 **Interface**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white) ![WinUI 3](https://img.shields.io/badge/WinUI%203-0078D4?style=flat-square&logo=windows&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
 
