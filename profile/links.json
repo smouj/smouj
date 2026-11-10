@@ -49,6 +49,14 @@
       },
       "value": "Discord",
       "url": "https://discord.gg/BVWXWY5eUT"
+    },
+    {
+      "label": {
+        "en": "Links",
+        "es": "Enlaces"
+      },
+      "value": "smouj.github.io",
+      "url": "https://smouj.github.io"
     }
   ],
   "social": [

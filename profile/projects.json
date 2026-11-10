@@ -27,7 +27,7 @@
             "GGUF"
           ],
           "focus": "Local inference",
-          "stars": 9,
+          "stars": 10,
           "links": []
         },
         {
@@ -61,7 +61,25 @@
             "TypeScript"
           ],
           "focus": "Agent tooling",
-          "stars": 6,
+          "stars": 7,
+          "links": []
+        },
+        {
+          "id": "agentdnai",
+          "name": "AgentDNAI",
+          "repo": "agentdnai",
+          "url": "https://github.com/smouj/agentdnai",
+          "icon": "agentdnai.png",
+          "desc": {
+            "en": "Identity, authorization and audit control plane for AI agents, shipped as a self-hosted stack.",
+            "es": "Plano de control de identidad, autorización y auditoría para agentes de IA, autoalojado."
+          },
+          "tags": [
+            "Python",
+            "Docker"
+          ],
+          "focus": "Agent identity",
+          "stars": 0,
           "links": []
         }
       ]
@@ -73,8 +91,8 @@
         "es": "Escritorio Windows"
       },
       "deck": {
-        "en": "Native utilities for the machine on the desk: monitoring, cleaning, capture and hardware panels.",
-        "es": "Utilidades nativas para el equipo: monitorización, limpieza, captura y paneles de hardware."
+        "en": "Native utilities for the Windows machine on the desk: monitoring, cleaning and the OpenClaw control surface.",
+        "es": "Utilidades nativas para el Windows del escritorio: monitorización, limpieza y la superficie de control de OpenClaw."
       },
       "items": [
         {
@@ -145,23 +163,6 @@
           "focus": "Hardware panel",
           "stars": 0,
           "links": []
-        },
-        {
-          "id": "classicvoice",
-          "name": "ClassicVoice",
-          "repo": "classicvoice",
-          "url": "https://github.com/smouj/classicvoice",
-          "icon": "classicvoice.png",
-          "desc": {
-            "en": "Offline multilingual text-to-speech for Windows built on eSpeak NG voices.",
-            "es": "Síntesis de voz multilingüe offline para Windows sobre voces de eSpeak NG."
-          },
-          "tags": [
-            "Python"
-          ],
-          "focus": "Speech",
-          "stars": 0,
-          "links": []
         }
       ]
     },
@@ -207,7 +208,7 @@
             "JavaScript"
           ],
           "focus": "Live TV",
-          "stars": 1,
+          "stars": 10,
           "links": []
         },
         {
@@ -498,6 +499,54 @@
       ]
     },
     {
+      "id": "audio",
+      "title": {
+        "en": "Music and audio",
+        "es": "Música y audio"
+      },
+      "deck": {
+        "en": "Local sound tools: a studio for building music, and a speech engine that never uploads a sentence.",
+        "es": "Herramientas de sonido locales: un estudio para componer y un motor de voz que no sube ni una frase."
+      },
+      "items": [
+        {
+          "id": "cocoloop",
+          "name": "CocoLoop",
+          "repo": "cocoloop",
+          "url": "https://github.com/smouj/cocoloop",
+          "icon": "cocoloop.png",
+          "desc": {
+            "en": "Local-first DAW with Web Audio, WAV and MIDI export, and an editing API agents can validate.",
+            "es": "DAW local-first con Web Audio, exportación a WAV y MIDI y una API de edición que los agentes pueden validar."
+          },
+          "tags": [
+            "Electron",
+            "Python"
+          ],
+          "focus": "Music studio",
+          "stars": 1,
+          "links": []
+        },
+        {
+          "id": "classicvoice",
+          "name": "ClassicVoice",
+          "repo": "classicvoice",
+          "url": "https://github.com/smouj/classicvoice",
+          "icon": "classicvoice.png",
+          "desc": {
+            "en": "Offline multilingual text-to-speech for Windows built on eSpeak NG voices.",
+            "es": "Síntesis de voz multilingüe offline para Windows sobre voces de eSpeak NG."
+          },
+          "tags": [
+            "Python"
+          ],
+          "focus": "Speech",
+          "stars": 0,
+          "links": []
+        }
+      ]
+    },
+    {
       "id": "info",
       "title": {
         "en": "Reading and data",
@@ -509,14 +558,14 @@
       },
       "items": [
         {
-          "id": "latido",
-          "name": "Latido",
-          "repo": "latido",
-          "url": "https://github.com/smouj/latido",
-          "icon": "latido.svg",
+          "id": "avizor",
+          "name": "Avizor",
+          "repo": "avizor",
+          "url": "https://github.com/smouj/avizor",
+          "icon": "avizor.png",
           "desc": {
-            "en": "Local-first reader for Bluesky, HN, Reddit, Mastodon, RSS and GitHub.",
-            "es": "Lector local-first de Bluesky, HN, Reddit, Mastodon, RSS y GitHub."
+            "en": "Local-first pulse of the open web: groups what Bluesky, HN, Reddit, Mastodon, RSS and GitHub are saying, and alerts only when something grows.",
+            "es": "Pulso local-first de la web abierta: agrupa lo que dicen Bluesky, HN, Reddit, Mastodon, RSS y GitHub y avisa solo cuando algo crece."
           },
           "tags": [
             "TypeScript",
@@ -524,6 +573,23 @@
             "Tauri"
           ],
           "focus": "Information",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "presence",
+          "name": "Presence",
+          "repo": "presence",
+          "url": "https://github.com/smouj/presence",
+          "icon": "presence.png",
+          "desc": {
+            "en": "Local-first control panel for social accounts: one registry, setup checklists and metrics. No account, no telemetry, no publishing.",
+            "es": "Panel local-first para las cuentas sociales: un registro, listas de configuración y métricas. Sin cuenta, sin telemetría y sin publicar."
+          },
+          "tags": [
+            "Python"
+          ],
+          "focus": "Social ops",
           "stars": 0,
           "links": []
         }
@@ -617,8 +683,8 @@
         "es": "Juegos e investigación"
       },
       "deck": {
-        "en": "Small games, ROM tooling and engines built to be taken apart.",
-        "es": "Juegos pequeños, herramientas de ROM y motores hechos para desmontarlos."
+        "en": "Small games, ROM tooling, addons and fan work built to be taken apart.",
+        "es": "Juegos pequeños, herramientas de ROM, añadidos y fan work hechos para desmontarlos."
       },
       "items": [
         {
@@ -658,17 +724,53 @@
         {
           "id": "dbzlsw",
           "name": "DBZ LSW Fangame",
-          "repo": "dbzlsw-fangame",
-          "url": "https://github.com/smouj/dbzlsw-fangame",
+          "repo": "dbz-lsw-fangame",
+          "url": "https://github.com/smouj/dbz-lsw-fangame",
           "icon": "dbzlsw.svg",
           "desc": {
-            "en": "Fan game and research built on Dragon Ball Z: Legendary Super Warriors.",
-            "es": "Fan game e investigación sobre Dragon Ball Z: Legendary Super Warriors."
+            "en": "Desktop fan game inspired by Dragon Ball Z: Legendary Super Warriors, with card combat, four tactical positions and stage QTEs.",
+            "es": "Fan game de escritorio inspirado en Dragon Ball Z: Legendary Super Warriors, con combate de cartas, cuatro posiciones tácticas y QTE por escenario."
           },
           "tags": [
-            "Godot"
+            "TypeScript",
+            "React",
+            "Tauri"
           ],
-          "focus": "ROM game",
+          "focus": "Fan game",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "forever-hud",
+          "name": "Forever HUD",
+          "repo": "forever-hud",
+          "url": "https://github.com/smouj/forever-hud",
+          "icon": "forever-hud.png",
+          "desc": {
+            "en": "Dark-fantasy combat HUD for World of Warcraft: Forever, with three layouts and five accent colours.",
+            "es": "HUD de combate de fantasía oscura para World of Warcraft: Forever, con tres diseños y cinco colores de acento."
+          },
+          "tags": [
+            "Lua"
+          ],
+          "focus": "Game UI",
+          "stars": 0,
+          "links": []
+        },
+        {
+          "id": "buzzy",
+          "name": "Buzzy Pet",
+          "repo": "buzzy-pet-codex",
+          "url": "https://github.com/smouj/buzzy-pet-codex",
+          "icon": "buzzy.png",
+          "desc": {
+            "en": "Buzzy from Theme Park World as a transparent desktop companion: nine states, 57 frames.",
+            "es": "Buzzy de Theme Park World como mascota de escritorio transparente: nueve estados y 57 fotogramas."
+          },
+          "tags": [
+            "Python"
+          ],
+          "focus": "Desktop pet",
           "stars": 0,
           "links": []
         }

@@ -82,6 +82,8 @@ const badgeSpec = {
   Rust: ["B7410E", "rust", "white"],
   GDScript: ["478CBF", "godotengine", "white"],
   Kotlin: ["7F52FF", "kotlin", "white"],
+  Electron: ["47848F", "electron", "white"],
+  Lua: ["2C2D72", "lua", "white"],
   "llama.cpp": ["1F242B", null, null],
   CUDA: ["76B900", "nvidia", "white"],
   GGUF: ["4B5563", null, null],
